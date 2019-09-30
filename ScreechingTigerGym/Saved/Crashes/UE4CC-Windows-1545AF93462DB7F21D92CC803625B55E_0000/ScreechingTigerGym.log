@@ -1,0 +1,1397 @@
+﻿Log file open, 09/27/19 13:34:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ScreechingTigerGym
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.564390
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.27-19.34.23:625][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.27-19.34.23:625][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.27-19.34.23:625][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.34.23:625][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.27-19.34.23:625][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.34.23:625][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.34.23:625][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.27-19.34.23:625][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.27-19.34.23:625][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.27-19.34.23:625][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.27-19.34.23:625][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.27-19.34.23:625][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.27-19.34.23:626][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.34.23:626][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.34.23:632][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.27-19.34.23:632][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:632][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.27-19.34.23:633][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.27-19.34.23:634][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.27-19.34.23:634][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.27-19.34.23:640][  0]LogHAL: Display: Platform has ~ 32 GB [34270613504 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.27-19.34.23:640][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.27-19.34.23:640][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.27-19.34.23:640][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.27-19.34.23:640][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.27-19.34.23:640][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.27-19.34.23:641][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.27-19.34.23:644][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.27-19.34.23:644][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.27-19.34.23:645][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.34.23:646][  0]LogInit: Computer: DESKTOP-KL7125G
+[2019.09.27-19.34.23:646][  0]LogInit: User: KayXi
+[2019.09.27-19.34.23:646][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.09.27-19.34.23:646][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.27-19.34.23:646][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.09.27-19.34.23:646][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.27-19.34.23:646][  0]LogMemory: Process Physical Memory: 102.41 MB used, 102.42 MB peak
+[2019.09.27-19.34.23:646][  0]LogMemory: Process Virtual Memory: 100.57 MB used, 100.57 MB peak
+[2019.09.27-19.34.23:646][  0]LogMemory: Physical Memory: 5046.55 MB used,  27636.45 MB free, 32683.00 MB total
+[2019.09.27-19.34.23:646][  0]LogMemory: Virtual Memory: 4701.49 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2019.09.27-19.34.23:650][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.09.27-19.34.23:818][  0]LogInit: Using OS detected language (en-US).
+[2019.09.27-19.34.23:818][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.27-19.34.23:822][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.27-19.34.24:057][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.27-19.34.24:123][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.27-19.34.24:123][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.27-19.34.25:467][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.27-19.34.25:467][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.27-19.34.25:518][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2019.09.27-19.34.25:518][  0]LogD3D11RHI:       11049/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.27-19.34.25:519][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.27-19.34.25:519][  0]LogD3D11RHI:       0/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.27-19.34.25:519][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.27-19.34.25:525][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.27-19.34.25:525][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.27-19.34.25:525][  0]LogWindows: EnumDisplayDevices:
+[2019.09.27-19.34.25:526][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2019.09.27-19.34.25:526][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2019.09.27-19.34.25:526][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.09.27-19.34.25:526][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.09.27-19.34.25:526][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.27-19.34.25:526][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2019.09.27-19.34.25:526][  0]LogD3D11RHI:   Driver Version: 431.86 (internal:26.21.14.3186, unified:431.86)
+[2019.09.27-19.34.25:526][  0]LogD3D11RHI:      Driver Date: 8-27-2019
+[2019.09.27-19.34.25:526][  0]LogRHI: Texture pool is 7734 MB (70% of 11049 MB)
+[2019.09.27-19.34.25:561][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.27-19.34.25:578][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.27-19.34.25:959][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.27-19.34.25:966][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.27-19.34.25:973][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.27-19.34.25:980][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.27-19.34.25:990][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.27-19.34.25:998][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.27-19.34.26:006][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.27-19.34.26:013][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.27-19.34.26:018][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.27-19.34.26:048][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.27-19.34.26:050][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.27-19.34.26:072][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.27-19.34.26:072][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.27-19.34.26:082][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.27-19.34.26:082][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.27-19.34.26:088][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.27-19.34.26:094][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.27-19.34.26:100][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.27-19.34.26:111][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.27-19.34.26:132][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.27-19.34.26:132][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.27-19.34.26:132][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.27-19.34.26:164][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.27-19.34.26:271][  0]LogShaderCompilers: Guid format shader working directory is -65 characters bigger than the processId version (../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Intermediate/Shaders/WorkingDirectory/10284/).
+[2019.09.27-19.34.26:271][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/KayXi/AppData/Local/Temp/UnrealShaderWorkingDir/780E11A44C7CAC7F7296AB8A92915067/'.
+[2019.09.27-19.34.26:273][  0]LogXGEController: Cleaning working directory: C:/Users/KayXi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.27-19.34.26:273][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.27-19.34.26:274][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.27-19.34.26:274][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.27-19.34.27:747][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.27-19.34.27:919][  0]LogDerivedDataCache: Loaded boot cache 0.17s 73MB C:/Users/KayXi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.27-19.34.27:920][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/KayXi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.09.27-19.34.27:920][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.27-19.34.27:920][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.27-19.34.27:920][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.27-19.34.27:920][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.27-19.34.27:934][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.27-19.34.27:934][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.27-19.34.27:934][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.27-19.34.27:936][  0]LogDerivedDataCache: Using Local data cache path C:/Users/KayXi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.27-19.34.27:936][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.27-19.34.27:936][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.27-19.34.27:951][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.27-19.34.27:958][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.27-19.34.27:970][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.27-19.34.28:166][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2019.09.27-19.34.28:450][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.27-19.34.28:684][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.27-19.34.28:684][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.27-19.34.28:684][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.27-19.34.28:684][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.27-19.34.28:685][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.27-19.34.28:721][  0]LogNetVersion: ScreechingTigerGym 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2233981336)
+[2019.09.27-19.34.29:525][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.033959 seconds
+[2019.09.27-19.34.29:529][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.09.27-19.34.29:529][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.09.27-19.34.29:529][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.27-19.34.32:136][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.27-19.34.32:142][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.27-19.34.32:289][  0]SourceControl: Source control is disabled
+[2019.09.27-19.34.32:290][  0]SourceControl: Source control is disabled
+[2019.09.27-19.34.32:300][  0]SourceControl: Source control is disabled
+[2019.09.27-19.34.32:304][  0]SourceControl: Source control is disabled
+[2019.09.27-19.34.32:313][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.27-19.34.32:313][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.27-19.34.32:498][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.27-19.34.32:653][  0]LogOcInput: OculusInput pre-init called
+[2019.09.27-19.34.32:663][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.09.27-19.34.32:663][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.09.27-19.34.32:784][  0]LogEngine: Initializing Engine...
+[2019.09.27-19.34.32:786][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.27-19.34.32:788][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2019.09.27-19.34.33:096][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.27-19.34.33:129][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.27-19.34.33:162][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-19.34.33:173][  0]LogInit: FAudioDevice initialized.
+[2019.09.27-19.34.33:174][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.27-19.34.33:238][  0]LogDerivedDataCache: Saved boot cache 0.06s 73MB C:/Users/KayXi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.27-19.34.33:242][  0]LogInit: Texture streaming: Enabled
+[2019.09.27-19.34.33:262][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.27-19.34.33:451][  0]LogInit: Transaction tracking system initialized
+[2019.09.27-19.34.33:511][  0]BlueprintLog: New page: Editor Load
+[2019.09.27-19.34.33:652][  0]LocalizationService: Localization service is disabled
+[2019.09.27-19.34.33:777][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.27-19.34.33:778][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.27-19.34.34:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/' took 0.01s
+[2019.09.27-19.34.34:052][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.27-19.34.34:052][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.27-19.34.34:418][  0]SourceControl: Source control is disabled
+[2019.09.27-19.34.34:422][  0]LightingResults: New page: Lighting Build
+[2019.09.27-19.34.34:428][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-19.34.34:430][  0]MapCheck: New page: Map Check
+[2019.09.27-19.34.34:430][  0]LightingResults: New page: Lighting Build
+[2019.09.27-19.34.34:458][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.09.27-19.34.34:723][  0]LogLinker: Warning: While loading '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.27-19.34.34:723][  0]LogLinker: Warning: While loading '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.27-19.34.34:759][  0]LogLinker: Warning: While loading '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.27-19.34.34:759][  0]LogLinker: Warning: While loading '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.27-19.34.34:760][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.27-19.34.34:760][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.27-19.34.34:760][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.27-19.34.34:760][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.27-19.34.34:790][  0]LogLinker: Warning: While loading '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.27-19.34.34:790][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2019.09.27-19.34.34:790][  0]LogLinker: Warning: While loading '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.27-19.34.34:790][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2019.09.27-19.34.34:870][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.27-19.34.34:893][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-19.34.34:921][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.09.27-19.34.34:921][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-19.34.34:921][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.34ms to complete.
+[2019.09.27-19.34.34:921][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.503
+[2019.09.27-19.34.35:055][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.34.35:060][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.34.35:064][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.34.35:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.34.35:082][  0]LogCollectionManager: Loaded 0 collections in 0.001177 seconds
+[2019.09.27-19.34.35:099][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Collections/' took 0.00s
+[2019.09.27-19.34.35:099][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/Developers/KayXi/Collections/' took 0.00s
+[2019.09.27-19.34.35:099][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/Collections/' took 0.00s
+[2019.09.27-19.34.35:099][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.27-19.34.35:106][  0]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 2863 classes and 680 folders.
+[2019.09.27-19.34.35:117][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.27-19.34.35:350][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.27-19.34.35:362][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.09.27-19.34.35:419][  0]LogSlate: Took 0.004982 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.27-19.34.35:424][  0]LogSlate: Took 0.004688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.27-19.34.35:432][  0]LogSlate: Took 0.004017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.27-19.34.35:522][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.09.27-19.34.35:646][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.27-19.34.35:646][  0]LogLoad: (Engine Initialization) Total time: 15.91 seconds
+[2019.09.27-19.34.35:646][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.27-19.34.35:707][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.27-19.34.35:709][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-19.34.36:153][  9]LogAssetRegistry: Asset discovery search completed in 7.9869 seconds
+[2019.09.27-19.34.36:155][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.09.27-19.34.36:155][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2019.09.27-19.34.39:747][438]LogSlate: Took 0.004442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.27-19.35.08:858][931]LogSlate: Window 'Message Log' being destroyed
+[2019.09.27-19.35.08:862][931]LogSlate: Window 'Message Log' being destroyed
+[2019.09.27-19.35.09:931][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-19.35.10:174][ 77]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.27-19.35.10:179][ 77]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JacksonTest/JacksonBallPrimary.JacksonBallPrimary
+[2019.09.27-19.35.10:396][ 77]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.09.27-19.35.11:019][ 77]LogSlate: Took 0.004090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.27-19.35.11:210][ 78]LogSlate: Took 0.004314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.27-19.37.26:954][843]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JacksonTest/Wall.Wall
+[2019.09.27-19.42.16:493][372]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.27-19.42.16:496][372]LogAssetEditorManager: Opening Asset editor for World /Game/JacksonTest/TestMap1.TestMap1
+[2019.09.27-19.42.16:532][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.09.27-19.42.18:662][372]LogSlate: Window 'Save Content' being destroyed
+[2019.09.27-19.42.18:721][372]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Wall855D3F484333353FB20D76BC0616326F.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset'
+[2019.09.27-19.42.18:726][372]LightingResults: New page: Lighting Build
+[2019.09.27-19.42.18:726][372]LoadErrors: New page: Loading map: TestMap1.umap
+[2019.09.27-19.42.18:726][372]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-19.42.18:727][372]MapCheck: New page: Map Check
+[2019.09.27-19.42.18:727][372]LightingResults: New page: Lighting Build
+[2019.09.27-19.42.18:755][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.09.27-19.42.18:760][372]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-19.42.18:789][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.09.27-19.42.18:807][372]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-19.42.18:807][372]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2019.09.27-19.42.18:807][372]LogFileHelpers: Loading map 'TestMap1' took 0.082
+[2019.09.27-19.42.20:205][531]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-19.42.20:224][531]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.42.20:224][531]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.27-19.42.20:224][531]LogPlayLevel: [PlayLevel] Compiling Wall before play...
+[2019.09.27-19.42.20:373][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.09.27-19.42.20:374][531]LogPlayLevel: PlayLevel: Blueprint regeneration took 150 ms (1 blueprints)
+[2019.09.27-19.42.20:374][531]PIE: New page: PIE session: TestMap1 (Sep 27, 2019, 7:42:20 AM)
+[2019.09.27-19.42.20:375][531]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.09.27-19.42.20:376][531]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.42.20:378][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001681s)
+[2019.09.27-19.42.20:378][531]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.27-19.42.20:378][531]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2019.09.27-19.42.20:378][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.002533s)
+[2019.09.27-19.42.20:407][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.09.27-19.42.20:421][531]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-19.42.20:427][531]LogInit: FAudioDevice initialized.
+[2019.09.27-19.42.20:443][531]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.27-19.42.20:444][531]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.27-13.42.20
+[2019.09.27-19.42.20:445][531]LogWorld: Bringing up level for play took: 0.001480
+[2019.09.27-19.42.20:445][531]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.09.27-19.42.20:456][531]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.09.27-19.42.20:458][531]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 -0.633
+[2019.09.27-19.42.20:458][531]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.42.26:627][245]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-19.42.31:970][886]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] X=-1367.275 Y=633.857 Z=73.150
+[2019.09.27-19.42.36:928][481]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-19.42.39:978][847]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] X=-1670.363 Y=798.551 Z=73.150
+[2019.09.27-19.42.41:620][ 44]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-19.42.43:737][298]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] X=-1972.511 Y=835.148 Z=73.150
+[2019.09.27-19.42.46:354][612]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-19.42.57:120][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.42.57:123][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.42.57:123][904]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.42.57:123][904]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-19.42.57:133][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-19.42.57:133][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.42.57:174][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.42.57:191][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.09.27-19.42.57:234][906]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.09.27-19.42.58:726][ 85]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.09.27-19.42.58:726][ 85]Can't find target actor or component.
+[2019.09.27-19.43.00:038][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.27-19.43.03:581][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-19.43.03:673][670]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-19.43.03:686][670]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.43.03:686][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-19.43.03:686][670]PIE: New page: PIE session: TestMap1 (Sep 27, 2019, 7:43:03 AM)
+[2019.09.27-19.43.03:687][670]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.43.03:688][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001567s)
+[2019.09.27-19.43.03:689][670]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.27-19.43.03:689][670]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2019.09.27-19.43.03:689][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.002351s)
+[2019.09.27-19.43.03:722][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.09.27-19.43.03:733][670]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-19.43.03:739][670]LogInit: FAudioDevice initialized.
+[2019.09.27-19.43.03:744][670]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.27-19.43.03:745][670]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.27-13.43.03
+[2019.09.27-19.43.03:745][670]LogWorld: Bringing up level for play took: 0.000453
+[2019.09.27-19.43.03:745][670]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.09.27-19.43.03:747][670]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.657
+[2019.09.27-19.43.03:747][670]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.43.04:838][799]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.43.04:838][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.43.04:838][799]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.43.04:838][799]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-19.43.04:846][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-19.43.04:846][799]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.43.04:877][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.43.04:880][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.09.27-19.43.04:939][805]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.09.27-19.43.31:082][895]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-19.43.31:096][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.43.31:096][895]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.27-19.43.31:096][895]LogPlayLevel: [PlayLevel] Compiling Wall before play...
+[2019.09.27-19.43.31:276][895]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Wall6DA300074687ED306C46478CD8466EE1.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset'
+[2019.09.27-19.43.31:312][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.09.27-19.43.31:312][895]LogPlayLevel: PlayLevel: Blueprint regeneration took 215 ms (1 blueprints)
+[2019.09.27-19.43.31:312][895]PIE: New page: PIE session: TestMap1 (Sep 27, 2019, 7:43:31 AM)
+[2019.09.27-19.43.31:313][895]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.43.31:315][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001543s)
+[2019.09.27-19.43.31:315][895]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.27-19.43.31:315][895]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2019.09.27-19.43.31:315][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.002436s)
+[2019.09.27-19.43.31:343][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.09.27-19.43.31:356][895]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-19.43.31:362][895]LogInit: FAudioDevice initialized.
+[2019.09.27-19.43.31:369][895]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.27-19.43.31:370][895]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.27-13.43.31
+[2019.09.27-19.43.31:370][895]LogWorld: Bringing up level for play took: 0.000462
+[2019.09.27-19.43.31:370][895]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.09.27-19.43.31:372][895]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.281
+[2019.09.27-19.43.31:372][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.43.38:741][777]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-19.43.38:741][777]LogBlueprintUserMessages: [Wall_2] hit ture
+[2019.09.27-19.44.01:670][525]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.44.01:670][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.44.01:670][525]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.44.01:670][525]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-19.44.01:681][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-19.44.01:681][525]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.44.01:718][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.44.01:721][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.09.27-19.44.01:772][528]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.09.27-19.44.04:609][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-19.44.36:099][646]LogHttp: Warning: 000001F0020E7740: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-19.44.36:099][646]LogHttp: Warning: 000001F0020E7740: request failed, libcurl error: 0 (No error)
+[2019.09.27-19.44.36:099][646]LogHttp: Warning: 000001F0020E7740: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-19.44.36:099][646]LogHttp: Warning: 000001F0020E7740: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2019.09.27-19.44.36:099][646]LogHttp: Warning: 000001F0020E7740: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.212.249.236) port 443 (#2))
+[2019.09.27-19.44.36:099][646]LogHttp: Warning: 000001F0020E7740: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-19.44.36:099][646]LogHttp: Warning: 000001F0020E7740: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-19.44.36:099][646]LogHttp: Warning: 000001F0020E7740: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-19.44.36:099][646]LogHttp: Warning: 000001F0020E7740: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-19.44.36:099][646]LogHttp: Warning: 000001F0020E7740: libcurl info message cache 7 (Closing connection 2)
+[2019.09.27-19.44.36:099][646]LogHttp: Warning: 000001F0020E7740: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-19.44.36:099][646]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-19.45.42:702][893]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-19.45.42:717][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.45.42:717][893]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.27-19.45.42:717][893]LogPlayLevel: [PlayLevel] Compiling Wall before play...
+[2019.09.27-19.45.42:898][893]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/WallB0D0248D4D7D11543E35D4AB2F0CFA36.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset'
+[2019.09.27-19.45.42:937][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.09.27-19.45.42:937][893]LogPlayLevel: PlayLevel: Blueprint regeneration took 220 ms (1 blueprints)
+[2019.09.27-19.45.42:937][893]PIE: New page: PIE session: TestMap1 (Sep 27, 2019, 7:45:42 AM)
+[2019.09.27-19.45.42:937][893]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.45.42:939][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001594s)
+[2019.09.27-19.45.42:939][893]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.27-19.45.42:939][893]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2019.09.27-19.45.42:940][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.002383s)
+[2019.09.27-19.45.42:973][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.09.27-19.45.42:984][893]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-19.45.42:990][893]LogInit: FAudioDevice initialized.
+[2019.09.27-19.45.42:996][893]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.27-19.45.42:997][893]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.27-13.45.42
+[2019.09.27-19.45.42:997][893]LogWorld: Bringing up level for play took: 0.000476
+[2019.09.27-19.45.42:997][893]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.09.27-19.45.42:999][893]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 -0.092
+[2019.09.27-19.45.42:999][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.45.48:172][511]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-19.45.48:172][511]LogBlueprintUserMessages: [Wall_2] X=200.000 Y=200.000 Z=200.000
+[2019.09.27-19.45.56:806][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.45.56:806][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.45.56:806][547]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.45.56:806][547]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-19.45.56:813][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-19.45.56:813][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.45.56:843][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.45.56:846][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.09.27-19.45.56:908][551]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.09.27-19.46.01:308][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-19.46.01:375][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-19.46.01:388][ 86]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.46.01:388][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-19.46.01:388][ 86]PIE: New page: PIE session: TestMap1 (Sep 27, 2019, 7:46:01 AM)
+[2019.09.27-19.46.01:388][ 86]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.46.01:390][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001602s)
+[2019.09.27-19.46.01:391][ 86]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.27-19.46.01:391][ 86]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2019.09.27-19.46.01:391][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.002501s)
+[2019.09.27-19.46.01:424][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.09.27-19.46.01:435][ 86]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-19.46.01:441][ 86]LogInit: FAudioDevice initialized.
+[2019.09.27-19.46.01:447][ 86]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.27-19.46.01:448][ 86]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.27-13.46.01
+[2019.09.27-19.46.01:448][ 86]LogWorld: Bringing up level for play took: 0.000459
+[2019.09.27-19.46.01:448][ 86]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.09.27-19.46.01:450][ 86]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.359
+[2019.09.27-19.46.01:450][ 86]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.46.06:933][742]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-19.46.06:933][742]LogBlueprintUserMessages: [Wall_2] X=200.000 Y=200.000 Z=200.000
+[2019.09.27-19.46.09:151][  8]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.46.09:151][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.46.09:151][  8]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.46.09:151][  8]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-19.46.09:162][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-19.46.09:162][  8]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.46.09:197][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.46.09:200][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.09.27-19.46.09:251][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.09.27-19.46.12:020][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-19.49.39:637][155]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-19.49.39:651][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.49.39:651][155]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.27-19.49.39:651][155]LogPlayLevel: [PlayLevel] Compiling Wall before play...
+[2019.09.27-19.49.39:653][155]LogBlueprint: Error: [Compiler Wall] This blueprint (self) is not a MovementComponent, therefore ' Target ' must have a connection.
+[2019.09.27-19.49.39:653][155]LogBlueprint: Error: [Compiler Wall] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2019.09.27-19.49.39:653][155]LogBlueprint: Error: [Compiler Wall] Variable node  Set Velocity  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.09.27-19.49.39:653][155]LogBlueprint: Error: [Compiler Wall] Variable node  Set GravityScale  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.09.27-19.49.39:838][155]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Wall05A9C834468CBE82177526B7551E4347.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset'
+[2019.09.27-19.49.39:876][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.09.27-19.49.39:877][155]LogPlayLevel: PlayLevel: Blueprint regeneration took 225 ms (1 blueprints)
+[2019.09.27-19.49.39:877][155]BlueprintLog: Warning: Blueprint failed to compile:  Wall
+[2019.09.27-19.49.39:877][155]LogCustomDialog: Dialog displayed:
+[2019.09.27-19.49.47:669][155]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.09.27-19.49.49:372][341]LogSlate: Window 'Message Log' being destroyed
+[2019.09.27-19.49.49:376][341]LogSlate: Window 'Message Log' being destroyed
+[2019.09.27-19.50.23:080][356]BlueprintLog: New page: Compile Wall
+[2019.09.27-19.50.23:082][356]LogBlueprint: Error: [Compiler Wall] This blueprint (self) is not a MovementComponent, therefore ' Target ' must have a connection.
+[2019.09.27-19.50.23:082][356]LogBlueprint: Error: [Compiler Wall] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2019.09.27-19.50.23:082][356]LogBlueprint: Error: [Compiler Wall] Variable node  Set Velocity  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.09.27-19.50.23:082][356]LogBlueprint: Error: [Compiler Wall] Variable node  Set GravityScale  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.09.27-19.50.23:243][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.09.27-19.50.23:285][356]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Wall05C18273470FC89616647FA4193555DC.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset'
+[2019.09.27-19.51.17:777][835]BlueprintLog: New page: Compile Wall
+[2019.09.27-19.51.17:779][835]LogBlueprint: Error: [Compiler Wall] The type of  Object  is undetermined.  Connect something to  Cast To CharacterMovementComponent  to imply a specific type.
+[2019.09.27-19.51.17:779][835]LogBlueprint: Error: [Compiler Wall] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2019.09.27-19.51.17:946][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.09.27-19.51.17:987][835]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Wall1AA881CC464A80379A221DADCFE744CD.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset'
+[2019.09.27-19.51.33:206][657]BlueprintLog: New page: Compile Wall
+[2019.09.27-19.51.33:208][657]LogBlueprint: Warning: [Compiler Wall] 'Character Movement Component' does not inherit from 'Jackson Ball Primary' ( Cast To CharacterMovementComponent  would always fail).
+[2019.09.27-19.51.33:372][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.09.27-19.51.33:416][657]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/WallDE25AB8A4CC654EDA6AB72A93FE1ED70.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset'
+[2019.09.27-19.54.08:028][ 35]BlueprintLog: New page: Compile Wall
+[2019.09.27-19.54.08:029][ 35]LogBlueprint: Warning: [Compiler Wall] Could not find a variable named "CharacterMovement" in 'Wall_C'.
+Make sure 'Wall_C' has been compiled for  Get CharacterMovement
+[2019.09.27-19.54.08:030][ 35]LogBlueprint: Error: [Compiler Wall] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2019.09.27-19.54.08:030][ 35]LogBlueprint: Error: [Compiler Wall] The property associated with  Character Movement  could not be found in '/Game/JacksonTest/Wall.Wall_C'
+[2019.09.27-19.54.08:030][ 35]LogBlueprint: Error: [Compiler Wall] Variable node  Set GravityScale  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.09.27-19.54.08:197][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.09.27-19.54.08:239][ 35]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/WallAAEB8EC44A1F70F63B456988B9EBF860.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset'
+[2019.09.27-19.56.21:594][803]BlueprintLog: New page: Compile Wall
+[2019.09.27-19.56.21:596][803]LogBlueprint: Warning: [Compiler Wall] 'Character Movement Component' does not inherit from 'Jackson Ball Primary' ( Cast To CharacterMovementComponent  would always fail).
+[2019.09.27-19.56.21:761][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.09.27-19.56.21:809][803]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Wall4167DEC74E0753E55E513AA7D8BF4B6B.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset'
+[2019.09.27-19.56.25:034][187]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-19.56.25:047][187]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.56.25:047][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-19.56.25:047][187]PIE: New page: PIE session: TestMap1 (Sep 27, 2019, 7:56:25 AM)
+[2019.09.27-19.56.25:047][187]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.56.25:049][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001767s)
+[2019.09.27-19.56.25:050][187]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.27-19.56.25:050][187]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2019.09.27-19.56.25:050][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.002536s)
+[2019.09.27-19.56.25:084][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.09.27-19.56.25:096][187]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-19.56.25:103][187]LogInit: FAudioDevice initialized.
+[2019.09.27-19.56.25:111][187]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.27-19.56.25:112][187]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.27-13.56.25
+[2019.09.27-19.56.25:112][187]LogWorld: Bringing up level for play took: 0.000546
+[2019.09.27-19.56.25:112][187]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.09.27-19.56.25:114][187]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.024
+[2019.09.27-19.56.25:115][187]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.56.31:008][892]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-19.56.34:609][324]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] X=-1062.145 Y=647.255 Z=73.150
+[2019.09.27-19.56.35:724][458]LogHttp: Warning: 000001F00440B100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-19.56.35:724][458]LogHttp: Warning: 000001F00440B100: request failed, libcurl error: 0 (No error)
+[2019.09.27-19.56.35:724][458]LogHttp: Warning: 000001F00440B100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-19.56.35:724][458]LogHttp: Warning: 000001F00440B100: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2019.09.27-19.56.35:724][458]LogHttp: Warning: 000001F00440B100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.194.131.148) port 443 (#8))
+[2019.09.27-19.56.35:724][458]LogHttp: Warning: 000001F00440B100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-19.56.35:724][458]LogHttp: Warning: 000001F00440B100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-19.56.35:724][458]LogHttp: Warning: 000001F00440B100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-19.56.35:724][458]LogHttp: Warning: 000001F00440B100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-19.56.35:724][458]LogHttp: Warning: 000001F00440B100: libcurl info message cache 7 (Closing connection 8)
+[2019.09.27-19.56.35:724][458]LogHttp: Warning: 000001F00440B100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-19.56.35:724][458]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-19.56.44:559][518]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-19.56.50:418][221]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] X=-1062.146 Y=569.439 Z=73.150
+[2019.09.27-19.56.52:036][415]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.56.52:036][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.56.52:036][415]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.56.52:036][415]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-19.56.52:046][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-19.56.52:046][415]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.56.52:083][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.56.52:086][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.09.27-19.56.52:142][418]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.09.27-19.56.53:834][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-19.57.30:895][  9]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-19.57.30:909][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.57.30:909][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-19.57.30:909][  9]PIE: New page: PIE session: TestMap1 (Sep 27, 2019, 7:57:30 AM)
+[2019.09.27-19.57.30:910][  9]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.57.30:911][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001677s)
+[2019.09.27-19.57.30:912][  9]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.27-19.57.30:912][  9]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2019.09.27-19.57.30:912][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.002451s)
+[2019.09.27-19.57.30:943][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.09.27-19.57.30:954][  9]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-19.57.30:960][  9]LogInit: FAudioDevice initialized.
+[2019.09.27-19.57.30:964][  9]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.27-19.57.30:965][  9]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.27-13.57.30
+[2019.09.27-19.57.30:965][  9]LogWorld: Bringing up level for play took: 0.000472
+[2019.09.27-19.57.30:965][  9]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.09.27-19.57.30:967][  9]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 -0.124
+[2019.09.27-19.57.30:967][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.57.35:903][596]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-19.57.42:178][349]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] X=-1062.150 Y=679.042 Z=73.150
+[2019.09.27-19.57.45:070][696]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-19.57.47:044][933]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] X=-1061.682 Y=678.652 Z=73.150
+[2019.09.27-19.57.49:536][232]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-19.57.50:578][357]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] X=-1062.150 Y=678.262 Z=73.150
+[2019.09.27-19.57.53:403][696]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.57.53:403][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.57.53:403][696]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-19.57.53:403][696]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-19.57.53:417][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-19.57.53:417][696]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-19.57.53:454][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.57.53:457][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.09.27-19.57.53:506][698]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.09.27-19.58.09:423][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-19.58.36:815][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.09.27-19.58.36:973][106]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/TestMap1_Auto13E8770764659E7B4C37A748F7A36940D.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Autosaves/Game/JacksonTest/TestMap1_Auto1.umap'
+[2019.09.27-19.58.36:975][106]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JacksonTest/TestMap1' took 0.189
+[2019.09.27-19.58.36:975][106]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.189
+[2019.09.27-19.58.36:977][106]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/JacksonTest/Wall] ([1] browsable assets)...
+[2019.09.27-19.58.36:977][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/JacksonTest/Wall]
+[2019.09.27-19.58.36:995][106]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Wall_Auto158D665FC4670FA49AC299E9C89EA6EBB.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Autosaves/Game/JacksonTest/Wall_Auto1.uasset'
+[2019.09.27-19.58.36:996][106]LogFileHelpers: Auto-saving content packages took 0.019
+[2019.09.27-20.22.36:107][408]LogHttp: Warning: 000001F01EAB82C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-20.22.36:107][408]LogHttp: Warning: 000001F01EAB82C0: request failed, libcurl error: 0 (No error)
+[2019.09.27-20.22.36:107][408]LogHttp: Warning: 000001F01EAB82C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-20.22.36:107][408]LogHttp: Warning: 000001F01EAB82C0: libcurl info message cache 1 (Re-using existing connection! (#20) with host datarouter.ol.epicgames.com)
+[2019.09.27-20.22.36:107][408]LogHttp: Warning: 000001F01EAB82C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.200.58.248) port 443 (#20))
+[2019.09.27-20.22.36:107][408]LogHttp: Warning: 000001F01EAB82C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-20.22.36:107][408]LogHttp: Warning: 000001F01EAB82C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-20.22.36:107][408]LogHttp: Warning: 000001F01EAB82C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-20.22.36:107][408]LogHttp: Warning: 000001F01EAB82C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-20.22.36:107][408]LogHttp: Warning: 000001F01EAB82C0: libcurl info message cache 7 (Closing connection 20)
+[2019.09.27-20.22.36:107][408]LogHttp: Warning: 000001F01EAB82C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-20.22.36:107][408]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-20.49.36:250][248]LogHttp: Warning: 000001F01EAB9080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-20.49.36:250][248]LogHttp: Warning: 000001F01EAB9080: request failed, libcurl error: 0 (No error)
+[2019.09.27-20.49.36:250][248]LogHttp: Warning: 000001F01EAB9080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-20.49.36:250][248]LogHttp: Warning: 000001F01EAB9080: libcurl info message cache 1 (Re-using existing connection! (#32) with host datarouter.ol.epicgames.com)
+[2019.09.27-20.49.36:250][248]LogHttp: Warning: 000001F01EAB9080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.80.69.247) port 443 (#32))
+[2019.09.27-20.49.36:250][248]LogHttp: Warning: 000001F01EAB9080: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-20.49.36:250][248]LogHttp: Warning: 000001F01EAB9080: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-20.49.36:250][248]LogHttp: Warning: 000001F01EAB9080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-20.49.36:251][248]LogHttp: Warning: 000001F01EAB9080: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-20.49.36:251][248]LogHttp: Warning: 000001F01EAB9080: libcurl info message cache 7 (Closing connection 32)
+[2019.09.27-20.49.36:251][248]LogHttp: Warning: 000001F01EAB9080: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-20.49.36:251][248]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-20.54.36:225][144]LogHttp: Warning: 000001F01EABB600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-20.54.36:225][144]LogHttp: Warning: 000001F01EABB600: request failed, libcurl error: 0 (No error)
+[2019.09.27-20.54.36:225][144]LogHttp: Warning: 000001F01EABB600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-20.54.36:225][144]LogHttp: Warning: 000001F01EABB600: libcurl info message cache 1 (Re-using existing connection! (#34) with host datarouter.ol.epicgames.com)
+[2019.09.27-20.54.36:225][144]LogHttp: Warning: 000001F01EABB600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.54.243.91) port 443 (#34))
+[2019.09.27-20.54.36:225][144]LogHttp: Warning: 000001F01EABB600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-20.54.36:225][144]LogHttp: Warning: 000001F01EABB600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-20.54.36:225][144]LogHttp: Warning: 000001F01EABB600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-20.54.36:225][144]LogHttp: Warning: 000001F01EABB600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-20.54.36:225][144]LogHttp: Warning: 000001F01EABB600: libcurl info message cache 7 (Closing connection 34)
+[2019.09.27-20.54.36:225][144]LogHttp: Warning: 000001F01EABB600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-20.54.36:225][144]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-21.05.36:191][116]LogHttp: Warning: 000001F01EAB91C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-21.05.36:191][116]LogHttp: Warning: 000001F01EAB91C0: request failed, libcurl error: 0 (No error)
+[2019.09.27-21.05.36:191][116]LogHttp: Warning: 000001F01EAB91C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-21.05.36:191][116]LogHttp: Warning: 000001F01EAB91C0: libcurl info message cache 1 (Re-using existing connection! (#39) with host datarouter.ol.epicgames.com)
+[2019.09.27-21.05.36:191][116]LogHttp: Warning: 000001F01EAB91C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.164.240.160) port 443 (#39))
+[2019.09.27-21.05.36:191][116]LogHttp: Warning: 000001F01EAB91C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-21.05.36:191][116]LogHttp: Warning: 000001F01EAB91C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-21.05.36:191][116]LogHttp: Warning: 000001F01EAB91C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-21.05.36:191][116]LogHttp: Warning: 000001F01EAB91C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-21.05.36:191][116]LogHttp: Warning: 000001F01EAB91C0: libcurl info message cache 7 (Closing connection 39)
+[2019.09.27-21.05.36:191][116]LogHttp: Warning: 000001F01EAB91C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-21.05.36:192][116]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-21.28.36:230][240]LogHttp: Warning: 000001F01EABA840: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-21.28.36:230][240]LogHttp: Warning: 000001F01EABA840: request failed, libcurl error: 0 (No error)
+[2019.09.27-21.28.36:230][240]LogHttp: Warning: 000001F01EABA840: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-21.28.36:230][240]LogHttp: Warning: 000001F01EABA840: libcurl info message cache 1 (Re-using existing connection! (#50) with host datarouter.ol.epicgames.com)
+[2019.09.27-21.28.36:230][240]LogHttp: Warning: 000001F01EABA840: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.23.98.45) port 443 (#50))
+[2019.09.27-21.28.36:230][240]LogHttp: Warning: 000001F01EABA840: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-21.28.36:230][240]LogHttp: Warning: 000001F01EABA840: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-21.28.36:230][240]LogHttp: Warning: 000001F01EABA840: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-21.28.36:230][240]LogHttp: Warning: 000001F01EABA840: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-21.28.36:230][240]LogHttp: Warning: 000001F01EABA840: libcurl info message cache 7 (Closing connection 50)
+[2019.09.27-21.28.36:230][240]LogHttp: Warning: 000001F01EABA840: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-21.28.36:230][240]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-21.48.36:209][825]LogHttp: Warning: 000001F01EABA340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-21.48.36:209][825]LogHttp: Warning: 000001F01EABA340: request failed, libcurl error: 0 (No error)
+[2019.09.27-21.48.36:209][825]LogHttp: Warning: 000001F01EABA340: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-21.48.36:209][825]LogHttp: Warning: 000001F01EABA340: libcurl info message cache 1 (Re-using existing connection! (#59) with host datarouter.ol.epicgames.com)
+[2019.09.27-21.48.36:209][825]LogHttp: Warning: 000001F01EABA340: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.102.187) port 443 (#59))
+[2019.09.27-21.48.36:209][825]LogHttp: Warning: 000001F01EABA340: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-21.48.36:209][825]LogHttp: Warning: 000001F01EABA340: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-21.48.36:209][825]LogHttp: Warning: 000001F01EABA340: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-21.48.36:209][825]LogHttp: Warning: 000001F01EABA340: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-21.48.36:209][825]LogHttp: Warning: 000001F01EABA340: libcurl info message cache 7 (Closing connection 59)
+[2019.09.27-21.48.36:209][825]LogHttp: Warning: 000001F01EABA340: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-21.48.36:539][826]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-21.53.36:162][721]LogHttp: Warning: 000001F01EAB8180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-21.53.36:162][721]LogHttp: Warning: 000001F01EAB8180: request failed, libcurl error: 0 (No error)
+[2019.09.27-21.53.36:162][721]LogHttp: Warning: 000001F01EAB8180: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-21.53.36:162][721]LogHttp: Warning: 000001F01EAB8180: libcurl info message cache 1 (Re-using existing connection! (#61) with host datarouter.ol.epicgames.com)
+[2019.09.27-21.53.36:162][721]LogHttp: Warning: 000001F01EAB8180: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.232.136.228) port 443 (#61))
+[2019.09.27-21.53.36:162][721]LogHttp: Warning: 000001F01EAB8180: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-21.53.36:162][721]LogHttp: Warning: 000001F01EAB8180: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-21.53.36:162][721]LogHttp: Warning: 000001F01EAB8180: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-21.53.36:162][721]LogHttp: Warning: 000001F01EAB8180: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-21.53.36:162][721]LogHttp: Warning: 000001F01EAB8180: libcurl info message cache 7 (Closing connection 61)
+[2019.09.27-21.53.36:162][721]LogHttp: Warning: 000001F01EAB8180: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-21.53.36:487][722]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-22.25.36:205][458]LogHttp: Warning: 000001F01EAB9440: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-22.25.36:205][458]LogHttp: Warning: 000001F01EAB9440: request failed, libcurl error: 0 (No error)
+[2019.09.27-22.25.36:205][458]LogHttp: Warning: 000001F01EAB9440: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-22.25.36:205][458]LogHttp: Warning: 000001F01EAB9440: libcurl info message cache 1 (Re-using existing connection! (#76) with host datarouter.ol.epicgames.com)
+[2019.09.27-22.25.36:205][458]LogHttp: Warning: 000001F01EAB9440: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.127.66) port 443 (#76))
+[2019.09.27-22.25.36:205][458]LogHttp: Warning: 000001F01EAB9440: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-22.25.36:205][458]LogHttp: Warning: 000001F01EAB9440: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-22.25.36:205][458]LogHttp: Warning: 000001F01EAB9440: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-22.25.36:205][458]LogHttp: Warning: 000001F01EAB9440: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-22.25.36:205][458]LogHttp: Warning: 000001F01EAB9440: libcurl info message cache 7 (Closing connection 76)
+[2019.09.27-22.25.36:205][458]LogHttp: Warning: 000001F01EAB9440: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-22.25.36:206][458]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-23.02.36:255][ 91]LogHttp: Warning: 000001F01EAB9A80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-23.02.36:255][ 91]LogHttp: Warning: 000001F01EAB9A80: request failed, libcurl error: 0 (No error)
+[2019.09.27-23.02.36:255][ 91]LogHttp: Warning: 000001F01EAB9A80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-23.02.36:255][ 91]LogHttp: Warning: 000001F01EAB9A80: libcurl info message cache 1 (Re-using existing connection! (#92) with host datarouter.ol.epicgames.com)
+[2019.09.27-23.02.36:255][ 91]LogHttp: Warning: 000001F01EAB9A80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.86.3.71) port 443 (#92))
+[2019.09.27-23.02.36:255][ 91]LogHttp: Warning: 000001F01EAB9A80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-23.02.36:255][ 91]LogHttp: Warning: 000001F01EAB9A80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-23.02.36:255][ 91]LogHttp: Warning: 000001F01EAB9A80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-23.02.36:255][ 91]LogHttp: Warning: 000001F01EAB9A80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-23.02.36:255][ 91]LogHttp: Warning: 000001F01EAB9A80: libcurl info message cache 7 (Closing connection 92)
+[2019.09.27-23.02.36:255][ 91]LogHttp: Warning: 000001F01EAB9A80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-23.02.36:590][ 92]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-23.12.54:786][362]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallPrimary_Child43E4C11842CC8C69EF46A882B91461B6.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallPrimary_Child.uasset'
+[2019.09.27-23.13.00:985][ 97]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JacksonTest/JacksonBallPrimary_Child.JacksonBallPrimary_Child
+[2019.09.27-23.13.13:715][570]LogEditorTransaction: Undo Modify Component(s)
+[2019.09.27-23.13.15:313][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.13.17:558][ 22]LogEditorTransaction: Undo Modify Component(s)
+[2019.09.27-23.13.18:889][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.13.25:822][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.13.30:431][548]LogRenderer: Reallocating scene render targets to support 1652x808 Format 10 NumSamples 1 (Frame:1).
+[2019.09.27-23.13.35:768][186]LogHttp: Warning: 000001EF8AEE9580: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-23.13.35:768][186]LogHttp: Warning: 000001EF8AEE9580: request failed, libcurl error: 0 (No error)
+[2019.09.27-23.13.35:768][186]LogHttp: Warning: 000001EF8AEE9580: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-23.13.35:768][186]LogHttp: Warning: 000001EF8AEE9580: libcurl info message cache 1 (Re-using existing connection! (#97) with host datarouter.ol.epicgames.com)
+[2019.09.27-23.13.35:768][186]LogHttp: Warning: 000001EF8AEE9580: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.42.24) port 443 (#97))
+[2019.09.27-23.13.35:768][186]LogHttp: Warning: 000001EF8AEE9580: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-23.13.35:768][186]LogHttp: Warning: 000001EF8AEE9580: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-23.13.35:768][186]LogHttp: Warning: 000001EF8AEE9580: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-23.13.35:768][186]LogHttp: Warning: 000001EF8AEE9580: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-23.13.35:768][186]LogHttp: Warning: 000001EF8AEE9580: libcurl info message cache 7 (Closing connection 97)
+[2019.09.27-23.13.35:768][186]LogHttp: Warning: 000001EF8AEE9580: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-23.13.35:768][186]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-23.13.36:423][264]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall)
+[2019.09.27-23.13.37:107][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.14.15:733][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.14.18:390][209]Cmd: DELETE
+[2019.09.27-23.14.18:390][209]Cmd: ACTOR DELETE
+[2019.09.27-23.14.18:395][209]LogEditorActor: Deleted Actor: JacksonBallPrimary_Child_C
+[2019.09.27-23.14.18:443][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.09.27-23.14.18:443][209]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.09.27-23.14.19:613][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.14.21:363][545]Cmd: DELETE
+[2019.09.27-23.14.21:363][545]Cmd: ACTOR DELETE
+[2019.09.27-23.14.21:364][545]LogEditorActor: Deleted Actor: JacksonBallPrimary_C
+[2019.09.27-23.14.21:406][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.09.27-23.14.21:406][545]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.09.27-23.14.22:127][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.14.23:864][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.09.27-23.14.24:971][835]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.27-23.14.24:993][835]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-23.14.25:032][835]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/JacksonTest/JacksonBallPrimary_Child.JacksonBallPrimary_Child
+[2019.09.27-23.14.25:434][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.09.27-23.14.25:629][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.09.27-23.14.25:662][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.09.27-23.14.25:694][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.09.27-23.14.29:009][215]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall)
+[2019.09.27-23.14.30:309][368]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.09.27-23.14.33:987][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.15.18:127][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.09.27-23.15.18:297][142]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/TestMap1_Auto265621C414643D396A419AAB35B034D2B.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Autosaves/Game/JacksonTest/TestMap1_Auto2.umap'
+[2019.09.27-23.15.18:302][142]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JacksonTest/TestMap1' took 0.206
+[2019.09.27-23.15.18:302][142]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.206
+[2019.09.27-23.17.06:868][467]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-23.17.06:884][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.17.06:884][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-23.17.06:884][467]PIE: New page: PIE session: TestMap1 (Sep 27, 2019, 11:17:06 AM)
+[2019.09.27-23.17.06:884][467]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-23.17.06:886][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001786s)
+[2019.09.27-23.17.06:886][467]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.27-23.17.06:887][467]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2019.09.27-23.17.06:887][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.002615s)
+[2019.09.27-23.17.06:917][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.09.27-23.17.06:929][467]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-23.17.06:935][467]LogInit: FAudioDevice initialized.
+[2019.09.27-23.17.06:946][467]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.27-23.17.06:947][467]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.27-17.17.06
+[2019.09.27-23.17.06:947][467]LogWorld: Bringing up level for play took: 0.000514
+[2019.09.27-23.17.06:947][467]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.09.27-23.17.06:949][467]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 -0.142
+[2019.09.27-23.17.06:949][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.17.13:552][249]PIE: Warning: Mobility of /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.JacksonBallPrimary_C_0 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.09.27-23.17.23:233][409]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-23.17.30:121][235]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.17.30:121][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-23.17.30:122][235]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-23.17.30:122][235]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-23.17.30:135][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-23.17.30:135][235]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.17.30:172][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-23.17.30:175][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.09.27-23.17.30:182][235]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-23.17.30:228][236]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.09.27-23.17.31:408][368]LogSlate: Window 'Message Log' being destroyed
+[2019.09.27-23.17.31:412][368]LogSlate: Window 'Message Log' being destroyed
+[2019.09.27-23.18.36:207][933]LogHttp: Warning: 000001F0038979C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-23.18.36:207][933]LogHttp: Warning: 000001F0038979C0: request failed, libcurl error: 0 (No error)
+[2019.09.27-23.18.36:207][933]LogHttp: Warning: 000001F0038979C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-23.18.36:207][933]LogHttp: Warning: 000001F0038979C0: libcurl info message cache 1 (Re-using existing connection! (#99) with host datarouter.ol.epicgames.com)
+[2019.09.27-23.18.36:207][933]LogHttp: Warning: 000001F0038979C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.124.39) port 443 (#99))
+[2019.09.27-23.18.36:207][933]LogHttp: Warning: 000001F0038979C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-23.18.36:207][933]LogHttp: Warning: 000001F0038979C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-23.18.36:207][933]LogHttp: Warning: 000001F0038979C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-23.18.36:207][933]LogHttp: Warning: 000001F0038979C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-23.18.36:207][933]LogHttp: Warning: 000001F0038979C0: libcurl info message cache 7 (Closing connection 99)
+[2019.09.27-23.18.36:207][933]LogHttp: Warning: 000001F0038979C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-23.18.36:527][934]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-23.22.23:980][810]LogRenderer: Reallocating scene render targets to support 1656x808 Format 10 NumSamples 1 (Frame:107460).
+[2019.09.27-23.22.24:051][817]LogRenderer: Reallocating scene render targets to support 1660x808 Format 10 NumSamples 1 (Frame:107468).
+[2019.09.27-23.22.24:083][819]LogRenderer: Reallocating scene render targets to support 1668x808 Format 10 NumSamples 1 (Frame:107472).
+[2019.09.27-23.22.24:099][820]LogRenderer: Reallocating scene render targets to support 1672x808 Format 10 NumSamples 1 (Frame:107474).
+[2019.09.27-23.22.24:115][821]LogRenderer: Reallocating scene render targets to support 1680x808 Format 10 NumSamples 1 (Frame:107476).
+[2019.09.27-23.22.24:131][822]LogRenderer: Reallocating scene render targets to support 1688x808 Format 10 NumSamples 1 (Frame:107478).
+[2019.09.27-23.22.24:147][823]LogRenderer: Reallocating scene render targets to support 1696x808 Format 10 NumSamples 1 (Frame:107480).
+[2019.09.27-23.22.24:162][824]LogRenderer: Reallocating scene render targets to support 1700x808 Format 10 NumSamples 1 (Frame:107482).
+[2019.09.27-23.22.24:177][825]LogRenderer: Reallocating scene render targets to support 1708x808 Format 10 NumSamples 1 (Frame:107484).
+[2019.09.27-23.22.24:193][826]LogRenderer: Reallocating scene render targets to support 1716x808 Format 10 NumSamples 1 (Frame:107486).
+[2019.09.27-23.22.24:209][827]LogRenderer: Reallocating scene render targets to support 1724x808 Format 10 NumSamples 1 (Frame:107488).
+[2019.09.27-23.22.24:225][828]LogRenderer: Reallocating scene render targets to support 1728x808 Format 10 NumSamples 1 (Frame:107490).
+[2019.09.27-23.22.24:241][829]LogRenderer: Reallocating scene render targets to support 1736x808 Format 10 NumSamples 1 (Frame:107492).
+[2019.09.27-23.22.24:257][830]LogRenderer: Reallocating scene render targets to support 1740x808 Format 10 NumSamples 1 (Frame:107494).
+[2019.09.27-23.22.24:790][892]LogRenderer: Reallocating scene render targets to support 1744x808 Format 10 NumSamples 1 (Frame:107558).
+[2019.09.27-23.22.24:850][898]LogRenderer: Reallocating scene render targets to support 1748x808 Format 10 NumSamples 1 (Frame:107566).
+[2019.09.27-23.22.24:888][901]LogRenderer: Reallocating scene render targets to support 1752x808 Format 10 NumSamples 1 (Frame:107571).
+[2019.09.27-23.22.24:920][903]LogRenderer: Reallocating scene render targets to support 1756x808 Format 10 NumSamples 1 (Frame:107575).
+[2019.09.27-23.22.24:967][906]LogRenderer: Reallocating scene render targets to support 1760x808 Format 10 NumSamples 1 (Frame:107581).
+[2019.09.27-23.22.24:999][908]LogRenderer: Reallocating scene render targets to support 1764x808 Format 10 NumSamples 1 (Frame:107585).
+[2019.09.27-23.22.25:031][910]LogRenderer: Reallocating scene render targets to support 1768x808 Format 10 NumSamples 1 (Frame:107589).
+[2019.09.27-23.22.25:152][923]LogRenderer: Reallocating scene render targets to support 1772x808 Format 10 NumSamples 1 (Frame:107604).
+[2019.09.27-23.22.25:226][931]LogRenderer: Reallocating scene render targets to support 1776x808 Format 10 NumSamples 1 (Frame:107614).
+[2019.09.27-23.22.25:286][937]LogRenderer: Reallocating scene render targets to support 1780x808 Format 10 NumSamples 1 (Frame:107622).
+[2019.09.27-23.22.30:109][501]LogRenderer: Reallocating scene render targets to support 1780x812 Format 10 NumSamples 1 (Frame:108204).
+[2019.09.27-23.22.30:142][503]LogRenderer: Reallocating scene render targets to support 1780x820 Format 10 NumSamples 1 (Frame:108208).
+[2019.09.27-23.22.30:159][504]LogRenderer: Reallocating scene render targets to support 1780x828 Format 10 NumSamples 1 (Frame:108210).
+[2019.09.27-23.22.30:173][505]LogRenderer: Reallocating scene render targets to support 1780x836 Format 10 NumSamples 1 (Frame:108212).
+[2019.09.27-23.22.30:189][506]LogRenderer: Reallocating scene render targets to support 1780x844 Format 10 NumSamples 1 (Frame:108214).
+[2019.09.27-23.22.30:205][507]LogRenderer: Reallocating scene render targets to support 1780x856 Format 10 NumSamples 1 (Frame:108216).
+[2019.09.27-23.22.30:221][508]LogRenderer: Reallocating scene render targets to support 1780x868 Format 10 NumSamples 1 (Frame:108218).
+[2019.09.27-23.22.30:237][509]LogRenderer: Reallocating scene render targets to support 1780x876 Format 10 NumSamples 1 (Frame:108220).
+[2019.09.27-23.22.30:254][510]LogRenderer: Reallocating scene render targets to support 1780x888 Format 10 NumSamples 1 (Frame:108222).
+[2019.09.27-23.22.30:269][511]LogRenderer: Reallocating scene render targets to support 1780x896 Format 10 NumSamples 1 (Frame:108224).
+[2019.09.27-23.22.30:285][512]LogRenderer: Reallocating scene render targets to support 1780x900 Format 10 NumSamples 1 (Frame:108226).
+[2019.09.27-23.22.30:301][513]LogRenderer: Reallocating scene render targets to support 1780x908 Format 10 NumSamples 1 (Frame:108228).
+[2019.09.27-23.22.30:317][514]LogRenderer: Reallocating scene render targets to support 1780x912 Format 10 NumSamples 1 (Frame:108230).
+[2019.09.27-23.22.30:334][515]LogRenderer: Reallocating scene render targets to support 1780x916 Format 10 NumSamples 1 (Frame:108232).
+[2019.09.27-23.22.30:349][516]LogRenderer: Reallocating scene render targets to support 1780x920 Format 10 NumSamples 1 (Frame:108234).
+[2019.09.27-23.22.30:365][517]LogRenderer: Reallocating scene render targets to support 1780x924 Format 10 NumSamples 1 (Frame:108236).
+[2019.09.27-23.22.30:381][518]LogRenderer: Reallocating scene render targets to support 1780x928 Format 10 NumSamples 1 (Frame:108238).
+[2019.09.27-23.22.30:397][519]LogRenderer: Reallocating scene render targets to support 1780x932 Format 10 NumSamples 1 (Frame:108240).
+[2019.09.27-23.22.30:429][521]LogRenderer: Reallocating scene render targets to support 1780x936 Format 10 NumSamples 1 (Frame:108244).
+[2019.09.27-23.22.30:445][522]LogRenderer: Reallocating scene render targets to support 1780x940 Format 10 NumSamples 1 (Frame:108246).
+[2019.09.27-23.22.30:461][523]LogRenderer: Reallocating scene render targets to support 1780x944 Format 10 NumSamples 1 (Frame:108248).
+[2019.09.27-23.22.30:477][524]LogRenderer: Reallocating scene render targets to support 1780x948 Format 10 NumSamples 1 (Frame:108250).
+[2019.09.27-23.22.30:493][525]LogRenderer: Reallocating scene render targets to support 1780x952 Format 10 NumSamples 1 (Frame:108252).
+[2019.09.27-23.22.30:524][527]LogRenderer: Reallocating scene render targets to support 1780x956 Format 10 NumSamples 1 (Frame:108256).
+[2019.09.27-23.22.30:567][529]LogRenderer: Reallocating scene render targets to support 1780x960 Format 10 NumSamples 1 (Frame:108260).
+[2019.09.27-23.22.30:582][530]LogRenderer: Reallocating scene render targets to support 1780x964 Format 10 NumSamples 1 (Frame:108262).
+[2019.09.27-23.22.30:597][531]LogRenderer: Reallocating scene render targets to support 1780x968 Format 10 NumSamples 1 (Frame:108264).
+[2019.09.27-23.22.30:614][532]LogRenderer: Reallocating scene render targets to support 1780x972 Format 10 NumSamples 1 (Frame:108266).
+[2019.09.27-23.22.30:645][534]LogRenderer: Reallocating scene render targets to support 1780x976 Format 10 NumSamples 1 (Frame:108270).
+[2019.09.27-23.22.30:661][535]LogRenderer: Reallocating scene render targets to support 1780x980 Format 10 NumSamples 1 (Frame:108272).
+[2019.09.27-23.22.30:677][536]LogRenderer: Reallocating scene render targets to support 1780x984 Format 10 NumSamples 1 (Frame:108274).
+[2019.09.27-23.22.30:693][537]LogRenderer: Reallocating scene render targets to support 1780x992 Format 10 NumSamples 1 (Frame:108276).
+[2019.09.27-23.22.30:709][538]LogRenderer: Reallocating scene render targets to support 1780x996 Format 10 NumSamples 1 (Frame:108278).
+[2019.09.27-23.22.30:725][539]LogRenderer: Reallocating scene render targets to support 1780x1000 Format 10 NumSamples 1 (Frame:108280).
+[2019.09.27-23.22.30:741][540]LogRenderer: Reallocating scene render targets to support 1780x1008 Format 10 NumSamples 1 (Frame:108282).
+[2019.09.27-23.22.30:757][541]LogRenderer: Reallocating scene render targets to support 1780x1012 Format 10 NumSamples 1 (Frame:108284).
+[2019.09.27-23.22.30:773][542]LogRenderer: Reallocating scene render targets to support 1780x1016 Format 10 NumSamples 1 (Frame:108286).
+[2019.09.27-23.22.30:789][543]LogRenderer: Reallocating scene render targets to support 1780x1020 Format 10 NumSamples 1 (Frame:108288).
+[2019.09.27-23.22.30:961][562]LogRenderer: Reallocating scene render targets to support 1780x1024 Format 10 NumSamples 1 (Frame:108309).
+[2019.09.27-23.22.33:482][835]LogRenderer: Reallocating scene render targets to support 1792x1024 Format 10 NumSamples 1 (Frame:108616).
+[2019.09.27-23.22.33:498][836]LogRenderer: Reallocating scene render targets to support 1808x1024 Format 10 NumSamples 1 (Frame:108618).
+[2019.09.27-23.22.33:516][837]LogRenderer: Reallocating scene render targets to support 1820x1024 Format 10 NumSamples 1 (Frame:108620).
+[2019.09.27-23.22.33:532][838]LogRenderer: Reallocating scene render targets to support 1832x1024 Format 10 NumSamples 1 (Frame:108622).
+[2019.09.27-23.22.33:548][839]LogRenderer: Reallocating scene render targets to support 1844x1024 Format 10 NumSamples 1 (Frame:108624).
+[2019.09.27-23.22.33:564][840]LogRenderer: Reallocating scene render targets to support 1856x1024 Format 10 NumSamples 1 (Frame:108626).
+[2019.09.27-23.22.33:580][841]LogRenderer: Reallocating scene render targets to support 1864x1024 Format 10 NumSamples 1 (Frame:108628).
+[2019.09.27-23.22.33:596][842]LogRenderer: Reallocating scene render targets to support 1868x1024 Format 10 NumSamples 1 (Frame:108630).
+[2019.09.27-23.22.33:612][843]LogRenderer: Reallocating scene render targets to support 1872x1024 Format 10 NumSamples 1 (Frame:108632).
+[2019.09.27-23.22.33:666][847]LogRenderer: Reallocating scene render targets to support 1876x1024 Format 10 NumSamples 1 (Frame:108639).
+[2019.09.27-23.22.33:697][849]LogRenderer: Reallocating scene render targets to support 1880x1024 Format 10 NumSamples 1 (Frame:108643).
+[2019.09.27-23.22.33:713][850]LogRenderer: Reallocating scene render targets to support 1884x1024 Format 10 NumSamples 1 (Frame:108645).
+[2019.09.27-23.22.33:729][851]LogRenderer: Reallocating scene render targets to support 1888x1024 Format 10 NumSamples 1 (Frame:108647).
+[2019.09.27-23.22.33:744][852]LogRenderer: Reallocating scene render targets to support 1892x1024 Format 10 NumSamples 1 (Frame:108649).
+[2019.09.27-23.22.33:760][853]LogRenderer: Reallocating scene render targets to support 1900x1024 Format 10 NumSamples 1 (Frame:108651).
+[2019.09.27-23.22.33:778][854]LogRenderer: Reallocating scene render targets to support 1904x1024 Format 10 NumSamples 1 (Frame:108653).
+[2019.09.27-23.22.33:793][855]LogRenderer: Reallocating scene render targets to support 1908x1024 Format 10 NumSamples 1 (Frame:108655).
+[2019.09.27-23.23.04:576][528]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall)
+[2019.09.27-23.24.03:019][434]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall)
+[2019.09.27-23.24.07:841][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.09.27-23.24.08:542][ 77]Cmd: DELETE
+[2019.09.27-23.24.08:542][ 77]Cmd: ACTOR DELETE
+[2019.09.27-23.24.08:543][ 77]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.27-23.24.08:576][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.09.27-23.24.08:576][ 77]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.09.27-23.24.10:009][248]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall)
+[2019.09.27-23.24.10:202][268]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.09.27-23.24.15:591][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.25.23:960][ 64]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.09.27-23.25.23:991][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-23.25.46:737][424]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-23.25.52:678][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-23.25.56:451][480]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-23.25.56:755][514]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-23.25.56:840][523]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-23.25.57:411][590]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-23.25.58:182][679]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-23.26.09:395][826]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall)
+[2019.09.27-23.26.55:437][271]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.09.27-23.27.35:813][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.09.27-23.27.35:974][302]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/TestMap1_Auto3585E842749D4141922C4FDB459F80C84.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/Autosaves/Game/JacksonTest/TestMap1_Auto3.umap'
+[2019.09.27-23.27.35:976][302]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JacksonTest/TestMap1' took 0.196
+[2019.09.27-23.27.35:976][302]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.196
+[2019.09.27-23.28.32:979][474]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-23.28.47:161][980]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.09.27-23.29.27:245][877]LogSlate: Window 'Project Settings' being destroyed
+[2019.09.27-23.29.27:249][877]LogSlate: Window 'Project Settings' being destroyed
+[2019.09.27-23.31.16:796][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.27-23.31.17:266][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.32.17:755][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.27-23.32.21:302][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.32.27:870][633]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.09.27-23.32.27:885][633]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-23.32.29:711][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.27-23.32.30:904][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.33.35:728][490]LogHttp: Warning: 000001F083D00680: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.27-23.33.35:728][490]LogHttp: Warning: 000001F083D00680: request failed, libcurl error: 0 (No error)
+[2019.09.27-23.33.35:728][490]LogHttp: Warning: 000001F083D00680: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef9e6cff70 [can pipeline])
+[2019.09.27-23.33.35:728][490]LogHttp: Warning: 000001F083D00680: libcurl info message cache 1 (Re-using existing connection! (#104) with host datarouter.ol.epicgames.com)
+[2019.09.27-23.33.35:728][490]LogHttp: Warning: 000001F083D00680: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.236.85.100) port 443 (#104))
+[2019.09.27-23.33.35:728][490]LogHttp: Warning: 000001F083D00680: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.27-23.33.35:728][490]LogHttp: Warning: 000001F083D00680: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.27-23.33.35:728][490]LogHttp: Warning: 000001F083D00680: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.27-23.33.35:728][490]LogHttp: Warning: 000001F083D00680: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.27-23.33.35:728][490]LogHttp: Warning: 000001F083D00680: libcurl info message cache 7 (Closing connection 104)
+[2019.09.27-23.33.35:728][490]LogHttp: Warning: 000001F083D00680: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.27-23.33.35:728][490]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B956E7372-4413-9E0D-DC2D-0BB04B7610F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=40249acf4771147a2e0836906b00aff3%7Cc4dd87db6adb4cf782df11e3d49ff788%7C77a203ba-077e-4ff8-8057-479e0cbfc618&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.27-23.35.04:723][315]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.09.27-23.35.04:727][315]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.09.27-23.35.09:939][850]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.09.27-23.47.48:136][639]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.27-23.47.48:136][639]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2019.09.27-23.49.04:300][692]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.27-23.49.04:300][692]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.27-23.49.20:578][202]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-23.49.20:593][202]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.49.20:593][202]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.27-23.49.20:605][202]LogPlayLevel: [PlayLevel] Compiling JacksonBallPrimary before play...
+[2019.09.27-23.49.20:913][202]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallPrimaryD18D0A9448DC6E593BE4B6900C3D2651.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallPrimary.uasset'
+[2019.09.27-23.49.20:989][202]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.09.27-23.49.20:989][202]LogPlayLevel: PlayLevel: Blueprint regeneration took 396 ms (1 blueprints)
+[2019.09.27-23.49.20:989][202]PIE: New page: PIE session: TestMap1 (Sep 27, 2019, 11:49:20 AM)
+[2019.09.27-23.49.20:990][202]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-23.49.20:991][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001631s)
+[2019.09.27-23.49.20:992][202]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.27-23.49.20:992][202]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2019.09.27-23.49.20:992][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.002471s)
+[2019.09.27-23.49.21:047][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.09.27-23.49.21:058][202]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-23.49.21:064][202]LogInit: FAudioDevice initialized.
+[2019.09.27-23.49.21:072][202]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.27-23.49.21:073][202]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.27-17.49.21
+[2019.09.27-23.49.21:073][202]LogWorld: Bringing up level for play took: 0.000481
+[2019.09.27-23.49.21:073][202]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.09.27-23.49.21:075][202]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 -0.016
+[2019.09.27-23.49.21:075][202]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.49.23:019][398]LogSlate: Window 'Project Settings' being destroyed
+[2019.09.27-23.49.23:023][398]LogSlate: Window 'Project Settings' being destroyed
+[2019.09.27-23.49.25:976][749]PIE: Warning: Mobility of /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.JacksonBallPrimary_C_0 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.09.27-23.49.32:317][510]PIE: Warning: Mobility of /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.JacksonBallSecondary_C_0 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.09.27-23.49.34:384][758]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.49.34:385][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-23.49.34:385][758]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-23.49.34:385][758]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-23.49.34:391][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-23.49.34:391][758]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.49.34:425][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-23.49.34:428][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.09.27-23.49.34:436][758]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-23.49.34:494][760]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.09.27-23.49.36:144][943]LogSlate: Window 'Message Log' being destroyed
+[2019.09.27-23.49.36:149][943]LogSlate: Window 'Message Log' being destroyed
+[2019.09.27-23.50.17:243][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.27-23.50.19:243][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.50.19:291][ 15]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-23.50.19:305][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.50.19:305][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-23.50.19:305][ 15]PIE: New page: PIE session: TestMap1 (Sep 27, 2019, 11:50:19 AM)
+[2019.09.27-23.50.19:305][ 15]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-23.50.19:307][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001565s)
+[2019.09.27-23.50.19:307][ 15]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.27-23.50.19:308][ 15]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2019.09.27-23.50.19:308][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.002296s)
+[2019.09.27-23.50.19:339][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.09.27-23.50.19:350][ 15]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-23.50.19:356][ 15]LogInit: FAudioDevice initialized.
+[2019.09.27-23.50.19:369][ 15]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.27-23.50.19:370][ 15]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.27-17.50.19
+[2019.09.27-23.50.19:370][ 15]LogWorld: Bringing up level for play took: 0.000551
+[2019.09.27-23.50.19:370][ 15]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.09.27-23.50.19:373][ 15]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.281
+[2019.09.27-23.50.19:373][ 15]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.50.34:962][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.50.34:962][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-23.50.34:962][869]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-23.50.34:962][869]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-23.50.34:969][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-23.50.34:969][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.50.35:003][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-23.50.35:006][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.09.27-23.50.35:064][872]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.09.27-23.50.37:566][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-23.50.40:329][422]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JacksonTest/JacksonBallSecondary.JacksonBallSecondary
+[2019.09.27-23.51.28:305][ 33]LogEditorTransaction: Undo Create Pin Link
+[2019.09.27-23.53.39:451][325]Cmd: TRANSACTION UNDO
+[2019.09.27-23.53.39:451][325]LogEditorTransaction: Undo Create Pin Link
+[2019.09.27-23.53.48:005][134]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-23.53.48:022][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.53.48:022][134]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.27-23.53.48:042][134]LogPlayLevel: [PlayLevel] Compiling JacksonBallPrimary before play...
+[2019.09.27-23.53.48:316][134]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallPrimary9728CAA94987C79ADB8C1294EE2FC4FD.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallPrimary.uasset'
+[2019.09.27-23.53.48:331][134]LogPlayLevel: [PlayLevel] Compiling JacksonBallSecondary before play...
+[2019.09.27-23.53.48:339][134]LogBlueprint: Error: [Compiler JacksonBallSecondary] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.09.27-23.53.48:581][134]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallSecondary7DA1F1D64FD8E6916C3559B0FF48D5F6.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallSecondary.uasset'
+[2019.09.27-23.53.48:626][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.09.27-23.53.48:626][134]LogPlayLevel: PlayLevel: Blueprint regeneration took 604 ms (2 blueprints)
+[2019.09.27-23.53.48:626][134]BlueprintLog: Warning: Blueprint failed to compile:  JacksonBallSecondary
+[2019.09.27-23.53.48:626][134]LogCustomDialog: Dialog displayed:
+[2019.09.27-23.53.52:157][134]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.09.27-23.53.53:766][260]LogSlate: Window 'Message Log' being destroyed
+[2019.09.27-23.53.53:770][260]LogSlate: Window 'Message Log' being destroyed
+[2019.09.27-23.54.06:695][518]BlueprintLog: New page: Compile JacksonBallSecondary
+[2019.09.27-23.54.06:906][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.09.27-23.54.07:016][518]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallSecondary0219AD314FADCC789DE199AF656811FA.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallSecondary.uasset'
+[2019.09.27-23.54.46:839][340]BlueprintLog: New page: Compile JacksonBallSecondary
+[2019.09.27-23.54.47:055][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.09.27-23.54.47:166][340]LogSavePackage: Moving '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallSecondary57B3D2EC4F2722A962FBE48EAF4BED5D.tmp' to '../../../../../Users/KayXi/Downloads/Screeching-Tiger-20190927T021607Z-001/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallSecondary.uasset'
+[2019.09.27-23.54.48:406][449]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-23.54.48:423][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.54.48:423][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-23.54.48:423][449]PIE: New page: PIE session: TestMap1 (Sep 27, 2019, 11:54:48 AM)
+[2019.09.27-23.54.48:423][449]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-23.54.48:424][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001607s)
+[2019.09.27-23.54.48:425][449]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.27-23.54.48:425][449]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2019.09.27-23.54.48:425][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.002379s)
+[2019.09.27-23.54.48:458][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.09.27-23.54.48:469][449]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-23.54.48:475][449]LogInit: FAudioDevice initialized.
+[2019.09.27-23.54.48:486][449]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.27-23.54.48:487][449]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.27-17.54.48
+[2019.09.27-23.54.48:487][449]LogWorld: Bringing up level for play took: 0.000584
+[2019.09.27-23.54.48:487][449]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.09.27-23.54.48:489][449]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 -0.601
+[2019.09.27-23.54.48:489][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.54.54:407][936]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.27-23.54.55:478][ 38]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] X=-892.917 Y=628.227 Z=73.150
+[2019.09.27-23.55.05:160][951]PIE: Warning: Mobility of /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.JacksonBallSecondary_C_0 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.09.27-23.55.21:152][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.55.21:152][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-23.55.21:152][481]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.27-23.55.21:152][481]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-23.55.21:158][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-23.55.21:158][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.27-23.55.21:195][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-23.55.21:198][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.09.27-23.55.21:205][481]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-23.55.21:255][483]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.09.27-23.55.23:000][637]LogSlate: Window 'Message Log' being destroyed
+[2019.09.27-23.55.23:006][637]LogSlate: Window 'Message Log' being destroyed
+[2019.09.27-23.55.30:972][329]LogRenderer: Reallocating scene render targets to support 2068x1024 Format 10 NumSamples 1 (Frame:2983).
+[2019.09.27-23.56.03:480][685]LogUObjectArray: Warning: Other object in slot
+[2019.09.27-23.56.03:482][685]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.27-23.56.03:841][685]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.360 s
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: 
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: Stack: 
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff96e9a41e9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff96e1c7d9a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff96e1d5fff UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff963676c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff961d54dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff961d0e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff96f19d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff96f38c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff96f1e922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff96f1c5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff96f1b9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff977c04c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff977bf26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff977c07340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff977beedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff9bfc1681d USER32.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff9bfc16212 USER32.dll!UnknownFunction []
+[2019.09.27-23.56.03:841][685]LogOutputDevice: Error: [Callstack] 0x00007ff977c088e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.27-23.56.03:842][685]LogOutputDevice: Error: [Callstack] 0x00007ff64bf16980 UE4Editor.exe!UnknownFunction []
+[2019.09.27-23.56.03:842][685]LogOutputDevice: Error: [Callstack] 0x00007ff64bf2a91c UE4Editor.exe!UnknownFunction []
+[2019.09.27-23.56.03:842][685]LogOutputDevice: Error: [Callstack] 0x00007ff64bf2a9fa UE4Editor.exe!UnknownFunction []
+[2019.09.27-23.56.03:842][685]LogOutputDevice: Error: [Callstack] 0x00007ff64bf3b92c UE4Editor.exe!UnknownFunction []
+[2019.09.27-23.56.03:842][685]LogOutputDevice: Error: [Callstack] 0x00007ff64bf3e60e UE4Editor.exe!UnknownFunction []
+[2019.09.27-23.56.03:842][685]LogOutputDevice: Error: [Callstack] 0x00007ff9c03a7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.09.27-23.56.03:842][685]LogOutputDevice: Error: [Callstack] 0x00007ff9c1a0cee1 ntdll.dll!UnknownFunction []
+[2019.09.27-23.56.03:842][685]LogOutputDevice: Error: 
+[2019.09.27-23.56.03:846][685]LogStats:                SubmitErrorReport -  0.000 s
