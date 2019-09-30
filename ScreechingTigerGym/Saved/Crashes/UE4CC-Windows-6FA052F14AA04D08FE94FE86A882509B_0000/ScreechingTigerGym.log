@@ -1,0 +1,1541 @@
+﻿Log file open, 09/26/19 14:35:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ScreechingTigerGym
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.067054
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.26-20.35.37:268][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.26-20.35.37:268][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.26-20.35.37:269][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.26-20.35.37:269][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.26-20.35.37:277][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.26-20.35.37:277][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.26-20.35.37:278][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.26-20.35.37:278][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.26-20.35.37:278][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.26-20.35.37:282][  0]LogHAL: Display: Platform has ~ 32 GB [34297425920 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.26-20.35.37:282][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.26-20.35.37:282][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.26-20.35.37:282][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.26-20.35.37:283][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Config/Windows/Engine.ini]
+[2019.09.26-20.35.37:283][  0]LogInit: Computer: eae-z97-035
+[2019.09.26-20.35.37:283][  0]LogInit: User: u0859782
+[2019.09.26-20.35.37:283][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.26-20.35.37:283][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.26-20.35.37:283][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.09.26-20.35.37:283][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.26-20.35.37:283][  0]LogMemory: Process Physical Memory: 101.21 MB used, 101.22 MB peak
+[2019.09.26-20.35.37:283][  0]LogMemory: Process Virtual Memory: 100.63 MB used, 100.63 MB peak
+[2019.09.26-20.35.37:283][  0]LogMemory: Physical Memory: 8782.02 MB used,  23926.56 MB free, 32708.57 MB total
+[2019.09.26-20.35.37:283][  0]LogMemory: Virtual Memory: 4668.24 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.09.26-20.35.37:286][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.09.26-20.35.37:310][  0]LogInit: Using OS detected language (en-US).
+[2019.09.26-20.35.37:310][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.26-20.35.37:310][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.26-20.35.37:509][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.26-20.35.37:552][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.26-20.35.37:552][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.26-20.35.37:720][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.26-20.35.37:720][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.26-20.35.37:776][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.09.26-20.35.37:776][  0]LogD3D11RHI:       8088/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.26-20.35.37:778][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.26-20.35.37:778][  0]LogD3D11RHI:       0/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.26-20.35.37:778][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.26-20.35.37:784][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.26-20.35.37:784][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.26-20.35.37:784][  0]LogWindows: EnumDisplayDevices:
+[2019.09.26-20.35.37:784][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.09.26-20.35.37:785][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.09.26-20.35.37:785][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.09.26-20.35.37:785][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.09.26-20.35.37:785][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.26-20.35.37:785][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.09.26-20.35.37:785][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.09.26-20.35.37:785][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.09.26-20.35.37:785][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.09.26-20.35.37:830][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.26-20.35.37:844][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.26-20.35.38:228][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.26-20.35.38:238][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.26-20.35.38:247][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.26-20.35.38:257][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.26-20.35.38:268][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.26-20.35.38:280][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.26-20.35.38:291][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.26-20.35.38:301][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.26-20.35.38:306][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.26-20.35.38:341][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.26-20.35.38:343][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.26-20.35.38:362][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.26-20.35.38:362][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.26-20.35.38:377][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.26-20.35.38:377][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.26-20.35.38:384][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.26-20.35.38:392][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.26-20.35.38:401][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.26-20.35.38:410][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.26-20.35.38:437][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.26-20.35.38:437][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.26-20.35.38:437][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.26-20.35.38:446][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.26-20.35.38:500][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Intermediate/Shaders/WorkingDirectory/4676/).
+[2019.09.26-20.35.38:500][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u0859782/AppData/Local/Temp/UnrealShaderWorkingDir/A1EF7ECA4C6AA17AF85C67946257F957/'.
+[2019.09.26-20.35.38:503][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.26-20.35.38:503][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.26-20.35.38:503][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.26-20.35.39:135][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.26-20.35.39:194][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/u0859782/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.26-20.35.39:194][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u0859782/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.09.26-20.35.39:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.26-20.35.39:195][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.26-20.35.39:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.26-20.35.39:195][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.26-20.35.39:207][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.26-20.35.39:207][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.26-20.35.39:207][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.26-20.35.39:209][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u0859782/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.26-20.35.39:209][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.26-20.35.39:209][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.26-20.35.39:231][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.26-20.35.39:233][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.26-20.35.39:234][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.26-20.35.39:291][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2019.09.26-20.35.39:577][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.26-20.35.39:745][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.26-20.35.39:745][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.26-20.35.39:745][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.26-20.35.39:745][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.26-20.35.39:745][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.26-20.35.39:755][  0]LogNetVersion: ScreechingTigerGym 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2233981336)
+[2019.09.26-20.35.40:245][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.063286 seconds
+[2019.09.26-20.35.40:253][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.09.26-20.35.40:253][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.09.26-20.35.40:253][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.26-20.35.41:246][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.26-20.35.41:250][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.26-20.35.41:317][  0]SourceControl: Source control is disabled
+[2019.09.26-20.35.41:317][  0]SourceControl: Source control is disabled
+[2019.09.26-20.35.41:318][  0]SourceControl: Source control is disabled
+[2019.09.26-20.35.41:320][  0]SourceControl: Source control is disabled
+[2019.09.26-20.35.41:413][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.26-20.35.41:591][  0]LogOcInput: OculusInput pre-init called
+[2019.09.26-20.35.41:598][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.09.26-20.35.41:598][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.09.26-20.35.41:667][  0]LogEngine: Initializing Engine...
+[2019.09.26-20.35.41:668][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.26-20.35.41:669][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.26-20.35.41:902][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.26-20.35.41:923][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.26-20.35.41:960][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-20.35.41:978][  0]LogInit: FAudioDevice initialized.
+[2019.09.26-20.35.41:978][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.26-20.35.42:086][  0]LogDerivedDataCache: Saved boot cache 0.11s 73MB C:/Users/u0859782/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.26-20.35.42:095][  0]LogInit: Texture streaming: Enabled
+[2019.09.26-20.35.42:117][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.26-20.35.42:193][  0]LogInit: Transaction tracking system initialized
+[2019.09.26-20.35.42:239][  0]BlueprintLog: New page: Editor Load
+[2019.09.26-20.35.42:355][  0]LocalizationService: Localization service is disabled
+[2019.09.26-20.35.42:658][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/' took 0.01s
+[2019.09.26-20.35.42:659][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.26-20.35.42:659][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.26-20.35.42:891][  0]SourceControl: Source control is disabled
+[2019.09.26-20.35.42:891][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.26-20.35.42:892][  0]LightingResults: New page: Lighting Build
+[2019.09.26-20.35.42:895][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-20.35.42:895][  0]MapCheck: New page: Map Check
+[2019.09.26-20.35.42:895][  0]LightingResults: New page: Lighting Build
+[2019.09.26-20.35.42:920][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.09.26-20.35.43:156][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.09.26-20.35.43:206][  0]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.26-20.35.43:207][  0]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.26-20.35.43:236][  0]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.26-20.35.43:236][  0]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.26-20.35.43:238][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.26-20.35.43:239][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.26-20.35.43:239][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.26-20.35.43:239][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.26-20.35.43:252][  0]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.26-20.35.43:252][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2019.09.26-20.35.43:252][  0]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.09.26-20.35.43:252][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2019.09.26-20.35.43:395][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.26-20.35.43:406][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.26-20.35.43:433][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.09.26-20.35.43:433][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.26-20.35.43:434][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.225ms to complete.
+[2019.09.26-20.35.43:434][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.542
+[2019.09.26-20.35.43:550][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.35.43:558][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.35.43:567][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.35.43:575][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.35.43:581][  0]LogCollectionManager: Loaded 0 collections in 0.001924 seconds
+[2019.09.26-20.35.43:591][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Collections/' took 0.00s
+[2019.09.26-20.35.43:591][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/Developers/u0859782/Collections/' took 0.00s
+[2019.09.26-20.35.43:591][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/Collections/' took 0.00s
+[2019.09.26-20.35.43:591][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.26-20.35.43:600][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2863 classes and 680 folders.
+[2019.09.26-20.35.43:609][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.26-20.35.43:654][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.26-20.35.43:659][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.09.26-20.35.43:674][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.26-20.35.43:677][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.26-20.35.43:682][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.26-20.35.43:750][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.09.26-20.35.43:847][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.26-20.35.43:847][  0]LogLoad: (Engine Initialization) Total time: 7.87 seconds
+[2019.09.26-20.35.43:847][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.26-20.35.43:875][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.26-20.35.43:877][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-20.35.44:876][109]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.26-20.35.46:062][240]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-20.35.46:066][240]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-20.35.47:914][461]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.26-20.35.48:881][575]LogAssetRegistry: Asset discovery search completed in 9.5915 seconds
+[2019.09.26-20.35.48:886][575]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.09.26-20.35.48:886][575]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2019.09.26-20.35.52:247][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.36.03:799][360]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/BBBalls/RollingBP/Blueprints/PhysicsBallBP.uasset' failed to load '/Game/Rolling/Meshes/BallMesh': Can't find file.
+[2019.09.26-20.36.03:799][360]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/BBBalls/RollingBP/Blueprints/PhysicsBallBP.uasset' failed to load '/Game/Rolling/Meshes/BallMesh': Can't find file.
+[2019.09.26-20.36.03:799][360]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/BBBalls/RollingBP/Blueprints/PhysicsBallBP.uasset' failed to load '/Game/Rolling/Meshes/BallMesh': Can't find file.
+[2019.09.26-20.36.03:800][360]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/BBBalls/RollingBP/Blueprints/PhysicsBallBP.uasset' failed to load '/Game/Rolling/Meshes/BallMesh': Can't find file.
+[2019.09.26-20.36.03:801][360]LogLinker: Warning: Failed to load '/Game/Rolling/Meshes/BallMesh': Can't find file.
+[2019.09.26-20.36.03:802][360]LogLinker: Warning: Failed to load '/Game/Rolling/Meshes/BallMesh': Can't find file.
+[2019.09.26-20.36.03:802][360]LogLinker: Warning: Failed to load '/Game/Rolling/Meshes/BallMesh': Can't find file.
+[2019.09.26-20.36.03:802][360]LogLinker: Warning: Failed to load '/Game/Rolling/Meshes/BallMesh': Can't find file.
+[2019.09.26-20.36.03:807][360]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/BBBalls/RollingBP/Blueprints/PhysicsBallBP.uasset' failed to load '/Game/Rolling/Meshes/BallMesh': Can't find file.
+[2019.09.26-20.36.03:807][360]LoadErrors: Failed to load /Game/Rolling/Meshes/BallMesh.BallMesh Referenced by Player_GEN_VARIABLE
+[2019.09.26-20.36.03:807][360]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/BBBalls/RollingBP/Blueprints/PhysicsBallBP.uasset' failed to load '/Game/Rolling/Meshes/BallMesh': Can't find file.
+[2019.09.26-20.36.03:815][360]LogBlueprint: Warning: [Compiler PhysicsBallBP] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.09.26-20.36.03:841][360]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BBBalls/RollingBP/Blueprints/PhysicsBallBP.PhysicsBallBP
+[2019.09.26-20.36.04:076][360]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.09.26-20.36.04:898][360]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.26-20.36.05:014][361]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.26-20.36.13:258][981]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-20.36.13:275][981]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.26-20.36.13:275][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-20.36.13:276][981]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 26, 2019, 8:36:13 AM)
+[2019.09.26-20.36.13:276][981]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.09.26-20.36.13:277][981]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.26-20.36.13:292][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014415s)
+[2019.09.26-20.36.13:293][981]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.26-20.36.13:293][981]LogPlayLevel: PIE: World Init took: (0.001438s)
+[2019.09.26-20.36.13:293][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016169s)
+[2019.09.26-20.36.13:332][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.09.26-20.36.13:362][981]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-20.36.13:374][981]LogInit: FAudioDevice initialized.
+[2019.09.26-20.36.13:507][981]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-20.36.13:509][981]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.26-14.36.13
+[2019.09.26-20.36.13:509][981]LogWorld: Bringing up level for play took: 0.001438
+[2019.09.26-20.36.13:509][981]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.09.26-20.36.13:516][981]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.09.26-20.36.13:517][981]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.175
+[2019.09.26-20.36.13:518][981]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.26-20.36.25:713][696]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.26-20.36.25:714][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.36.25:714][696]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.26-20.36.25:714][696]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-20.36.25:720][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-20.36.25:720][696]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.26-20.36.25:761][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.36.25:789][696]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.09.26-20.36.25:814][697]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.09.26-20.36.29:587][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.36.35:334][323]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/TestMap1.umap' failed to load '/Game/JacksonTest/TestMap1_BuiltData': Can't find file.
+[2019.09.26-20.36.35:334][323]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/TestMap1.umap' failed to load '/Game/JacksonTest/TestMap1_BuiltData': Can't find file.
+[2019.09.26-20.36.35:336][323]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/TestMap1.umap' failed to load '/Game/JacksonTest/TestMap1_BuiltData': Can't find file.
+[2019.09.26-20.36.35:336][323]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/TestMap1.umap' failed to load '/Game/JacksonTest/TestMap1_BuiltData': Can't find file.
+[2019.09.26-20.36.35:337][323]LogLinker: Warning: Failed to load '/Game/JacksonTest/TestMap1_BuiltData': Can't find file.
+[2019.09.26-20.36.35:337][323]LogLinker: Warning: Failed to load '/Game/JacksonTest/TestMap1_BuiltData': Can't find file.
+[2019.09.26-20.36.35:337][323]LogLinker: Warning: Failed to load '/Game/JacksonTest/TestMap1_BuiltData': Can't find file.
+[2019.09.26-20.36.35:337][323]LogLinker: Warning: Failed to load '/Game/JacksonTest/TestMap1_BuiltData': Can't find file.
+[2019.09.26-20.36.35:339][323]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/TestMap1.umap' failed to load '/Game/JacksonTest/TestMap1_BuiltData': Can't find file.
+[2019.09.26-20.36.35:339][323]LoadErrors: Failed to load /Game/JacksonTest/TestMap1_BuiltData.TestMap1_BuiltData Referenced by PersistentLevel
+[2019.09.26-20.36.35:339][323]LogLinker: Warning: While loading '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/TestMap1.umap' failed to load '/Game/JacksonTest/TestMap1_BuiltData': Can't find file.
+[2019.09.26-20.36.35:342][323]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-20.36.35:347][323]LogAssetEditorManager: Opening Asset editor for World /Game/JacksonTest/TestMap1.TestMap1
+[2019.09.26-20.36.35:385][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.09.26-20.36.35:386][323]Cmd: MAP LOAD FILE="../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/TestMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.26-20.36.35:386][323]LightingResults: New page: Lighting Build
+[2019.09.26-20.36.35:386][323]LoadErrors: New page: Loading map: TestMap1.umap
+[2019.09.26-20.36.35:387][323]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-20.36.35:387][323]MapCheck: New page: Map Check
+[2019.09.26-20.36.35:387][323]LightingResults: New page: Lighting Build
+[2019.09.26-20.36.35:426][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.09.26-20.36.35:429][323]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.26-20.36.35:466][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.09.26-20.36.35:493][323]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.26-20.36.35:493][323]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2019.09.26-20.36.35:493][323]LogFileHelpers: Loading map 'TestMap1' took 0.108
+[2019.09.26-20.36.36:839][412]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-20.36.36:857][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.36.36:857][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-20.36.36:857][412]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 8:36:36 AM)
+[2019.09.26-20.36.36:857][412]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-20.36.36:860][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002334s)
+[2019.09.26-20.36.36:861][412]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-20.36.36:861][412]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2019.09.26-20.36.36:861][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.003570s)
+[2019.09.26-20.36.36:896][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.09.26-20.36.36:924][412]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-20.36.36:934][412]LogInit: FAudioDevice initialized.
+[2019.09.26-20.36.36:939][412]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-20.36.36:940][412]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-14.36.36
+[2019.09.26-20.36.36:940][412]LogWorld: Bringing up level for play took: 0.000529
+[2019.09.26-20.36.36:941][412]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.09.26-20.36.36:945][412]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.603
+[2019.09.26-20.36.36:945][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.37.10:390][895]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.37.10:390][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.37.10:390][895]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-20.37.10:390][895]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-20.37.10:397][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-20.37.10:397][895]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.37.10:440][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.37.10:445][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.09.26-20.37.10:506][897]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.09.26-20.37.13:954][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.37.14:083][155]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JacksonTest/JacksonBallPrimary.JacksonBallPrimary
+[2019.09.26-20.37.33:041][917]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-20.37.33:062][917]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.37.33:062][917]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-20.37.33:072][917]LogPlayLevel: [PlayLevel] Compiling JacksonBallPrimary before play...
+[2019.09.26-20.37.33:080][917]LogBlueprint: Warning: [Compiler JacksonBallPrimary] Could not find a variable named "IsStatic" in 'JacksonBallPrimary_C'.
+Make sure 'JacksonBallPrimary_C' has been compiled for  Set IsStatic
+[2019.09.26-20.37.33:080][917]LogBlueprint: Warning: [Compiler JacksonBallPrimary] Could not find a variable named "IsStatic" in 'JacksonBallPrimary_C'.
+Make sure 'JacksonBallPrimary_C' has been compiled for  Set IsStatic
+[2019.09.26-20.37.33:080][917]LogBlueprint: Warning: [Compiler JacksonBallPrimary] Could not find a variable named "IsStatic" in 'JacksonBallPrimary_C'.
+Make sure 'JacksonBallPrimary_C' has been compiled for  Get IsStatic
+[2019.09.26-20.37.33:085][917]LogBlueprint: Error: [Compiler JacksonBallPrimary] The property associated with  Is Static  could not be found in '/Game/JacksonTest/JacksonBallPrimary.JacksonBallPrimary_C'
+[2019.09.26-20.37.33:086][917]LogBlueprint: Error: [Compiler JacksonBallPrimary] The property associated with  Is Static  could not be found in '/Game/JacksonTest/JacksonBallPrimary.JacksonBallPrimary_C'
+[2019.09.26-20.37.33:086][917]LogBlueprint: Error: [Compiler JacksonBallPrimary] The property associated with  Is Static  could not be found in '/Game/JacksonTest/JacksonBallPrimary.JacksonBallPrimary_C'
+[2019.09.26-20.37.33:423][917]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallPrimaryB78987B544DD6F4DF1B1A2BE17D8EF0D.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallPrimary.uasset'
+[2019.09.26-20.37.33:476][917]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2019.09.26-20.37.33:476][917]LogPlayLevel: PlayLevel: Blueprint regeneration took 413 ms (1 blueprints)
+[2019.09.26-20.37.33:476][917]BlueprintLog: Warning: Blueprint failed to compile:  JacksonBallPrimary
+[2019.09.26-20.37.33:476][917]LogCustomDialog: Dialog displayed:
+[2019.09.26-20.37.40:643][917]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.09.26-20.37.44:282][179]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-20.37.44:289][179]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-20.37.45:024][233]BlueprintLog: New page: Compile JacksonBallPrimary
+[2019.09.26-20.37.45:040][233]LogBlueprint: Warning: [Compiler JacksonBallPrimary] Could not find a variable named "IsStatic" in 'JacksonBallPrimary_C'.
+Make sure 'JacksonBallPrimary_C' has been compiled for  Set IsStatic
+[2019.09.26-20.37.45:040][233]LogBlueprint: Warning: [Compiler JacksonBallPrimary] Could not find a variable named "IsStatic" in 'JacksonBallPrimary_C'.
+Make sure 'JacksonBallPrimary_C' has been compiled for  Set IsStatic
+[2019.09.26-20.37.45:040][233]LogBlueprint: Warning: [Compiler JacksonBallPrimary] Could not find a variable named "IsStatic" in 'JacksonBallPrimary_C'.
+Make sure 'JacksonBallPrimary_C' has been compiled for  Get IsStatic
+[2019.09.26-20.37.45:044][233]LogBlueprint: Error: [Compiler JacksonBallPrimary] The property associated with  Is Static  could not be found in '/Game/JacksonTest/JacksonBallPrimary.JacksonBallPrimary_C'
+[2019.09.26-20.37.45:044][233]LogBlueprint: Error: [Compiler JacksonBallPrimary] The property associated with  Is Static  could not be found in '/Game/JacksonTest/JacksonBallPrimary.JacksonBallPrimary_C'
+[2019.09.26-20.37.45:044][233]LogBlueprint: Error: [Compiler JacksonBallPrimary] The property associated with  Is Static  could not be found in '/Game/JacksonTest/JacksonBallPrimary.JacksonBallPrimary_C'
+[2019.09.26-20.37.45:270][233]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.09.26-20.38.38:697][787]BlueprintLog: New page: Compile JacksonBallPrimary
+[2019.09.26-20.38.38:965][787]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.09.26-20.38.39:115][787]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallPrimary19099AD14C36B1A2C7F824B05C055737.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallPrimary.uasset'
+[2019.09.26-20.38.43:152][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-20.38.43:173][ 74]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.38.43:174][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-20.38.43:174][ 74]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 8:38:43 AM)
+[2019.09.26-20.38.43:174][ 74]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-20.38.43:176][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002040s)
+[2019.09.26-20.38.43:177][ 74]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-20.38.43:177][ 74]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2019.09.26-20.38.43:177][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.003380s)
+[2019.09.26-20.38.43:217][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2019.09.26-20.38.43:245][ 74]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-20.38.43:256][ 74]LogInit: FAudioDevice initialized.
+[2019.09.26-20.38.43:265][ 74]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-20.38.43:267][ 74]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-14.38.43
+[2019.09.26-20.38.43:267][ 74]LogWorld: Bringing up level for play took: 0.000883
+[2019.09.26-20.38.43:267][ 74]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.09.26-20.38.43:270][ 74]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.932
+[2019.09.26-20.38.43:270][ 74]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.38.43:946][134]LogHttp: Warning: 000001F1721DFB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7667F8EE-4680-B3B6-0846-26888D38C4A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=8707cd274f056fc927c1b481f82b7996%7Cc4dd87db6adb4cf782df11e3d49ff788%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.26-20.38.43:946][134]LogHttp: Warning: 000001F1721DFB00: request failed, libcurl error: 0 (No error)
+[2019.09.26-20.38.43:946][134]LogHttp: Warning: 000001F1721DFB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f13dc7bf70 [can pipeline])
+[2019.09.26-20.38.43:946][134]LogHttp: Warning: 000001F1721DFB00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2019.09.26-20.38.43:946][134]LogHttp: Warning: 000001F1721DFB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.127.66) port 443 (#0))
+[2019.09.26-20.38.43:946][134]LogHttp: Warning: 000001F1721DFB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.26-20.38.43:946][134]LogHttp: Warning: 000001F1721DFB00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.26-20.38.43:946][134]LogHttp: Warning: 000001F1721DFB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.26-20.38.43:946][134]LogHttp: Warning: 000001F1721DFB00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.26-20.38.43:946][134]LogHttp: Warning: 000001F1721DFB00: libcurl info message cache 7 (Closing connection 0)
+[2019.09.26-20.38.43:946][134]LogHttp: Warning: 000001F1721DFB00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.26-20.38.43:946][134]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7667F8EE-4680-B3B6-0846-26888D38C4A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=8707cd274f056fc927c1b481f82b7996%7Cc4dd87db6adb4cf782df11e3d49ff788%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.26-20.38.45:931][324]PIE: Warning: Mobility of /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.JacksonBallPrimary_C_0 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.09.26-20.38.52:066][914]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.38.52:066][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.38.52:066][914]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-20.38.52:066][914]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-20.38.52:076][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-20.38.52:077][914]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.38.52:117][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.38.52:122][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.09.26-20.38.52:131][914]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-20.38.52:183][916]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.09.26-20.39.01:445][754]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-20.39.01:452][754]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-20.39.03:255][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.39.09:544][445]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JacksonTest/JacksonBallSecondary.JacksonBallSecondary
+[2019.09.26-20.40.09:818][411]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-20.40.09:846][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.40.09:846][411]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-20.40.09:873][411]LogPlayLevel: [PlayLevel] Compiling JacksonBallSecondary before play...
+[2019.09.26-20.40.10:260][411]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallSecondaryD3E31E3747223290DE59558D67DA93C9.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallSecondary.uasset'
+[2019.09.26-20.40.10:316][411]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2019.09.26-20.40.10:316][411]LogPlayLevel: PlayLevel: Blueprint regeneration took 470 ms (1 blueprints)
+[2019.09.26-20.40.10:316][411]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 8:40:10 AM)
+[2019.09.26-20.40.10:317][411]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-20.40.10:319][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002177s)
+[2019.09.26-20.40.10:320][411]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-20.40.10:320][411]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2019.09.26-20.40.10:320][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.003649s)
+[2019.09.26-20.40.10:362][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.09.26-20.40.10:390][411]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-20.40.10:401][411]LogInit: FAudioDevice initialized.
+[2019.09.26-20.40.10:408][411]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-20.40.10:409][411]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-14.40.10
+[2019.09.26-20.40.10:410][411]LogWorld: Bringing up level for play took: 0.000531
+[2019.09.26-20.40.10:410][411]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.09.26-20.40.10:412][411]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.076
+[2019.09.26-20.40.10:412][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.40.14:389][703]PIE: Warning: Mobility of /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.JacksonBallPrimary_C_0 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.09.26-20.40.22:069][310]PIE: Warning: Mobility of /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.JacksonBallSecondary_C_0 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.09.26-20.40.37:012][482]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.40.37:012][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.40.37:012][482]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-20.40.37:012][482]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-20.40.37:021][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-20.40.37:021][482]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.40.37:065][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.40.37:070][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.09.26-20.40.37:079][482]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-20.40.37:116][483]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.09.26-20.41.13:428][209]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-20.41.13:435][209]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-20.41.13:800][237]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.26-20.41.13:831][237]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-20.41.14:576][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.26-20.41.14:930][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.42.08:739][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.45.40:098][454]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-20.45.42:214][545]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:18137).
+[2019.09.26-20.45.45:514][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.49.50:151][617]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-20.49.50:179][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.49.50:179][617]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-20.49.50:206][617]LogPlayLevel: [PlayLevel] Compiling JacksonBallSecondary before play...
+[2019.09.26-20.49.50:607][617]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallSecondary7B69802340CF72D4F3DBDCB7A38889FF.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallSecondary.uasset'
+[2019.09.26-20.49.50:660][617]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2019.09.26-20.49.50:660][617]LogPlayLevel: PlayLevel: Blueprint regeneration took 481 ms (1 blueprints)
+[2019.09.26-20.49.50:660][617]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 8:49:50 AM)
+[2019.09.26-20.49.50:662][617]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-20.49.50:664][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002207s)
+[2019.09.26-20.49.50:665][617]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-20.49.50:665][617]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2019.09.26-20.49.50:665][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.003551s)
+[2019.09.26-20.49.50:705][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.09.26-20.49.50:732][617]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-20.49.50:742][617]LogInit: FAudioDevice initialized.
+[2019.09.26-20.49.50:742][617]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-20.49.50:750][617]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-20.49.50:751][617]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-14.49.50
+[2019.09.26-20.49.50:751][617]LogWorld: Bringing up level for play took: 0.000530
+[2019.09.26-20.49.50:751][617]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.09.26-20.49.50:754][617]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.425
+[2019.09.26-20.49.50:754][617]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.50.05:533][737]PIE: Warning: Mobility of /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.JacksonBallSecondary_C_0 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.09.26-20.50.07:715][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.50.07:715][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.50.07:715][920]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-20.50.07:715][920]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-20.50.07:724][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-20.50.07:724][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.50.07:768][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.50.07:772][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.09.26-20.50.07:782][920]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-20.50.07:823][921]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.09.26-20.50.12:031][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.50.12:103][214]LogActorFactory: Actor Factory created Cube
+[2019.09.26-20.50.12:237][220]LogActorFactory: Actor Factory created Cube
+[2019.09.26-20.50.20:945][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.50.20:988][776]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-20.50.21:014][776]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.50.21:014][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-20.50.21:014][776]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 8:50:21 AM)
+[2019.09.26-20.50.21:015][776]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-20.50.21:017][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001996s)
+[2019.09.26-20.50.21:018][776]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-20.50.21:018][776]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2019.09.26-20.50.21:018][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.003316s)
+[2019.09.26-20.50.21:059][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.09.26-20.50.21:087][776]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-20.50.21:097][776]LogInit: FAudioDevice initialized.
+[2019.09.26-20.50.21:102][776]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-20.50.21:103][776]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-14.50.21
+[2019.09.26-20.50.21:103][776]LogWorld: Bringing up level for play took: 0.000612
+[2019.09.26-20.50.21:104][776]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.09.26-20.50.21:106][776]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.777
+[2019.09.26-20.50.21:106][776]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.50.38:213][ 77]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.50.38:213][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.50.38:213][ 77]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-20.50.38:213][ 77]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-20.50.38:226][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-20.50.38:226][ 77]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-20.50.38:271][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-20.50.38:275][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.09.26-20.50.38:347][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.09.26-20.50.40:564][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.50.41:223][305]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-20.50.41:229][305]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-20.50.41:505][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.51.35:678][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.09.26-20.51.35:895][178]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/TestMap1_Auto1CF5875E74BEEC4AC13313A9FD3AB0B3F.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Autosaves/Game/JacksonTest/TestMap1_Auto1.umap'
+[2019.09.26-20.51.35:899][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JacksonTest/TestMap1' took 0.258
+[2019.09.26-20.51.35:899][178]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.258
+[2019.09.26-20.51.56:708][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.52.12:956][718]LogSlate: Window 'JacksonBallSecondary' being destroyed
+[2019.09.26-20.52.12:960][718]LogSlate: Window 'JacksonBallSecondary' being destroyed
+[2019.09.26-20.52.12:981][718]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-20.52.13:048][718]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.26-20.52.13:048][718]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-20.52.13:119][718]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.26-20.52.13:119][718]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-20.52.14:180][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.52.44:506][416]LogAssetEditorManager: Opening Asset editor for World /Game/JacksonTest/TestMap1.TestMap1
+[2019.09.26-20.52.44:564][416]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2019.09.26-20.52.49:375][416]LogSlate: Window 'Save Content' being destroyed
+[2019.09.26-20.52.49:437][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.09.26-20.52.49:616][416]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/TestMap1C95AD3614BAC1CF813192D96FD2E6960.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/TestMap1.umap'
+[2019.09.26-20.52.49:646][416]LogFileHelpers: Saving map 'TestMap1' took 0.262
+[2019.09.26-20.52.49:651][416]Cmd: MAP LOAD FILE="../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/TestMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.26-20.52.49:651][416]LightingResults: New page: Lighting Build
+[2019.09.26-20.52.49:651][416]LoadErrors: New page: Loading map: TestMap1.umap
+[2019.09.26-20.52.49:651][416]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-20.52.49:652][416]MapCheck: New page: Map Check
+[2019.09.26-20.52.49:652][416]LightingResults: New page: Lighting Build
+[2019.09.26-20.52.49:686][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.09.26-20.52.49:694][416]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-20.52.49:696][416]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.26-20.52.49:726][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.09.26-20.52.49:753][416]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.26-20.52.49:753][416]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2019.09.26-20.52.49:754][416]LogFileHelpers: Loading map 'TestMap1' took 0.105
+[2019.09.26-20.52.51:591][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.52.52:272][699]LogAssetEditorManager: Opening Asset editor for World /Game/JacksonTest/TestMap1.TestMap1
+[2019.09.26-20.52.52:298][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.09.26-20.52.52:299][699]Cmd: MAP LOAD FILE="../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/TestMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.26-20.52.52:299][699]LightingResults: New page: Lighting Build
+[2019.09.26-20.52.52:300][699]LoadErrors: New page: Loading map: TestMap1.umap
+[2019.09.26-20.52.52:300][699]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-20.52.52:301][699]MapCheck: New page: Map Check
+[2019.09.26-20.52.52:301][699]LightingResults: New page: Lighting Build
+[2019.09.26-20.52.52:332][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.09.26-20.52.52:341][699]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-20.52.52:343][699]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.26-20.52.52:374][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.09.26-20.52.52:401][699]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.26-20.52.52:401][699]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2019.09.26-20.52.52:402][699]LogFileHelpers: Loading map 'TestMap1' took 0.104
+[2019.09.26-20.52.53:092][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.52.57:327][214]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JacksonTest/JacksonBallPrimary.JacksonBallPrimary
+[2019.09.26-20.53.01:474][485]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JacksonTest/ActionInterface.ActionInterface
+[2019.09.26-20.53.01:783][485]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JacksonTest/JacksonGameStateBaseUSETHIS.JacksonGameStateBaseUSETHIS
+[2019.09.26-20.53.02:083][485]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JacksonTest/CharacterSwapper.CharacterSwapper
+[2019.09.26-20.53.02:404][485]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JacksonTest/JacksonBallSecondary.JacksonBallSecondary
+[2019.09.26-20.53.19:109][ 94]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_4.23/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h 
+[2019.09.26-20.53.19:205][ 94]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_4.23/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h : 42
+[2019.09.26-20.53.19:205][ 94]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.09.26-20.53.19:210][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:210][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:210][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:210][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:211][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:211][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:211][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:211][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:211][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:211][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:211][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:211][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:211][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:211][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:212][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:212][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:212][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:212][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:212][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:212][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:212][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:212][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:213][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:213][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:213][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:213][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:213][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:213][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:213][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:213][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:213][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:213][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:213][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:213][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:213][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:214][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:214][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:214][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:214][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:214][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:214][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:214][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:214][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:214][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:214][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:214][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:214][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:214][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:215][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:215][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:215][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:215][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:215][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:215][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:215][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:215][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:215][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:215][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:215][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:215][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:215][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:216][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:216][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:216][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:216][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:216][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:216][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:216][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:216][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:216][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:216][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:216][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:216][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:217][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:217][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:217][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:217][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:217][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:217][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:217][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:217][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:217][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:217][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:217][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:217][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:217][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:218][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:218][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:218][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:218][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:218][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:218][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:218][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:218][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:218][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:218][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:218][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:218][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:219][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:219][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:219][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:221][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:229][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:231][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:231][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:231][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:251][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:281][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:281][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:286][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:286][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:286][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:291][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:318][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:319][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:319][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:319][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:323][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:324][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:324][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:326][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:342][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:359][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:364][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:367][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-20.53.19:368][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.26-21.13.07:692][372]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-21.13.07:724][372]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.13.07:724][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-21.13.07:725][372]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 9:13:07 AM)
+[2019.09.26-21.13.07:725][372]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.13.07:727][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002541s)
+[2019.09.26-21.13.07:729][372]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-21.13.07:729][372]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2019.09.26-21.13.07:729][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.004110s)
+[2019.09.26-21.13.07:766][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.09.26-21.13.07:793][372]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-21.13.07:803][372]LogInit: FAudioDevice initialized.
+[2019.09.26-21.13.07:812][372]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-21.13.07:813][372]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-15.13.07
+[2019.09.26-21.13.07:813][372]LogWorld: Bringing up level for play took: 0.000594
+[2019.09.26-21.13.07:814][372]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.09.26-21.13.07:817][372]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 -0.506
+[2019.09.26-21.13.07:817][372]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.13.38:998][188]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.13.38:998][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.13.38:998][188]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.13.38:999][188]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-21.13.39:009][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-21.13.39:009][188]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.13.39:048][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.13.39:052][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.09.26-21.13.39:137][190]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.09.26-21.13.40:733][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.14.43:927][197]LogHttp: Warning: 000001F1222B8F40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7667F8EE-4680-B3B6-0846-26888D38C4A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=8707cd274f056fc927c1b481f82b7996%7Cc4dd87db6adb4cf782df11e3d49ff788%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.26-21.14.43:927][197]LogHttp: Warning: 000001F1222B8F40: request failed, libcurl error: 0 (No error)
+[2019.09.26-21.14.43:927][197]LogHttp: Warning: 000001F1222B8F40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f13dc7bf70 [can pipeline])
+[2019.09.26-21.14.43:927][197]LogHttp: Warning: 000001F1222B8F40: libcurl info message cache 1 (Re-using existing connection! (#18) with host datarouter.ol.epicgames.com)
+[2019.09.26-21.14.43:927][197]LogHttp: Warning: 000001F1222B8F40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.235.243.192) port 443 (#18))
+[2019.09.26-21.14.43:927][197]LogHttp: Warning: 000001F1222B8F40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.26-21.14.43:927][197]LogHttp: Warning: 000001F1222B8F40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.26-21.14.43:927][197]LogHttp: Warning: 000001F1222B8F40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.26-21.14.43:927][197]LogHttp: Warning: 000001F1222B8F40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.26-21.14.43:927][197]LogHttp: Warning: 000001F1222B8F40: libcurl info message cache 7 (Closing connection 18)
+[2019.09.26-21.14.43:927][197]LogHttp: Warning: 000001F1222B8F40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.26-21.14.43:940][198]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7667F8EE-4680-B3B6-0846-26888D38C4A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=8707cd274f056fc927c1b481f82b7996%7Cc4dd87db6adb4cf782df11e3d49ff788%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.26-21.15.06:637][ 70]LogRenderer: Reallocating scene render targets to support 1684x900 Format 10 NumSamples 1 (Frame:1).
+[2019.09.26-21.15.08:621][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.16.27:495][665]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.09.26-21.16.27:496][665]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JacksonTest/TestMap1' took 0.044
+[2019.09.26-21.16.27:498][665]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JacksonTest/JacksonBallPrimary] ([1] browsable assets)...
+[2019.09.26-21.16.27:507][665]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JacksonTest/JacksonBallPrimary.JacksonBallPrimary]
+[2019.09.26-21.16.27:507][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/JacksonTest/JacksonBallPrimary]
+[2019.09.26-21.16.27:599][665]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallPrimary_Auto28D29D65148344EC4FFC6AD9850DEDA63.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Autosaves/Game/JacksonTest/JacksonBallPrimary_Auto2.uasset'
+[2019.09.26-21.16.27:601][665]LogFileHelpers: Auto-saving content packages took 0.104
+[2019.09.26-21.16.27:700][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.09.26-21.16.32:411][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.17.50:308][512]BlueprintLog: New page: Compile JacksonBallPrimary
+[2019.09.26-21.17.50:582][512]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.09.26-21.17.50:758][512]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallPrimaryA09A21D04139DEA6DA04EEA0510EECF2.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallPrimary.uasset'
+[2019.09.26-21.17.52:643][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.17.52:721][645]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-21.17.52:752][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.17.52:752][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-21.17.52:752][645]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 9:17:52 AM)
+[2019.09.26-21.17.52:752][645]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.17.52:755][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002571s)
+[2019.09.26-21.17.52:756][645]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-21.17.52:756][645]LogPlayLevel: PIE: World Init took: (0.001290s)
+[2019.09.26-21.17.52:756][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.004018s)
+[2019.09.26-21.17.52:796][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.09.26-21.17.52:824][645]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-21.17.52:834][645]LogInit: FAudioDevice initialized.
+[2019.09.26-21.17.52:840][645]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-21.17.52:841][645]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-15.17.52
+[2019.09.26-21.17.52:841][645]LogWorld: Bringing up level for play took: 0.000566
+[2019.09.26-21.17.52:841][645]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.09.26-21.17.52:844][645]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.522
+[2019.09.26-21.17.52:844][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.17.55:537][881]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:538][881]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:538][881]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:548][882]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:549][882]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:549][882]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:560][883]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:561][883]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:561][883]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:571][884]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:571][884]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:572][884]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:582][885]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:582][885]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:582][885]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:595][886]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:595][886]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:595][886]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:606][887]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:606][887]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:606][887]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:621][888]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:621][888]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:621][888]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:634][889]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:634][889]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:634][889]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:647][890]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:647][890]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:647][890]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:658][891]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:658][891]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:658][891]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:670][892]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:670][892]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:670][892]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:681][893]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:681][893]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.55:681][893]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] hit and stuck!
+[2019.09.26-21.17.57:710][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.17.57:710][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.17.57:710][ 72]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.17.57:710][ 72]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-21.17.57:721][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-21.17.57:721][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.17.57:761][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.17.57:765][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.09.26-21.17.57:835][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.09.26-21.17.59:313][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.18.31:162][941]BlueprintLog: New page: Compile JacksonBallPrimary
+[2019.09.26-21.18.31:389][941]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.09.26-21.18.31:557][941]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallPrimary20E5FFFB48876E535D43C09A15A0AA51.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallPrimary.uasset'
+[2019.09.26-21.18.32:985][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.18.33:051][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-21.18.33:081][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.18.33:081][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-21.18.33:081][ 60]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 9:18:33 AM)
+[2019.09.26-21.18.33:082][ 60]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.18.33:084][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002320s)
+[2019.09.26-21.18.33:085][ 60]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-21.18.33:085][ 60]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2019.09.26-21.18.33:085][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.003656s)
+[2019.09.26-21.18.33:126][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.09.26-21.18.33:154][ 60]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-21.18.33:163][ 60]LogInit: FAudioDevice initialized.
+[2019.09.26-21.18.33:171][ 60]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-21.18.33:172][ 60]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-15.18.33
+[2019.09.26-21.18.33:172][ 60]LogWorld: Bringing up level for play took: 0.000693
+[2019.09.26-21.18.33:172][ 60]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.09.26-21.18.33:175][ 60]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.853
+[2019.09.26-21.18.33:175][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.18.37:381][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.18.37:381][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.18.37:381][453]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.18.37:382][453]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-21.18.37:389][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-21.18.37:389][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.18.37:430][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.18.37:434][453]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.09.26-21.18.37:503][455]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.09.26-21.18.40:505][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.19.00:127][381]BlueprintLog: New page: Compile JacksonBallPrimary
+[2019.09.26-21.19.00:358][381]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.09.26-21.19.00:525][381]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallPrimary71588612481FF7ED25701D9DE2F6BDEF.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallPrimary.uasset'
+[2019.09.26-21.19.01:713][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.19.01:771][476]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-21.19.01:804][476]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.19.01:805][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-21.19.01:805][476]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 9:19:01 AM)
+[2019.09.26-21.19.01:805][476]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.19.01:807][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002414s)
+[2019.09.26-21.19.01:808][476]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-21.19.01:809][476]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2019.09.26-21.19.01:809][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.003917s)
+[2019.09.26-21.19.01:849][476]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.09.26-21.19.01:876][476]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-21.19.01:886][476]LogInit: FAudioDevice initialized.
+[2019.09.26-21.19.01:892][476]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-21.19.01:894][476]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-15.19.01
+[2019.09.26-21.19.01:894][476]LogWorld: Bringing up level for play took: 0.000721
+[2019.09.26-21.19.01:894][476]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.09.26-21.19.01:897][476]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 -0.424
+[2019.09.26-21.19.01:897][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.19.02:541][530]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] Stuck
+[2019.09.26-21.19.14:948][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.19.14:948][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.19.14:948][656]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.19.14:948][656]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-21.19.14:955][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-21.19.14:955][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.19.14:998][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.19.15:002][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.09.26-21.19.15:076][658]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.09.26-21.19.18:841][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.19.29:284][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.09.26-21.19.31:111][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.19.38:496][516]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.26-21.19.43:997][925]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JacksonTest/Wall.Wall
+[2019.09.26-21.20.07:754][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-21.20.18:602][736]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-21.20.20:846][908]LogEditorTransaction: Undo Add Component
+[2019.09.26-21.20.21:315][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.20.27:948][465]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-21.20.33:485][887]LogEditorTransaction: Undo Modify Component(s)
+[2019.09.26-21.20.34:508][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.20.38:184][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.20.55:878][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.21.26:118][158]LogEditorTransaction: Undo Add Node
+[2019.09.26-21.22.55:000][978]BlueprintLog: New page: Compile Wall
+[2019.09.26-21.22.55:236][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.09.26-21.22.55:267][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JacksonTest/Wall" FILE="../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset" SILENT=true
+[2019.09.26-21.22.55:292][978]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/WallCBF5FB5A4BF6A3907F589DBDC1DFC931.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset'
+[2019.09.26-21.23.08:179][144]BlueprintLog: New page: Compile Wall
+[2019.09.26-21.23.08:381][144]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.09.26-21.23.08:413][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JacksonTest/Wall" FILE="../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset" SILENT=true
+[2019.09.26-21.23.08:450][144]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/Wall1A9D25114B9A399A5021F48B5FD8D2E4.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset'
+[2019.09.26-21.23.21:409][ 78]BlueprintLog: New page: Compile JacksonBallPrimary
+[2019.09.26-21.23.21:682][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.09.26-21.23.21:867][ 78]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallPrimary2D5ED1CB40FCC8E29B8872AD2DB3BC02.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallPrimary.uasset'
+[2019.09.26-21.23.22:361][107]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-21.23.22:395][107]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.23.22:395][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-21.23.22:395][107]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 9:23:22 AM)
+[2019.09.26-21.23.22:395][107]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.23.22:398][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002081s)
+[2019.09.26-21.23.22:399][107]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-21.23.22:399][107]LogPlayLevel: PIE: World Init took: (0.001519s)
+[2019.09.26-21.23.22:399][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.003754s)
+[2019.09.26-21.23.22:441][107]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.09.26-21.23.22:471][107]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-21.23.22:481][107]LogInit: FAudioDevice initialized.
+[2019.09.26-21.23.22:494][107]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-21.23.22:496][107]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-15.23.22
+[2019.09.26-21.23.22:496][107]LogWorld: Bringing up level for play took: 0.000888
+[2019.09.26-21.23.22:496][107]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.09.26-21.23.22:499][107]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.178
+[2019.09.26-21.23.22:499][107]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.23.30:319][798]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.23.30:319][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.23.30:319][798]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.23.30:319][798]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-21.23.30:327][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-21.23.30:327][798]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.23.30:372][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.23.30:376][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.09.26-21.23.30:448][800]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.09.26-21.23.31:633][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.23.38:863][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.23.44:964][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.23.51:131][707]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-21.23.51:163][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.23.51:163][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-21.23.51:163][707]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 9:23:51 AM)
+[2019.09.26-21.23.51:163][707]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.23.51:166][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002618s)
+[2019.09.26-21.23.51:167][707]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-21.23.51:167][707]LogPlayLevel: PIE: World Init took: (0.001230s)
+[2019.09.26-21.23.51:167][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.003998s)
+[2019.09.26-21.23.51:209][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.09.26-21.23.51:235][707]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-21.23.51:245][707]LogInit: FAudioDevice initialized.
+[2019.09.26-21.23.51:256][707]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-21.23.51:257][707]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-15.23.51
+[2019.09.26-21.23.51:257][707]LogWorld: Bringing up level for play took: 0.000734
+[2019.09.26-21.23.51:257][707]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.09.26-21.23.51:260][707]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.939
+[2019.09.26-21.23.51:260][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.24.09:531][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.24.09:532][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.24.09:532][548]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.24.09:533][548]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-21.24.09:548][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-21.24.09:548][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.24.09:589][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.24.09:593][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.09.26-21.24.09:661][550]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.09.26-21.24.12:218][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.24.25:263][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JacksonTest/Wall" FILE="../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset" SILENT=true
+[2019.09.26-21.24.25:293][ 83]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/WallFB47934B4BD63E416F9902AAA43CE2A2.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/Wall.uasset'
+[2019.09.26-21.24.25:962][148]BlueprintLog: New page: Compile Wall
+[2019.09.26-21.24.26:172][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.09.26-21.24.28:410][375]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-21.24.28:441][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.24.28:441][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-21.24.28:441][375]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 9:24:28 AM)
+[2019.09.26-21.24.28:441][375]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.24.28:444][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002372s)
+[2019.09.26-21.24.28:445][375]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-21.24.28:445][375]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2019.09.26-21.24.28:445][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.003746s)
+[2019.09.26-21.24.28:486][375]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.09.26-21.24.28:513][375]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-21.24.28:523][375]LogInit: FAudioDevice initialized.
+[2019.09.26-21.24.28:534][375]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-21.24.28:535][375]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-15.24.28
+[2019.09.26-21.24.28:535][375]LogWorld: Bringing up level for play took: 0.000725
+[2019.09.26-21.24.28:535][375]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.09.26-21.24.28:538][375]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.217
+[2019.09.26-21.24.28:538][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.24.30:200][558]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.24.30:210][559]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.24.32:660][828]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.24.32:660][828]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.24.34:895][ 76]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.24.34:895][ 76]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.24.37:059][323]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.24.37:060][323]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.24.39:008][537]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.24.39:008][537]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.24.40:741][731]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.24.40:741][731]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.24.43:149][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.24.43:150][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.24.43:150][  2]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.24.43:150][  2]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-21.24.43:164][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-21.24.43:164][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.24.43:207][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.24.43:211][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.09.26-21.24.43:283][  4]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.09.26-21.24.47:367][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.25.43:148][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.26.28:717][903]BlueprintLog: New page: Compile JacksonBallPrimary
+[2019.09.26-21.26.28:994][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.09.26-21.26.29:172][903]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallPrimary8A7B4C2E46BA584325D1C08B3F4A0EFD.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallPrimary.uasset'
+[2019.09.26-21.26.31:972][135]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-21.26.32:004][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.26.32:004][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-21.26.32:004][135]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 9:26:32 AM)
+[2019.09.26-21.26.32:004][135]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.26.32:007][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002475s)
+[2019.09.26-21.26.32:008][135]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-21.26.32:008][135]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2019.09.26-21.26.32:008][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.003864s)
+[2019.09.26-21.26.32:049][135]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.09.26-21.26.32:075][135]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-21.26.32:085][135]LogInit: FAudioDevice initialized.
+[2019.09.26-21.26.32:099][135]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-21.26.32:100][135]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-15.26.32
+[2019.09.26-21.26.32:100][135]LogWorld: Bringing up level for play took: 0.000999
+[2019.09.26-21.26.32:101][135]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.09.26-21.26.32:104][135]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 -0.217
+[2019.09.26-21.26.32:104][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.26.34:115][306]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.26.34:126][307]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.26.49:680][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.26.49:680][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.26.49:680][725]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.26.49:680][725]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-21.26.49:688][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-21.26.49:688][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.26.49:731][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.26.49:736][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.09.26-21.26.49:805][727]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.09.26-21.26.52:117][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-21.27.59:729][969]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.09.26-21.28.22:592][908]BlueprintLog: New page: Compile JacksonBallPrimary
+[2019.09.26-21.28.22:833][908]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.09.26-21.28.23:019][908]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallPrimaryA4C8BC27446CCB1FC181A58DC859E762.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallPrimary.uasset'
+[2019.09.26-21.28.24:648][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-21.28.24:678][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.28.24:678][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-21.28.24:678][ 41]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 9:28:24 AM)
+[2019.09.26-21.28.24:678][ 41]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.28.24:681][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002659s)
+[2019.09.26-21.28.24:682][ 41]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-21.28.24:682][ 41]LogPlayLevel: PIE: World Init took: (0.001259s)
+[2019.09.26-21.28.24:682][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.004093s)
+[2019.09.26-21.28.24:726][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.09.26-21.28.24:752][ 41]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-21.28.24:761][ 41]LogInit: FAudioDevice initialized.
+[2019.09.26-21.28.24:774][ 41]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-21.28.24:776][ 41]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-15.28.24
+[2019.09.26-21.28.24:776][ 41]LogWorld: Bringing up level for play took: 0.000944
+[2019.09.26-21.28.24:776][ 41]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.09.26-21.28.24:779][ 41]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.458
+[2019.09.26-21.28.24:779][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.28.27:043][235]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.28.27:055][236]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.28.28:054][329]PIE: Warning: Mobility of /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.JacksonBallPrimary_C_0 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.09.26-21.28.30:268][537]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.28.30:268][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.28.30:269][537]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.28.30:269][537]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-21.28.30:281][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-21.28.30:281][537]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.28.30:328][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.28.30:332][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.09.26-21.28.30:341][537]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-21.28.30:383][538]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.09.26-21.28.37:231][898]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-21.28.37:237][898]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-21.28.43:918][461]LogHttp: Warning: 000001F19C218540: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7667F8EE-4680-B3B6-0846-26888D38C4A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=8707cd274f056fc927c1b481f82b7996%7Cc4dd87db6adb4cf782df11e3d49ff788%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.26-21.28.43:918][461]LogHttp: Warning: 000001F19C218540: request failed, libcurl error: 0 (No error)
+[2019.09.26-21.28.43:918][461]LogHttp: Warning: 000001F19C218540: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f13dc7bf70 [can pipeline])
+[2019.09.26-21.28.43:918][461]LogHttp: Warning: 000001F19C218540: libcurl info message cache 1 (Re-using existing connection! (#26) with host datarouter.ol.epicgames.com)
+[2019.09.26-21.28.43:918][461]LogHttp: Warning: 000001F19C218540: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.71.108.254) port 443 (#26))
+[2019.09.26-21.28.43:918][461]LogHttp: Warning: 000001F19C218540: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.26-21.28.43:918][461]LogHttp: Warning: 000001F19C218540: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.26-21.28.43:918][461]LogHttp: Warning: 000001F19C218540: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.26-21.28.43:918][461]LogHttp: Warning: 000001F19C218540: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.26-21.28.43:918][461]LogHttp: Warning: 000001F19C218540: libcurl info message cache 7 (Closing connection 26)
+[2019.09.26-21.28.43:918][461]LogHttp: Warning: 000001F19C218540: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.26-21.28.43:918][461]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7667F8EE-4680-B3B6-0846-26888D38C4A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=8707cd274f056fc927c1b481f82b7996%7Cc4dd87db6adb4cf782df11e3d49ff788%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.26-21.28.55:487][545]BlueprintLog: New page: Compile JacksonBallPrimary
+[2019.09.26-21.28.55:723][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.09.26-21.28.55:897][545]LogSavePackage: Moving '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Saved/JacksonBallPrimary8A259DA2490C98ADB445F8B73BC88036.tmp' to '../../../../../../Users/u0859782/Documents/GitHub/Screeching-Tiger/ScreechingTigerGym/Content/JacksonTest/JacksonBallPrimary.uasset'
+[2019.09.26-21.28.57:266][652]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-21.28.57:296][652]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.28.57:296][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-21.28.57:296][652]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 9:28:57 AM)
+[2019.09.26-21.28.57:296][652]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.28.57:299][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002477s)
+[2019.09.26-21.28.57:300][652]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-21.28.57:300][652]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2019.09.26-21.28.57:300][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.003900s)
+[2019.09.26-21.28.57:343][652]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.09.26-21.28.57:370][652]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-21.28.57:380][652]LogInit: FAudioDevice initialized.
+[2019.09.26-21.28.57:384][652]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-21.28.57:386][652]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-15.28.57
+[2019.09.26-21.28.57:386][652]LogWorld: Bringing up level for play took: 0.000609
+[2019.09.26-21.28.57:386][652]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.09.26-21.28.57:389][652]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 1.068
+[2019.09.26-21.28.57:389][652]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.28.59:055][805]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.28.59:055][805]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.28.59:495][847]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] F
+[2019.09.26-21.28.59:495][847]PIE: Warning: Mobility of /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.JacksonBallPrimary_C_0 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.09.26-21.29.04:872][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.29.04:872][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.29.04:873][371]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.29.04:873][371]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-21.29.04:884][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-21.29.04:884][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.29.04:928][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.29.04:931][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.09.26-21.29.04:942][371]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-21.29.04:982][372]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.09.26-21.29.06:565][494]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-21.29.06:571][494]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-21.30.04:796][572]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-21.30.04:826][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.30.04:826][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-21.30.04:827][572]PIE: New page: PIE session: TestMap1 (Sep 26, 2019, 9:30:04 AM)
+[2019.09.26-21.30.04:827][572]LogPlayLevel: Creating play world package: /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.30.04:829][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002614s)
+[2019.09.26-21.30.04:831][572]LogAIModule: Creating AISystem for world TestMap1
+[2019.09.26-21.30.04:831][572]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2019.09.26-21.30.04:831][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JacksonTest/TestMap1.TestMap1 to /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 (0.004037s)
+[2019.09.26-21.30.04:869][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.09.26-21.30.04:896][572]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-21.30.04:905][572]LogInit: FAudioDevice initialized.
+[2019.09.26-21.30.04:912][572]LogLoad: Game class is 'JacksonGameMode_C'
+[2019.09.26-21.30.04:913][572]LogWorld: Bringing World /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2019.09.26-15.30.04
+[2019.09.26-21.30.04:914][572]LogWorld: Bringing up level for play took: 0.000741
+[2019.09.26-21.30.04:914][572]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.09.26-21.30.04:917][572]PIE: Play in editor start time for /Game/JacksonTest/UEDPIE_0_TestMap1 0.596
+[2019.09.26-21.30.04:917][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.30.08:195][854]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.30.08:195][854]LogBlueprintUserMessages: [Wall_2] Hit wall and stuck
+[2019.09.26-21.30.08:828][911]LogBlueprintUserMessages: [JacksonBallPrimary_C_0] F
+[2019.09.26-21.30.08:828][911]PIE: Warning: Mobility of /Game/JacksonTest/UEDPIE_0_TestMap1.TestMap1:PersistentLevel.JacksonBallPrimary_C_0 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.09.26-21.30.14:088][388]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.30.14:088][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.30.14:088][388]LogWorld: BeginTearingDown for /Game/JacksonTest/UEDPIE_0_TestMap1
+[2019.09.26-21.30.14:088][388]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-21.30.14:101][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-21.30.14:101][388]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/JacksonTest/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/JacksonTest/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2019.09.26-21.30.14:145][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-21.30.14:150][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.09.26-21.30.14:160][388]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-21.30.14:203][389]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.09.26-21.30.15:823][514]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-21.30.15:829][514]LogSlate: Window 'Message Log' being destroyed
+[2019.09.26-21.31.07:048][352]LogUObjectBase: Warning: Object is not registered
+[2019.09.26-21.31.07:049][352]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.26-21.31.07:719][352]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.669 s
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: 
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: Stack: 
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffcc18941e9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffcc10b7d9a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffcc10c5fff UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffcbe616c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffcbd5c4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffcbd57e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffcc208d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffcc227c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffcc20d922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffcc20b5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffcc20a9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffd04414c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffd044026df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffd04417340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffd043fedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.26-21.31.07:719][352]LogOutputDevice: Error: [Callstack] 0x00007ffd1d9b681d USER32.dll!UnknownFunction []
+[2019.09.26-21.31.07:720][352]LogOutputDevice: Error: [Callstack] 0x00007ffd1d9b6212 USER32.dll!UnknownFunction []
+[2019.09.26-21.31.07:720][352]LogOutputDevice: Error: [Callstack] 0x00007ffd044188e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.26-21.31.07:720][352]LogOutputDevice: Error: [Callstack] 0x00007ff741276980 UE4Editor.exe!UnknownFunction []
+[2019.09.26-21.31.07:720][352]LogOutputDevice: Error: [Callstack] 0x00007ff74128a91c UE4Editor.exe!UnknownFunction []
+[2019.09.26-21.31.07:720][352]LogOutputDevice: Error: [Callstack] 0x00007ff74128a9fa UE4Editor.exe!UnknownFunction []
+[2019.09.26-21.31.07:720][352]LogOutputDevice: Error: [Callstack] 0x00007ff74129b92c UE4Editor.exe!UnknownFunction []
+[2019.09.26-21.31.07:720][352]LogOutputDevice: Error: [Callstack] 0x00007ff74129e60e UE4Editor.exe!UnknownFunction []
+[2019.09.26-21.31.07:720][352]LogOutputDevice: Error: [Callstack] 0x00007ffd1cfc7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.09.26-21.31.07:720][352]LogOutputDevice: Error: [Callstack] 0x00007ffd1ed4ce71 ntdll.dll!UnknownFunction []
+[2019.09.26-21.31.07:720][352]LogOutputDevice: Error: 
+[2019.09.26-21.31.07:728][352]LogStats:                SubmitErrorReport -  0.000 s
