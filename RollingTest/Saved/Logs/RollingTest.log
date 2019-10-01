@@ -8796,3 +8796,529 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.01-20.22.43:441][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
 [2019.10.01-20.22.43:684][776]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/RollingBPExampleMap1F1142EC4028926583F48684CE0182B2.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Maps/RollingBPExampleMap.umap'
 [2019.10.01-20.22.43:713][776]LogFileHelpers: Saving map 'RollingBPExampleMap' took 0.303
+[2019.10.01-20.24.12:052][451]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.24.12:065][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.24.12:065][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.24.12:065][451]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:24:12 AM)
+[2019.10.01-20.24.12:069][451]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.24.12:087][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017866s)
+[2019.10.01-20.24.12:088][451]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.24.12:088][451]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2019.10.01-20.24.12:088][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.019085s)
+[2019.10.01-20.24.12:127][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.10.01-20.24.12:159][451]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.24.12:168][451]LogInit: FAudioDevice initialized.
+[2019.10.01-20.24.12:177][451]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.24.12:180][451]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.24.12
+[2019.10.01-20.24.12:180][451]LogWorld: Bringing up level for play took: 0.002644
+[2019.10.01-20.24.12:180][451]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.10.01-20.24.12:182][451]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap 1.062
+[2019.10.01-20.24.12:182][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.24.29:472][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.24.29:472][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.24.29:472][514]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.24.29:472][514]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.24.29:536][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.24.29:536][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.24.29:572][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.24.29:576][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.10.01-20.24.29:599][515]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.10.01-20.24.31:072][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.25.07:029][282]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.25.07:285][282]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2019.10.01-20.25.07:555][282]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBP79C0F34A4473D17368B14C8BA1D7EF42.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.25.12:086][565]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.25.12:332][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2019.10.01-20.25.12:575][565]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBP3085B3F44555AF48A64F87AC95158AE7.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.25.44:286][851]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.25.44:533][851]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.10.01-20.25.44:789][851]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBPFF83132B4FF6372BF579A0B1ABDD0CE4.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.25.46:127][984]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.25.46:144][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.25.46:144][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.25.46:145][984]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:25:46 AM)
+[2019.10.01-20.25.46:145][984]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.25.46:162][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017089s)
+[2019.10.01-20.25.46:163][984]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.25.46:163][984]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2019.10.01-20.25.46:163][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.018143s)
+[2019.10.01-20.25.46:209][984]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.10.01-20.25.46:241][984]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.25.46:251][984]LogInit: FAudioDevice initialized.
+[2019.10.01-20.25.46:258][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.25.46:258][984]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.25.46:262][984]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.25.46
+[2019.10.01-20.25.46:263][984]LogWorld: Bringing up level for play took: 0.004204
+[2019.10.01-20.25.46:263][984]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.10.01-20.25.46:271][984]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap -0.85
+[2019.10.01-20.25.46:272][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.26.15:572][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.26.15:572][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.26.15:573][162]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.26.15:586][162]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.26.15:591][162]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.26.15:649][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.26.15:650][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.26.15:691][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.10.01-20.26.15:831][163]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.10.01-20.30.13:870][244]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.30.14:114][244]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.10.01-20.30.14:381][244]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBP9CCCA80B402427D53F22D690CCC6BB72.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.30.16:848][386]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.30.16:861][386]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.30.16:861][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.30.16:861][386]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:30:16 AM)
+[2019.10.01-20.30.16:861][386]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.30.16:878][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016554s)
+[2019.10.01-20.30.16:879][386]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.30.16:879][386]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2019.10.01-20.30.16:879][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.017664s)
+[2019.10.01-20.30.16:917][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.10.01-20.30.16:948][386]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.30.16:957][386]LogInit: FAudioDevice initialized.
+[2019.10.01-20.30.16:964][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.30.16:965][386]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.30.16:969][386]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.30.16
+[2019.10.01-20.30.16:969][386]LogWorld: Bringing up level for play took: 0.004128
+[2019.10.01-20.30.16:970][386]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2019.10.01-20.30.16:979][386]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap -0.142
+[2019.10.01-20.30.16:980][386]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.30.23:939][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.30.23:939][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.30.23:939][724]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.30.23:952][724]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.30.23:958][724]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.30.24:014][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.30.24:014][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.30.24:057][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.10.01-20.30.24:196][725]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.10.01-20.30.34:974][950]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.30.35:211][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.10.01-20.30.35:459][950]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBP816686F94CB39D7FC80B3885D3EDE2DE.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.30.36:670][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.30.36:683][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.30.36:683][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.30.36:683][ 70]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:30:36 AM)
+[2019.10.01-20.30.36:683][ 70]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.30.36:698][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015247s)
+[2019.10.01-20.30.36:700][ 70]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.30.36:701][ 70]LogPlayLevel: PIE: World Init took: (0.001873s)
+[2019.10.01-20.30.36:701][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.017407s)
+[2019.10.01-20.30.36:741][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.10.01-20.30.36:773][ 70]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.30.36:782][ 70]LogInit: FAudioDevice initialized.
+[2019.10.01-20.30.36:789][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.30.36:789][ 70]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.30.36:794][ 70]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.30.36
+[2019.10.01-20.30.36:795][ 70]LogWorld: Bringing up level for play took: 0.004940
+[2019.10.01-20.30.36:795][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2019.10.01-20.30.36:803][ 70]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap -0.318
+[2019.10.01-20.30.36:804][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.30.44:977][881]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.30.44:977][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.30.44:977][881]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.30.44:990][881]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.30.44:996][881]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.30.45:054][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.30.45:054][881]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.30.45:096][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.10.01-20.30.45:233][882]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.10.01-20.30.59:081][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.10.01-20.30.59:086][222]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-20.30.59:127][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.10.01-20.30.59:383][222]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/RollingBPExampleMapD231EC7A41C7B2001F17B2A8571CAE07.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Maps/RollingBPExampleMap.umap'
+[2019.10.01-20.30.59:414][222]LogFileHelpers: Saving map 'RollingBPExampleMap' took 0.322
+[2019.10.01-20.31.10:151][882]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.01-20.31.39:305][507]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.01-20.31.39:312][507]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.01-20.33.16:458][185]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.33.16:801][185]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2019.10.01-20.33.17:052][185]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBPC1EBF6A04270C50E3E2A9AB8A301FF60.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.33.17:767][243]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.33.17:779][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.33.17:779][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.33.17:780][243]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:33:17 AM)
+[2019.10.01-20.33.17:780][243]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.33.17:796][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016412s)
+[2019.10.01-20.33.17:797][243]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.33.17:797][243]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2019.10.01-20.33.17:797][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.017626s)
+[2019.10.01-20.33.17:861][243]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2019.10.01-20.33.17:893][243]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.33.17:903][243]LogInit: FAudioDevice initialized.
+[2019.10.01-20.33.17:910][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.33.17:910][243]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.33.17:915][243]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.33.17
+[2019.10.01-20.33.17:916][243]LogWorld: Bringing up level for play took: 0.004968
+[2019.10.01-20.33.17:916][243]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2019.10.01-20.33.17:925][243]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap 0.804
+[2019.10.01-20.33.17:926][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.33.28:514][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.33.28:515][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.33.28:515][125]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.33.28:528][125]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.33.28:535][125]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.33.28:597][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.33.28:597][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.33.28:638][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.10.01-20.33.28:788][126]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.10.01-20.33.41:165][335]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.33.41:401][335]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.10.01-20.33.41:651][335]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBPE0B7546F46AA5DF814DDFDBCBBF35626.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.33.42:112][360]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.33.42:126][360]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.33.42:126][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.33.42:126][360]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:33:42 AM)
+[2019.10.01-20.33.42:126][360]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.33.42:142][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015876s)
+[2019.10.01-20.33.42:143][360]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.33.42:143][360]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2019.10.01-20.33.42:143][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.017004s)
+[2019.10.01-20.33.42:182][360]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2019.10.01-20.33.42:214][360]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.33.42:223][360]LogInit: FAudioDevice initialized.
+[2019.10.01-20.33.42:230][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.33.42:230][360]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.33.42:234][360]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.33.42
+[2019.10.01-20.33.42:235][360]LogWorld: Bringing up level for play took: 0.004074
+[2019.10.01-20.33.42:235][360]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2019.10.01-20.33.42:246][360]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap -0.875
+[2019.10.01-20.33.42:247][360]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.33.57:344][473]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.33.57:344][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.33.57:344][473]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.33.57:360][473]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.33.57:366][473]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.33.57:433][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.33.57:433][473]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.33.57:473][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.10.01-20.33.57:630][474]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.10.01-20.34.30:602][727]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.34.30:836][727]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.10.01-20.34.31:084][727]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBP21216480435FA33783BFAC9FF26525B7.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.34.31:475][745]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.34.31:489][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.34.31:489][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.34.31:489][745]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:34:31 AM)
+[2019.10.01-20.34.31:489][745]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.34.31:505][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015911s)
+[2019.10.01-20.34.31:506][745]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.34.31:506][745]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2019.10.01-20.34.31:506][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.016975s)
+[2019.10.01-20.34.31:543][745]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.10.01-20.34.31:574][745]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.34.31:584][745]LogInit: FAudioDevice initialized.
+[2019.10.01-20.34.31:591][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.34.31:592][745]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.34.31:597][745]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.34.31
+[2019.10.01-20.34.31:597][745]LogWorld: Bringing up level for play took: 0.004685
+[2019.10.01-20.34.31:597][745]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2019.10.01-20.34.31:606][745]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap 0.484
+[2019.10.01-20.34.31:606][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.34.36:782][ 73]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.34.36:782][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.34.36:782][ 73]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.34.36:795][ 73]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.34.36:802][ 73]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.34.36:866][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.34.36:866][ 73]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.34.36:906][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.10.01-20.34.37:053][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.10.01-20.35.27:712][364]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.35.27:949][364]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.10.01-20.35.28:203][364]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBP6860515D496C5CF0B9F8EFB19B617369.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.35.28:876][396]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.35.28:890][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.35.28:890][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.35.28:890][396]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:35:28 AM)
+[2019.10.01-20.35.28:890][396]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.35.28:906][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015952s)
+[2019.10.01-20.35.28:907][396]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.35.28:907][396]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2019.10.01-20.35.28:907][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.017284s)
+[2019.10.01-20.35.28:950][396]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.10.01-20.35.28:985][396]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.35.28:998][396]LogInit: FAudioDevice initialized.
+[2019.10.01-20.35.29:011][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.35.29:011][396]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.35.29:017][396]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.35.29
+[2019.10.01-20.35.29:018][396]LogWorld: Bringing up level for play took: 0.005973
+[2019.10.01-20.35.29:018][396]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2019.10.01-20.35.29:031][396]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap -0.09
+[2019.10.01-20.35.29:031][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.35.41:598][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.35.41:598][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.35.41:598][996]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.35.41:612][996]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.35.41:619][996]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.35.41:692][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.35.41:692][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.35.41:734][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.10.01-20.35.41:889][997]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.10.01-20.36.02:520][794]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.36.02:757][794]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.10.01-20.36.03:001][794]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBPDC3BDF4A45225CA3D95BC28B9E23BD1A.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.36.03:751][832]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.36.03:769][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.36.03:770][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.36.03:770][832]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:36:03 AM)
+[2019.10.01-20.36.03:770][832]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.36.03:789][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019159s)
+[2019.10.01-20.36.03:790][832]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.36.03:790][832]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2019.10.01-20.36.03:790][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.020333s)
+[2019.10.01-20.36.03:826][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.10.01-20.36.03:857][832]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.36.03:867][832]LogInit: FAudioDevice initialized.
+[2019.10.01-20.36.03:874][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.36.03:874][832]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.36.03:880][832]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.36.03
+[2019.10.01-20.36.03:880][832]LogWorld: Bringing up level for play took: 0.005167
+[2019.10.01-20.36.03:881][832]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2019.10.01-20.36.03:889][832]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap 0.767
+[2019.10.01-20.36.03:889][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.37.07:833][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.37.07:833][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.37.07:833][137]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.37.07:848][137]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.37.07:854][137]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.37.07:921][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.37.07:921][137]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.37.07:963][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.10.01-20.37.08:111][138]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.10.01-20.38.39:834][474]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.38.40:072][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.10.01-20.38.40:324][474]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBP6EE313EA418D935669EC289543D4DAFE.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.38.41:007][534]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.38.41:022][534]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.38.41:022][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.38.41:022][534]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:38:41 AM)
+[2019.10.01-20.38.41:022][534]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.38.41:039][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016311s)
+[2019.10.01-20.38.41:040][534]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.38.41:040][534]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2019.10.01-20.38.41:040][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.017349s)
+[2019.10.01-20.38.41:076][534]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.10.01-20.38.41:107][534]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.38.41:116][534]LogInit: FAudioDevice initialized.
+[2019.10.01-20.38.41:124][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.38.41:124][534]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.38.41:129][534]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.38.41
+[2019.10.01-20.38.41:129][534]LogWorld: Bringing up level for play took: 0.004607
+[2019.10.01-20.38.41:129][534]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2019.10.01-20.38.41:137][534]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap 0.015
+[2019.10.01-20.38.41:138][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.38.43:104][732]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.38.43:111][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.38.43:111][732]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.38.43:112][732]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.38.43:175][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.38.43:175][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.38.43:212][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.10.01-20.38.43:358][733]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.10.01-20.38.45:084][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.01-20.38.45:125][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.10.01-20.38.45:379][934]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/RollingBPExampleMap4F0DF4D94AB5D6AB7C8CC39A4FF35318.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Maps/RollingBPExampleMap.umap'
+[2019.10.01-20.38.45:409][934]LogFileHelpers: Saving map 'RollingBPExampleMap' took 0.314
+[2019.10.01-20.38.46:793][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.38.46:806][ 95]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.38.46:806][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.38.46:806][ 95]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:38:46 AM)
+[2019.10.01-20.38.46:806][ 95]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.38.46:823][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016919s)
+[2019.10.01-20.38.46:824][ 95]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.38.46:824][ 95]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2019.10.01-20.38.46:824][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.018181s)
+[2019.10.01-20.38.46:859][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.10.01-20.38.46:891][ 95]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.38.46:900][ 95]LogInit: FAudioDevice initialized.
+[2019.10.01-20.38.46:907][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.38.46:908][ 95]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.38.46:912][ 95]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.38.46
+[2019.10.01-20.38.46:913][ 95]LogWorld: Bringing up level for play took: 0.004344
+[2019.10.01-20.38.46:913][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2019.10.01-20.38.46:921][ 95]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap -0.201
+[2019.10.01-20.38.46:921][ 95]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.38.55:050][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.38.55:050][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.38.55:050][889]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.38.55:063][889]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.38.55:070][889]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.38.55:133][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.38.55:133][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.38.55:172][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.10.01-20.38.55:319][890]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.10.01-20.39.03:088][801]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.39.03:329][801]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.10.01-20.39.03:582][801]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBPDA0420AC4A59047FCE43E8BCAA022FDB.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.39.04:487][884]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.39.04:500][884]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.39.04:500][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.39.04:500][884]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:39:04 AM)
+[2019.10.01-20.39.04:500][884]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.39.04:516][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015291s)
+[2019.10.01-20.39.04:516][884]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.39.04:516][884]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2019.10.01-20.39.04:517][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.016287s)
+[2019.10.01-20.39.04:553][884]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.10.01-20.39.04:584][884]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.39.04:593][884]LogInit: FAudioDevice initialized.
+[2019.10.01-20.39.04:600][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.39.04:601][884]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.39.04:606][884]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.39.04
+[2019.10.01-20.39.04:606][884]LogWorld: Bringing up level for play took: 0.004867
+[2019.10.01-20.39.04:606][884]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2019.10.01-20.39.04:615][884]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap -0.508
+[2019.10.01-20.39.04:615][884]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.39.27:189][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.39.27:189][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.39.27:189][117]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.39.27:203][117]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.39.27:210][117]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.39.27:269][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.39.27:269][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.39.27:311][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.10.01-20.39.27:460][118]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.10.01-20.39.56:750][289]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.39.56:984][289]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.10.01-20.39.57:230][289]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBP39E02FF349190CA677D3769172B6BE3E.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.39.57:961][344]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.39.57:975][344]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.39.57:975][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.39.57:975][344]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:39:57 AM)
+[2019.10.01-20.39.57:975][344]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.39.57:990][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015178s)
+[2019.10.01-20.39.57:991][344]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.39.57:991][344]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2019.10.01-20.39.57:991][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.016216s)
+[2019.10.01-20.39.58:028][344]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.10.01-20.39.58:059][344]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.39.58:068][344]LogInit: FAudioDevice initialized.
+[2019.10.01-20.39.58:076][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.39.58:076][344]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.39.58:080][344]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.39.58
+[2019.10.01-20.39.58:081][344]LogWorld: Bringing up level for play took: 0.003668
+[2019.10.01-20.39.58:081][344]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2019.10.01-20.39.58:089][344]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap 0.967
+[2019.10.01-20.39.58:090][344]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.40.00:401][532]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.40.00:408][532]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.40.00:408][532]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.40.00:408][532]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.40.00:470][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.40.00:470][532]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.40.00:510][532]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.10.01-20.40.00:667][533]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.10.01-20.40.07:062][204]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.40.07:299][204]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.10.01-20.40.07:606][204]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBPD5D49C744C49EC19DE20208EBF4DB6AB.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.40.08:049][230]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.40.08:063][230]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.40.08:063][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.40.08:063][230]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:40:08 AM)
+[2019.10.01-20.40.08:063][230]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.40.08:079][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015657s)
+[2019.10.01-20.40.08:080][230]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.40.08:080][230]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2019.10.01-20.40.08:080][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.016700s)
+[2019.10.01-20.40.08:115][230]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.10.01-20.40.08:147][230]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.40.08:156][230]LogInit: FAudioDevice initialized.
+[2019.10.01-20.40.08:163][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.40.08:163][230]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.40.08:168][230]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.40.08
+[2019.10.01-20.40.08:168][230]LogWorld: Bringing up level for play took: 0.004515
+[2019.10.01-20.40.08:168][230]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2019.10.01-20.40.08:178][230]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap 1.055
+[2019.10.01-20.40.08:178][230]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.40.14:271][715]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.40.14:271][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.40.14:271][715]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.40.14:284][715]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.40.14:291][715]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.40.14:356][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.40.14:356][715]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.40.14:397][715]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.10.01-20.40.14:561][716]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.10.01-20.40.15:215][776]LogHttp: Warning: 000002ACA81F7C40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EC2BF73-4F0C-39C6-BCC5-66A02A44DA69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=911518c9409457159d1e02beaded6b5d%7C1ee80e60c333438ea384d1d94ad05150%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-20.40.15:215][776]LogHttp: Warning: 000002ACA81F7C40: request failed, libcurl error: 0 (No error)
+[2019.10.01-20.40.15:215][776]LogHttp: Warning: 000002ACA81F7C40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2ac482ebf70 [can pipeline])
+[2019.10.01-20.40.15:216][776]LogHttp: Warning: 000002ACA81F7C40: libcurl info message cache 1 (Re-using existing connection! (#146) with host datarouter.ol.epicgames.com)
+[2019.10.01-20.40.15:216][776]LogHttp: Warning: 000002ACA81F7C40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.73.244.215) port 443 (#146))
+[2019.10.01-20.40.15:216][776]LogHttp: Warning: 000002ACA81F7C40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-20.40.15:216][776]LogHttp: Warning: 000002ACA81F7C40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-20.40.15:216][776]LogHttp: Warning: 000002ACA81F7C40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-20.40.15:216][776]LogHttp: Warning: 000002ACA81F7C40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-20.40.15:216][776]LogHttp: Warning: 000002ACA81F7C40: libcurl info message cache 7 (Closing connection 146)
+[2019.10.01-20.40.15:216][776]LogHttp: Warning: 000002ACA81F7C40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-20.40.15:216][776]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EC2BF73-4F0C-39C6-BCC5-66A02A44DA69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=911518c9409457159d1e02beaded6b5d%7C1ee80e60c333438ea384d1d94ad05150%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-20.40.35:511][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.40.46:925][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.40.53:433][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.40.56:002][261]LogEditorTransaction: Undo Modify Component(s)
+[2019.10.01-20.40.59:871][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.42.11:180][178]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.42.11:540][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2019.10.01-20.42.11:745][178]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBPC70F922947E7F2932A56DCB5A9C5C160.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.42.29:244][ 11]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.42.29:505][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.10.01-20.42.29:745][ 11]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBP40D3FF294BEF323AFE67DDA0B1A6FA39.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.42.31:229][140]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.42.31:242][140]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.42.31:242][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.42.31:242][140]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:42:31 AM)
+[2019.10.01-20.42.31:242][140]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.42.31:260][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017157s)
+[2019.10.01-20.42.31:260][140]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.42.31:261][140]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2019.10.01-20.42.31:261][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.018283s)
+[2019.10.01-20.42.31:296][140]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.10.01-20.42.31:328][140]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.42.31:337][140]LogInit: FAudioDevice initialized.
+[2019.10.01-20.42.31:344][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.42.31:344][140]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.42.31:350][140]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.42.31
+[2019.10.01-20.42.31:351][140]LogWorld: Bringing up level for play took: 0.005428
+[2019.10.01-20.42.31:351][140]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2019.10.01-20.42.31:359][140]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap 0.236
+[2019.10.01-20.42.31:359][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.42.45:075][200]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.42.45:075][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.42.45:075][200]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.42.45:089][200]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.42.45:093][200]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.42.45:159][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.42.45:159][200]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.42.45:200][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.10.01-20.42.45:346][201]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.10.01-20.42.57:337][448]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.42.57:570][448]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.10.01-20.42.57:809][448]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBP4CCEE84F4342D815F819FAAFF9430B7C.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.42.58:081][459]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.42.58:094][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.42.58:095][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.42.58:095][459]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:42:58 AM)
+[2019.10.01-20.42.58:095][459]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.42.58:110][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015345s)
+[2019.10.01-20.42.58:111][459]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.42.58:111][459]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2019.10.01-20.42.58:111][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.016374s)
+[2019.10.01-20.42.58:149][459]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.10.01-20.42.58:181][459]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.42.58:190][459]LogInit: FAudioDevice initialized.
+[2019.10.01-20.42.58:197][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.42.58:197][459]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.42.58:202][459]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.42.58
+[2019.10.01-20.42.58:203][459]LogWorld: Bringing up level for play took: 0.004836
+[2019.10.01-20.42.58:203][459]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2019.10.01-20.42.58:211][459]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap 1.087
+[2019.10.01-20.42.58:211][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.43.22:858][380]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.43.22:858][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.43.22:858][380]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.43.22:873][380]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.43.22:877][380]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.43.22:944][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.43.22:944][380]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.43.22:988][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.10.01-20.43.23:136][381]LogPlayLevel: Display: Destroying online subsystem :Context_47
