@@ -8497,3 +8497,194 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.01-18.32.14:338][373]LogHttp: Warning: 000002ACA176C7C0: libcurl info message cache 7 (Closing connection 90)
 [2019.10.01-18.32.14:338][373]LogHttp: Warning: 000002ACA176C7C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
 [2019.10.01-18.32.14:338][373]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EC2BF73-4F0C-39C6-BCC5-66A02A44DA69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=911518c9409457159d1e02beaded6b5d%7C1ee80e60c333438ea384d1d94ad05150%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-18.54.11:726][152]LogHttp: Warning: 000002AC8DEF5BC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EC2BF73-4F0C-39C6-BCC5-66A02A44DA69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=911518c9409457159d1e02beaded6b5d%7C1ee80e60c333438ea384d1d94ad05150%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-18.54.11:726][152]LogHttp: Warning: 000002AC8DEF5BC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.10.01-18.54.11:726][152]LogHttp: Warning: 000002AC8DEF5BC0: libcurl info message cache 0 (Connection 95 seems to be dead!)
+[2019.10.01-18.54.11:726][152]LogHttp: Warning: 000002AC8DEF5BC0: libcurl info message cache 1 (Closing connection 95)
+[2019.10.01-18.54.11:726][152]LogHttp: Warning: 000002AC8DEF5BC0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-18.54.11:726][152]LogHttp: Warning: 000002AC8DEF5BC0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.10.01-18.54.11:726][152]LogHttp: Warning: 000002AC8DEF5BC0: libcurl info message cache 4 (Closing connection 96)
+[2019.10.01-18.54.11:765][153]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EC2BF73-4F0C-39C6-BCC5-66A02A44DA69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=911518c9409457159d1e02beaded6b5d%7C1ee80e60c333438ea384d1d94ad05150%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-19.42.15:470][787]LogHttp: Warning: 000002AC8DEF6AC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EC2BF73-4F0C-39C6-BCC5-66A02A44DA69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=911518c9409457159d1e02beaded6b5d%7C1ee80e60c333438ea384d1d94ad05150%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-19.42.15:470][787]LogHttp: Warning: 000002AC8DEF6AC0: request failed, libcurl error: 0 (No error)
+[2019.10.01-19.42.15:470][787]LogHttp: Warning: 000002AC8DEF6AC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2ac482ebf70 [can pipeline])
+[2019.10.01-19.42.15:470][787]LogHttp: Warning: 000002AC8DEF6AC0: libcurl info message cache 1 (Re-using existing connection! (#116) with host datarouter.ol.epicgames.com)
+[2019.10.01-19.42.15:470][787]LogHttp: Warning: 000002AC8DEF6AC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.169.59.58) port 443 (#116))
+[2019.10.01-19.42.15:470][787]LogHttp: Warning: 000002AC8DEF6AC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-19.42.15:470][787]LogHttp: Warning: 000002AC8DEF6AC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-19.42.15:470][787]LogHttp: Warning: 000002AC8DEF6AC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-19.42.15:470][787]LogHttp: Warning: 000002AC8DEF6AC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-19.42.15:470][787]LogHttp: Warning: 000002AC8DEF6AC0: libcurl info message cache 7 (Closing connection 116)
+[2019.10.01-19.42.15:470][787]LogHttp: Warning: 000002AC8DEF6AC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-19.42.15:470][787]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EC2BF73-4F0C-39C6-BCC5-66A02A44DA69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=911518c9409457159d1e02beaded6b5d%7C1ee80e60c333438ea384d1d94ad05150%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-19.48.22:750][ 62]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-19.48.25:941][392]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2019.10.01-19.48.27:127][392]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.01-19.48.27:216][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.10.01-19.48.27:250][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.10.01-19.48.27:282][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.10.01-19.56.15:329][627]LogHttp: Warning: 000002AC3F583380: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EC2BF73-4F0C-39C6-BCC5-66A02A44DA69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=911518c9409457159d1e02beaded6b5d%7C1ee80e60c333438ea384d1d94ad05150%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-19.56.15:329][627]LogHttp: Warning: 000002AC3F583380: request failed, libcurl error: 0 (No error)
+[2019.10.01-19.56.15:329][627]LogHttp: Warning: 000002AC3F583380: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2ac482ebf70 [can pipeline])
+[2019.10.01-19.56.15:329][627]LogHttp: Warning: 000002AC3F583380: libcurl info message cache 1 (Re-using existing connection! (#123) with host datarouter.ol.epicgames.com)
+[2019.10.01-19.56.15:329][627]LogHttp: Warning: 000002AC3F583380: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.106.25) port 443 (#123))
+[2019.10.01-19.56.15:329][627]LogHttp: Warning: 000002AC3F583380: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-19.56.15:329][627]LogHttp: Warning: 000002AC3F583380: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-19.56.15:329][627]LogHttp: Warning: 000002AC3F583380: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-19.56.15:329][627]LogHttp: Warning: 000002AC3F583380: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-19.56.15:329][627]LogHttp: Warning: 000002AC3F583380: libcurl info message cache 7 (Closing connection 123)
+[2019.10.01-19.56.15:329][627]LogHttp: Warning: 000002AC3F583380: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-19.56.15:329][627]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EC2BF73-4F0C-39C6-BCC5-66A02A44DA69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=911518c9409457159d1e02beaded6b5d%7C1ee80e60c333438ea384d1d94ad05150%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-19.59.38:304][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.10.01-19.59.38:304][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RollingBP/Maps/RollingBPExampleMap' took 0.031
+[2019.10.01-19.59.38:306][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RollingBP/Blueprints/PhysicsBallBP] ([1] browsable assets)...
+[2019.10.01-19.59.38:306][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollingBP/Blueprints/PhysicsBallBP]
+[2019.10.01-19.59.38:453][407]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBP_Auto172E09BCC47ED3E0D4B7F3782F9AF43A1.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Autosaves/Game/RollingBP/Blueprints/PhysicsBallBP_Auto1.uasset'
+[2019.10.01-19.59.38:455][407]LogFileHelpers: Auto-saving content packages took 0.150
+[2019.10.01-20.01.15:717][116]LogHttp: Warning: 000002AC3F580E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EC2BF73-4F0C-39C6-BCC5-66A02A44DA69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=911518c9409457159d1e02beaded6b5d%7C1ee80e60c333438ea384d1d94ad05150%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-20.01.15:717][116]LogHttp: Warning: 000002AC3F580E00: request failed, libcurl error: 0 (No error)
+[2019.10.01-20.01.15:717][116]LogHttp: Warning: 000002AC3F580E00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2ac482ebf70 [can pipeline])
+[2019.10.01-20.01.15:717][116]LogHttp: Warning: 000002AC3F580E00: libcurl info message cache 1 (Re-using existing connection! (#125) with host datarouter.ol.epicgames.com)
+[2019.10.01-20.01.15:717][116]LogHttp: Warning: 000002AC3F580E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.195.131.10) port 443 (#125))
+[2019.10.01-20.01.15:717][116]LogHttp: Warning: 000002AC3F580E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-20.01.15:717][116]LogHttp: Warning: 000002AC3F580E00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-20.01.15:717][116]LogHttp: Warning: 000002AC3F580E00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-20.01.15:717][116]LogHttp: Warning: 000002AC3F580E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-20.01.15:717][116]LogHttp: Warning: 000002AC3F580E00: libcurl info message cache 7 (Closing connection 125)
+[2019.10.01-20.01.15:717][116]LogHttp: Warning: 000002AC3F580E00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-20.01.16:050][117]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EC2BF73-4F0C-39C6-BCC5-66A02A44DA69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=911518c9409457159d1e02beaded6b5d%7C1ee80e60c333438ea384d1d94ad05150%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-20.12.16:668][820]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.12.16:915][820]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.10.01-20.12.17:173][820]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBP957E301F44A29477FB50ECA2DEDF296A.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.12.18:500][881]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.12.18:513][881]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.12.18:514][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.12.18:514][881]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:12:18 AM)
+[2019.10.01-20.12.18:517][881]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.12.18:561][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043868s)
+[2019.10.01-20.12.18:562][881]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.12.18:562][881]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2019.10.01-20.12.18:562][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.045097s)
+[2019.10.01-20.12.18:600][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2019.10.01-20.12.18:630][881]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.12.18:640][881]LogInit: FAudioDevice initialized.
+[2019.10.01-20.12.18:648][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.12.18:648][881]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.12.18:652][881]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.12.18
+[2019.10.01-20.12.18:652][881]LogWorld: Bringing up level for play took: 0.003947
+[2019.10.01-20.12.18:653][881]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.10.01-20.12.18:660][881]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap -0.459
+[2019.10.01-20.12.18:660][881]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.12.43:048][922]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.12.43:048][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.12.43:048][922]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.12.43:062][922]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.12.43:068][922]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.12.43:127][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.12.43:127][922]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.12.43:170][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.10.01-20.12.43:308][923]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.10.01-20.13.34:256][395]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.10.01-20.13.34:493][395]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.10.01-20.13.34:742][395]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/PhysicsBallBP3473869A4E62CAC10F19D08E034F6DE0.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.10.01-20.13.35:815][464]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.13.35:828][464]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.13.35:828][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.13.35:828][464]PIE: New page: PIE session: RollingBPExampleMap (Oct 1, 2019, 8:13:35 AM)
+[2019.10.01-20.13.35:833][464]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.13.35:850][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016589s)
+[2019.10.01-20.13.35:851][464]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.13.35:851][464]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2019.10.01-20.13.35:851][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.018158s)
+[2019.10.01-20.13.35:890][464]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.10.01-20.13.35:921][464]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-20.13.35:932][464]LogInit: FAudioDevice initialized.
+[2019.10.01-20.13.35:939][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.13.35:939][464]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.13.35:943][464]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.10.01-14.13.35
+[2019.10.01-20.13.35:944][464]LogWorld: Bringing up level for play took: 0.003939
+[2019.10.01-20.13.35:944][464]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.10.01-20.13.35:952][464]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap 0.833
+[2019.10.01-20.13.35:952][464]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.14.52:797][ 98]Set new viewmode: Wireframe
+[2019.10.01-20.14.54:990][232]Set new viewmode: Wireframe
+[2019.10.01-20.14.55:462][261]Set new viewmode: Unlit
+[2019.10.01-20.14.56:501][324]Set new viewmode: Wireframe
+[2019.10.01-20.15.03:328][730]Set new viewmode: Unlit
+[2019.10.01-20.15.15:764][484]Set new viewmode: Unlit
+[2019.10.01-20.15.16:247][514]Set new viewmode: Lit
+[2019.10.01-20.15.17:112][566]Set new viewmode: Lit_DetailLighting
+[2019.10.01-20.15.17:858][608]Set new viewmode: ShaderComplexity
+[2019.10.01-20.15.17:888][609]LogMaterial: Display: Missing cached shader map for material DebugViewMode ComplexityAccumulate, compiling. Is special engine material.
+[2019.10.01-20.15.17:938][610]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 57
+[2019.10.01-20.15.17:938][610]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2019.10.01-20.15.17:938][610]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 55
+[2019.10.01-20.15.17:938][610]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 54
+[2019.10.01-20.15.18:611][641]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 53
+[2019.10.01-20.15.18:611][641]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2019.10.01-20.15.18:761][647]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2019.10.01-20.15.18:883][651]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2019.10.01-20.15.18:910][652]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2019.10.01-20.15.18:910][652]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 48
+[2019.10.01-20.15.19:040][657]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2019.10.01-20.15.19:166][662]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2019.10.01-20.15.19:194][663]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2019.10.01-20.15.19:241][665]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2019.10.01-20.15.19:368][670]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2019.10.01-20.15.19:368][670]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2019.10.01-20.15.19:388][671]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2019.10.01-20.15.19:513][676]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2019.10.01-20.15.19:535][677]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2019.10.01-20.15.19:607][680]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2019.10.01-20.15.19:765][686]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2019.10.01-20.15.19:789][687]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2019.10.01-20.15.19:813][688]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2019.10.01-20.15.19:972][694]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2019.10.01-20.15.19:996][695]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2019.10.01-20.15.19:996][695]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2019.10.01-20.15.20:173][701]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2019.10.01-20.15.20:251][704]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2019.10.01-20.15.20:334][707]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2019.10.01-20.15.20:462][712]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2019.10.01-20.15.20:488][713]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2019.10.01-20.15.20:514][714]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2019.10.01-20.15.20:675][720]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2019.10.01-20.15.20:675][720]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.10.01-20.15.20:699][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.10.01-20.15.20:841][727]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2019.10.01-20.15.20:841][727]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.01-20.15.20:892][729]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.10.01-20.15.21:034][734]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.10.01-20.15.21:034][734]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.10.01-20.15.21:083][736]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.10.01-20.15.21:213][741]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.01-20.15.21:238][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2019.10.01-20.15.21:260][743]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.10.01-20.15.21:370][747]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2019.10.01-20.15.21:418][749]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.10.01-20.15.21:444][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.10.01-20.15.21:567][755]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.10.01-20.15.21:567][755]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2019.10.01-20.15.21:615][757]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.10.01-20.15.21:773][763]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.01-20.15.21:797][764]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.10.01-20.15.21:797][764]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.01-20.15.21:945][770]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.10.01-20.15.21:945][770]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.10.01-20.15.21:979][771]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.01-20.15.22:283][772]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.01-20.15.25:288][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.15.25:289][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.15.25:289][949]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.10.01-20.15.25:302][949]LogSlate: Window 'RollingTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-20.15.25:307][949]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.15.25:365][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.15.25:366][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.10.01-20.15.25:407][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.10.01-20.15.25:541][950]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.10.01-20.15.53:522][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.10.01-20.15.53:800][401]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/RollingBPExampleMap_Auto2BA0D45AC42C9CED15D1D2DBAAB751505.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto2.umap'
+[2019.10.01-20.15.53:811][401]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RollingBP/Maps/RollingBPExampleMap' took 0.323
+[2019.10.01-20.15.53:811][401]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.323
+[2019.10.01-20.16.25:019][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.10.01-20.16.25:264][927]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/RollingBPExampleMap044B08014CB4AC36A8282F8C936E1327.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Maps/RollingBPExampleMap.umap'
