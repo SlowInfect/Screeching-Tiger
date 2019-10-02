@@ -1,0 +1,1410 @@
+﻿Log file open, 10/01/19 20:06:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RollingTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.081456
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.02-02.06.47:388][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.02-02.06.47:388][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.02-02.06.47:388][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.02-02.06.47:396][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.02-02.06.47:396][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.02-02.06.47:397][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.02-02.06.47:397][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.02-02.06.47:397][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.02-02.06.47:400][  0]LogHAL: Display: Platform has ~ 32 GB [34297401344 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.02-02.06.47:400][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.02-02.06.47:400][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.02-02.06.47:400][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.02-02.06.47:401][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.02-02.06.47:401][  0]LogInit: Computer: eae-z97-007
+[2019.10.02-02.06.47:401][  0]LogInit: User: u1273592
+[2019.10.02-02.06.47:401][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.02-02.06.47:401][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.02-02.06.47:401][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.10.02-02.06.47:401][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.02-02.06.47:401][  0]LogMemory: Process Physical Memory: 102.74 MB used, 102.75 MB peak
+[2019.10.02-02.06.47:401][  0]LogMemory: Process Virtual Memory: 99.44 MB used, 99.44 MB peak
+[2019.10.02-02.06.47:401][  0]LogMemory: Physical Memory: 13075.46 MB used,  19633.09 MB free, 32708.55 MB total
+[2019.10.02-02.06.47:401][  0]LogMemory: Virtual Memory: 4666.68 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.10.02-02.06.47:404][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.02-02.06.47:430][  0]LogInit: Using OS detected language (en-US).
+[2019.10.02-02.06.47:430][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.02-02.06.47:431][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.02-02.06.47:634][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.02-02.06.47:676][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.02-02.06.47:676][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.02-02.06.47:859][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.02-02.06.47:859][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.02-02.06.47:933][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.10.02-02.06.47:933][  0]LogD3D11RHI:       8088/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.02-02.06.47:937][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.02-02.06.47:937][  0]LogD3D11RHI:       0/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.02-02.06.47:937][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.02-02.06.47:947][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.02-02.06.47:947][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.02-02.06.47:947][  0]LogWindows: EnumDisplayDevices:
+[2019.10.02-02.06.47:947][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.10.02-02.06.47:947][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.10.02-02.06.47:947][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.02-02.06.47:948][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.02-02.06.47:948][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.02-02.06.47:948][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.10.02-02.06.47:948][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.10.02-02.06.47:948][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.10.02-02.06.47:948][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.10.02-02.06.48:002][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.02-02.06.48:016][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.02-02.06.48:455][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.02-02.06.48:469][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.02-02.06.48:484][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.02-02.06.48:497][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.02-02.06.48:508][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.02-02.06.48:520][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.02-02.06.48:532][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.02-02.06.48:542][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.02-02.06.48:546][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.02-02.06.48:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.02-02.06.48:585][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.02-02.06.48:607][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.02-02.06.48:607][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.02-02.06.48:623][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.02-02.06.48:623][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.02-02.06.48:631][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.02-02.06.48:639][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.02-02.06.48:647][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.02-02.06.48:656][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.02-02.06.48:684][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.02-02.06.48:684][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.02-02.06.48:684][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.02-02.06.48:694][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.02-02.06.48:759][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Intermediate/Shaders/WorkingDirectory/19320/).
+[2019.10.02-02.06.48:759][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1273592/AppData/Local/Temp/UnrealShaderWorkingDir/088629A04D04B3DB9205988F2F8177CA/'.
+[2019.10.02-02.06.48:762][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.02-02.06.48:762][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.02-02.06.48:762][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.02-02.06.49:482][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.02-02.06.49:544][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/u1273592/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.02-02.06.49:544][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1273592/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.02-02.06.49:545][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.02-02.06.49:545][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.02-02.06.49:545][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.02-02.06.49:545][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.02-02.06.49:556][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.02-02.06.49:556][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.02-02.06.49:556][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.02-02.06.49:558][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1273592/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.02-02.06.49:558][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.02-02.06.49:558][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.02-02.06.49:580][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.02-02.06.49:582][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.02-02.06.49:583][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.02-02.06.49:647][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2019.10.02-02.06.49:951][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.02-02.06.50:115][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.02-02.06.50:115][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.02-02.06.50:115][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.02-02.06.50:115][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.02-02.06.50:115][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.02-02.06.50:126][  0]LogNetVersion: RollingTest 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2953011573)
+[2019.10.02-02.06.50:596][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.068030 seconds
+[2019.10.02-02.06.50:604][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.02-02.06.50:604][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.02-02.06.50:604][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.02-02.06.51:497][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.02-02.06.51:499][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.02-02.06.51:609][  0]SourceControl: Source control is disabled
+[2019.10.02-02.06.51:609][  0]SourceControl: Source control is disabled
+[2019.10.02-02.06.51:611][  0]SourceControl: Source control is disabled
+[2019.10.02-02.06.51:612][  0]SourceControl: Source control is disabled
+[2019.10.02-02.06.51:706][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.02-02.06.51:854][  0]LogOcInput: OculusInput pre-init called
+[2019.10.02-02.06.51:862][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.02-02.06.51:862][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.02-02.06.51:941][  0]LogEngine: Initializing Engine...
+[2019.10.02-02.06.51:941][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.02-02.06.51:943][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.02-02.06.52:185][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.02-02.06.52:200][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.02-02.06.52:226][  0]LogInit: XAudio2 using 'DELL UZ2315H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.02-02.06.52:242][  0]LogInit: FAudioDevice initialized.
+[2019.10.02-02.06.52:242][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.02-02.06.52:331][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/u1273592/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.02-02.06.52:337][  0]LogInit: Texture streaming: Enabled
+[2019.10.02-02.06.52:356][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.02-02.06.52:436][  0]LogInit: Transaction tracking system initialized
+[2019.10.02-02.06.52:468][  0]BlueprintLog: New page: Editor Load
+[2019.10.02-02.06.52:554][  0]LocalizationService: Localization service is disabled
+[2019.10.02-02.06.52:783][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/ as it will conflict with another watching ../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/.
+[2019.10.02-02.06.52:783][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/ as it will conflict with another watching ../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/.
+[2019.10.02-02.06.52:783][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/ as it will conflict with another watching ../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/.
+[2019.10.02-02.06.52:800][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/' took 0.00s
+[2019.10.02-02.06.52:800][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.02-02.06.52:800][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.02-02.06.52:997][  0]SourceControl: Source control is disabled
+[2019.10.02-02.06.52:997][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/RollingBP/Maps/RollingBPExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.02-02.06.52:997][  0]LightingResults: New page: Lighting Build
+[2019.10.02-02.06.53:000][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-02.06.53:000][  0]MapCheck: New page: Map Check
+[2019.10.02-02.06.53:000][  0]LightingResults: New page: Lighting Build
+[2019.10.02-02.06.53:024][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.02-02.06.53:280][  0]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.02-02.06.53:304][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.02-02.06.53:334][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.10.02-02.06.53:334][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.02-02.06.53:334][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2019.10.02-02.06.53:334][  0]LogFileHelpers: Loading map 'RollingBPExampleMap' took 0.337
+[2019.10.02-02.06.53:469][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.06.53:486][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.06.53:499][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.06.53:507][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.06.53:514][  0]LogCollectionManager: Loaded 0 collections in 0.001817 seconds
+[2019.10.02-02.06.53:520][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Collections/' took 0.00s
+[2019.10.02-02.06.53:520][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Developers/u1273592/Collections/' took 0.00s
+[2019.10.02-02.06.53:520][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Collections/' took 0.00s
+[2019.10.02-02.06.53:520][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.02-02.06.53:528][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2872 classes and 685 folders.
+[2019.10.02-02.06.53:536][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.02-02.06.53:582][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.02-02.06.53:606][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.02-02.06.53:608][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.02-02.06.53:613][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.02-02.06.53:681][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.10.02-02.06.53:794][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.02-02.06.53:794][  0]LogLoad: (Engine Initialization) Total time: 7.80 seconds
+[2019.10.02-02.06.53:794][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.02-02.06.53:846][  0]LogAssetRegistry: Asset discovery search completed in 4.2003 seconds
+[2019.10.02-02.06.53:849][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.10.02-02.06.53:849][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2019.10.02-02.06.53:851][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.02-02.06.56:473][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.06.56:530][299]LogSlate: Window 'Plugins' being destroyed
+[2019.10.02-02.06.56:534][299]LogSlate: Window 'Plugins' being destroyed
+[2019.10.02-02.06.56:534][299]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.10.02-02.07.01:399][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.07.10:574][881]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.02-02.07.10:733][881]LogAIModule: Creating AISystem for world Gym_Lin
+[2019.10.02-02.07.10:749][881]LogAssetEditorManager: Opening Asset editor for World /Game/RollingBP/Maps/Gym_Lin.Gym_Lin
+[2019.10.02-02.07.10:776][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.10.02-02.07.10:777][881]Cmd: MAP LOAD FILE="../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/RollingBP/Maps/Gym_Lin.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.02-02.07.10:777][881]LightingResults: New page: Lighting Build
+[2019.10.02-02.07.10:777][881]LoadErrors: New page: Loading map: Gym_Lin.umap
+[2019.10.02-02.07.10:778][881]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-02.07.10:778][881]MapCheck: New page: Map Check
+[2019.10.02-02.07.10:778][881]LightingResults: New page: Lighting Build
+[2019.10.02-02.07.10:802][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.10.02-02.07.10:817][881]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.02-02.07.10:840][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.10.02-02.07.10:880][881]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.02-02.07.10:880][881]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.164ms to complete.
+[2019.10.02-02.07.10:880][881]LogFileHelpers: Loading map 'Gym_Lin' took 0.104
+[2019.10.02-02.07.18:246][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.07.21:628][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.10.02-02.07.23:276][138]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.02-02.07.23:281][138]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/RollingBP/Maps/destructibleMeshLevelLin.destructibleMeshLevelLin
+[2019.10.02-02.07.23:712][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.10.02-02.07.23:851][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.10.02-02.07.23:874][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.10.02-02.07.23:897][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.02-02.07.36:731][637]LogDestructible: Warning: MainMesh Tris: 12
+[2019.10.02-02.07.36:743][637]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2019.10.02-02.07.36:743][637]LogApexDestructibleAssetImport: Warning: Bones digested - 2  Depth of hierarchy - 2
+[2019.10.02-02.07.36:762][637]LogSkeletalMesh: Section 0: 35 vertices, 1 active bones
+[2019.10.02-02.07.36:765][637]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2019.10.02-02.07.36:766][637]LogSkeletalMesh: Building Skeletal Mesh 1M_Cube_DM...
+[2019.10.02-02.07.36:767][637]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.07.36:768][637]LogSkeletalMesh: Building Skeletal Mesh 1M_Cube_DM...
+[2019.10.02-02.07.36:768][637]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.07.36:776][637]LogAssetEditorManager: Opening Asset editor for DestructibleMesh /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.07.36:789][637]LogMaterial: Display: Material /Game/Geometry/Meshes/CubeMaterial.CubeMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2019.10.02-02.07.36:792][637]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.10.02-02.07.36:893][637]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2019.10.02-02.07.36:893][637]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 59
+[2019.10.02-02.07.36:894][637]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 49
+[2019.10.02-02.07.36:894][637]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2019.10.02-02.07.38:815][785]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:3).
+[2019.10.02-02.07.41:185][999]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2019.10.02-02.07.41:341][  6]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.02-02.07.42:382][104]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.02-02.07.43:258][183]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.10.02-02.07.43:894][244]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.02-02.07.43:968][251]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.02-02.07.44:563][307]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.10.02-02.07.44:704][321]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.10.02-02.07.44:948][342]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.10.02-02.07.45:074][354]LogDestructible: Warning: MainMesh Tris: 12
+[2019.10.02-02.07.45:095][354]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2019.10.02-02.07.45:095][354]LogApexDestructibleAssetImport: Warning: Bones digested - 27  Depth of hierarchy - 2
+[2019.10.02-02.07.45:110][354]LogSkeletalMesh: Section 0: 2293 vertices, 26 active bones
+[2019.10.02-02.07.45:113][354]LogSkeletalMesh: Section 0: Material=0, 768 triangles
+[2019.10.02-02.07.45:115][354]LogSkeletalMesh: Building Skeletal Mesh 1M_Cube_DM...
+[2019.10.02-02.07.45:117][354]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.07.45:958][448]LogDestructible: Warning: MainMesh Tris: 12
+[2019.10.02-02.07.45:974][448]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2019.10.02-02.07.45:974][448]LogApexDestructibleAssetImport: Warning: Bones digested - 27  Depth of hierarchy - 2
+[2019.10.02-02.07.45:988][448]LogSkeletalMesh: Section 0: 2298 vertices, 26 active bones
+[2019.10.02-02.07.45:991][448]LogSkeletalMesh: Section 0: Material=0, 768 triangles
+[2019.10.02-02.07.45:992][448]LogSkeletalMesh: Building Skeletal Mesh 1M_Cube_DM...
+[2019.10.02-02.07.45:994][448]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.07.46:608][520]LogDestructible: Warning: MainMesh Tris: 12
+[2019.10.02-02.07.46:623][520]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2019.10.02-02.07.46:624][520]LogApexDestructibleAssetImport: Warning: Bones digested - 27  Depth of hierarchy - 2
+[2019.10.02-02.07.46:637][520]LogSkeletalMesh: Section 0: 2289 vertices, 26 active bones
+[2019.10.02-02.07.46:641][520]LogSkeletalMesh: Section 0: Material=0, 768 triangles
+[2019.10.02-02.07.46:642][520]LogSkeletalMesh: Building Skeletal Mesh 1M_Cube_DM...
+[2019.10.02-02.07.46:643][520]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.08.20:921][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.08.27:898][436]LogSkeletalMesh: Building Skeletal Mesh 1M_Cube_DM...
+[2019.10.02-02.08.27:900][436]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.10.41:195][112]LogDestructible: Warning: MainMesh Tris: 12
+[2019.10.02-02.10.41:211][112]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2019.10.02-02.10.41:211][112]LogApexDestructibleAssetImport: Warning: Bones digested - 27  Depth of hierarchy - 2
+[2019.10.02-02.10.41:228][112]LogSkeletalMesh: Section 0: 2043 vertices, 26 active bones
+[2019.10.02-02.10.41:232][112]LogSkeletalMesh: Section 0: Material=0, 768 triangles
+[2019.10.02-02.10.41:233][112]LogSkeletalMesh: Building Skeletal Mesh 1M_Cube_DM...
+[2019.10.02-02.10.41:235][112]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.10.42:448][242]LogDestructible: Warning: MainMesh Tris: 12
+[2019.10.02-02.10.42:464][242]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2019.10.02-02.10.42:465][242]LogApexDestructibleAssetImport: Warning: Bones digested - 27  Depth of hierarchy - 2
+[2019.10.02-02.10.42:479][242]LogSkeletalMesh: Section 0: 1716 vertices, 26 active bones
+[2019.10.02-02.10.42:483][242]LogSkeletalMesh: Section 0: Material=0, 768 triangles
+[2019.10.02-02.10.42:484][242]LogSkeletalMesh: Building Skeletal Mesh 1M_Cube_DM...
+[2019.10.02-02.10.42:485][242]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.10.46:613][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube_DM" FILE="../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset" SILENT=true
+[2019.10.02-02.10.46:645][731]LogSavePackage: Moving '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/1M_Cube_DM6D9F5C644C30B56679778C87D812BA88.tmp' to '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset'
+[2019.10.02-02.10.48:484][948]LogSlate: Window '1M_Cube_DM' being destroyed
+[2019.10.02-02.10.48:509][948]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-02.11.16:014][818]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl_6)
+[2019.10.02-02.11.17:924][ 37]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.11.23:261][656]LogEditorViewport: Clicking Background
+[2019.10.02-02.11.25:492][911]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.11.35:454][ 67]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl_6)
+[2019.10.02-02.11.35:931][116]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl_5)
+[2019.10.02-02.11.36:257][147]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl_5)
+[2019.10.02-02.11.38:719][416]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl_6)
+[2019.10.02-02.11.39:440][494]LogEditorViewport: Clicking on Actor (LMB): PhysicsBallBP_Becky_C (PhysicsBallBP_Becky)
+[2019.10.02-02.11.41:207][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lvl1_Wall_FR7)
+[2019.10.02-02.11.43:844][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.11.43:909][  1]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-02.11.43:939][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.11.43:939][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-02.11.43:939][  1]PIE: New page: PIE session: Gym_Lin (Oct 1, 2019, 2:11:43 PM)
+[2019.10.02-02.11.43:940][  1]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.02-02.11.43:941][  1]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin
+[2019.10.02-02.11.43:962][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020268s)
+[2019.10.02-02.11.43:964][  1]LogAIModule: Creating AISystem for world Gym_Lin
+[2019.10.02-02.11.43:964][  1]LogPlayLevel: PIE: World Init took: (0.002530s)
+[2019.10.02-02.11.43:964][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym_Lin.Gym_Lin to /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin.Gym_Lin (0.023138s)
+[2019.10.02-02.11.43:990][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.10.02-02.11.44:014][  1]LogInit: XAudio2 using 'DELL UZ2315H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.02-02.11.44:025][  1]LogInit: FAudioDevice initialized.
+[2019.10.02-02.11.44:033][  1]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.02-02.11.44:041][  1]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin.Gym_Lin up for play (max tick rate 0) at 2019.10.01-20.11.44
+[2019.10.02-02.11.44:042][  1]LogWorld: Bringing up level for play took: 0.007926
+[2019.10.02-02.11.44:042][  1]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.10.02-02.11.44:050][  1]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.02-02.11.44:051][  1]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin -0.685
+[2019.10.02-02.11.44:051][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.11.53:828][170]LogHttp: Warning: 00000211EBFDAE80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6FF0D7E-4A9C-4EE2-2ADD-8E9043DFB613%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0f7e07984746f847bd2224b25a8b50dc%7C6dd4fb4f6b174e37abeedded07437fef%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.02-02.11.53:828][170]LogHttp: Warning: 00000211EBFDAE80: request failed, libcurl error: 0 (No error)
+[2019.10.02-02.11.53:828][170]LogHttp: Warning: 00000211EBFDAE80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x211c659ff70 [can pipeline])
+[2019.10.02-02.11.53:828][170]LogHttp: Warning: 00000211EBFDAE80: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2019.10.02-02.11.53:828][170]LogHttp: Warning: 00000211EBFDAE80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.200.58.248) port 443 (#1))
+[2019.10.02-02.11.53:828][170]LogHttp: Warning: 00000211EBFDAE80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.02-02.11.53:828][170]LogHttp: Warning: 00000211EBFDAE80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.02-02.11.53:828][170]LogHttp: Warning: 00000211EBFDAE80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.02-02.11.53:828][170]LogHttp: Warning: 00000211EBFDAE80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.02-02.11.53:828][170]LogHttp: Warning: 00000211EBFDAE80: libcurl info message cache 7 (Closing connection 1)
+[2019.10.02-02.11.53:828][170]LogHttp: Warning: 00000211EBFDAE80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.02-02.11.53:829][170]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6FF0D7E-4A9C-4EE2-2ADD-8E9043DFB613%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0f7e07984746f847bd2224b25a8b50dc%7C6dd4fb4f6b174e37abeedded07437fef%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.02-02.12.44:323][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.12.44:323][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.12.44:323][227]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin
+[2019.10.02-02.12.44:323][227]LogWorld: UWorld::CleanupWorld for Gym_Lin, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-02.12.44:331][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-02.12.44:331][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.12.44:356][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.12.44:359][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.10.02-02.12.44:426][231]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.02-02.12.47:370][570]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.13.04:627][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lvl1_Wall_FR7)
+[2019.10.02-02.13.07:489][746]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.13.08:980][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.13.17:042][646]LogAssetEditorManager: Opening Asset editor for DestructibleMesh /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.13.19:196][836]LogDestructible: Warning: MainMesh Tris: 12
+[2019.10.02-02.13.19:213][836]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2019.10.02-02.13.19:213][836]LogApexDestructibleAssetImport: Warning: Bones digested - 27  Depth of hierarchy - 2
+[2019.10.02-02.13.19:228][836]LogSkeletalMesh: Section 0: 2297 vertices, 26 active bones
+[2019.10.02-02.13.19:232][836]LogSkeletalMesh: Section 0: Material=0, 768 triangles
+[2019.10.02-02.13.19:233][836]LogSkeletalMesh: Building Skeletal Mesh 1M_Cube_DM...
+[2019.10.02-02.13.19:234][836]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.13.41:583][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.13.41:644][632]LogDestructible: Warning: MainMesh Tris: 12
+[2019.10.02-02.13.41:659][632]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2019.10.02-02.13.41:659][632]LogApexDestructibleAssetImport: Warning: Bones digested - 27  Depth of hierarchy - 2
+[2019.10.02-02.13.41:674][632]LogSkeletalMesh: Section 0: 2304 vertices, 26 active bones
+[2019.10.02-02.13.41:679][632]LogSkeletalMesh: Section 0: Material=0, 768 triangles
+[2019.10.02-02.13.41:680][632]LogSkeletalMesh: Building Skeletal Mesh 1M_Cube_DM...
+[2019.10.02-02.13.41:681][632]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.13.45:036][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube_DM" FILE="../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset" SILENT=true
+[2019.10.02-02.13.45:078][941]LogSavePackage: Moving '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/1M_Cube_DM4C7986A8455313B006AF36965A08F664.tmp' to '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset'
+[2019.10.02-02.13.55:272][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube_DM" FILE="../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset" SILENT=true
+[2019.10.02-02.13.55:295][882]LogSavePackage: Moving '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/1M_Cube_DMD66E5CEA467E35F0708911B68D488F2F.tmp' to '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset'
+[2019.10.02-02.14.06:306][987]LogSkeletalMesh: Building Skeletal Mesh 1M_Cube_DM...
+[2019.10.02-02.14.06:307][987]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.14.16:891][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube_DM" FILE="../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset" SILENT=true
+[2019.10.02-02.14.16:923][226]LogSavePackage: Moving '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/1M_Cube_DM0A249C3C432D8AFF4800729C783C7E19.tmp' to '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset'
+[2019.10.02-02.14.19:155][447]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.02-02.14.26:036][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.14.26:445][221]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-02.14.26:468][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.14.26:468][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-02.14.26:468][221]PIE: New page: PIE session: Gym_Lin (Oct 1, 2019, 2:14:26 PM)
+[2019.10.02-02.14.26:468][221]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin
+[2019.10.02-02.14.26:490][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021517s)
+[2019.10.02-02.14.26:491][221]LogAIModule: Creating AISystem for world Gym_Lin
+[2019.10.02-02.14.26:491][221]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2019.10.02-02.14.26:491][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym_Lin.Gym_Lin to /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin.Gym_Lin (0.023095s)
+[2019.10.02-02.14.26:539][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.10.02-02.14.26:562][221]LogInit: XAudio2 using 'DELL UZ2315H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.02-02.14.26:572][221]LogInit: FAudioDevice initialized.
+[2019.10.02-02.14.26:582][221]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.02-02.14.26:587][221]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin.Gym_Lin up for play (max tick rate 0) at 2019.10.01-20.14.26
+[2019.10.02-02.14.26:588][221]LogWorld: Bringing up level for play took: 0.005262
+[2019.10.02-02.14.26:588][221]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.10.02-02.14.26:590][221]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin -0.146
+[2019.10.02-02.14.26:590][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.18.12:784][348]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_4.23/Engine/Plugins/Runtime/ApexDestruction/Source/ApexDestruction/Public/DestructibleMesh.h 
+[2019.10.02-02.18.12:929][348]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_4.23/Engine/Plugins/Runtime/ApexDestruction/Source/ApexDestruction/Public/DestructibleMesh.h : 42
+[2019.10.02-02.18.12:929][348]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.10.02-02.18.12:936][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:936][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:936][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:936][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:936][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:936][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:936][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:936][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:936][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:936][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:936][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:937][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:937][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:937][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:937][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:937][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:937][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:937][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:937][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:937][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:937][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:937][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:938][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:938][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:938][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:938][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:938][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:938][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:938][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:938][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:938][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:938][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:938][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:938][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:939][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:939][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:939][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:939][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:939][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:939][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:939][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:939][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:939][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:939][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:939][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:939][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:940][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:940][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:940][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:940][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:940][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:940][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:940][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:940][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:940][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:940][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:940][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:941][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:941][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:941][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:941][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:941][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:941][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:941][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:941][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:941][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:941][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:941][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:942][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:942][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:942][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:942][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:942][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:942][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:942][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:942][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:942][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:942][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:942][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:943][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:943][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:943][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:943][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:943][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:943][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:943][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:943][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:943][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:943][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:943][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:944][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:944][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:944][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:944][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:944][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:944][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:944][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:944][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:944][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:944][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:945][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:945][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:945][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:945][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:945][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:945][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:945][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:945][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:945][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:945][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:945][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:945][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:946][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:946][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:946][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:946][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:946][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:946][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:946][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:947][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:947][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:947][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:947][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:947][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:947][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:947][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:947][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:947][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:947][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:948][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:948][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:948][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:948][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:948][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:948][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:948][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:948][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:948][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:948][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:948][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:949][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:949][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:949][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:949][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:949][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:949][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:949][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:949][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:975][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:975][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:975][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.12:975][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:009][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:009][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:019][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:019][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:021][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:021][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:024][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:029][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:029][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:029][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:045][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:045][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:062][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:062][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:065][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:124][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:126][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:126][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:127][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:127][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:127][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:135][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:135][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:136][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:136][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.18.13:141][348]LogVSAccessor: Warning: Couldn't access module table
+[2019.10.02-02.19.53:860][836]LogHttp: Warning: 00000211E90BD1C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6FF0D7E-4A9C-4EE2-2ADD-8E9043DFB613%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0f7e07984746f847bd2224b25a8b50dc%7C6dd4fb4f6b174e37abeedded07437fef%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.02-02.19.53:860][836]LogHttp: Warning: 00000211E90BD1C0: request failed, libcurl error: 0 (No error)
+[2019.10.02-02.19.53:860][836]LogHttp: Warning: 00000211E90BD1C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x211c659ff70 [can pipeline])
+[2019.10.02-02.19.53:860][836]LogHttp: Warning: 00000211E90BD1C0: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2019.10.02-02.19.53:860][836]LogHttp: Warning: 00000211E90BD1C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.70.58.29) port 443 (#4))
+[2019.10.02-02.19.53:860][836]LogHttp: Warning: 00000211E90BD1C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.02-02.19.53:860][836]LogHttp: Warning: 00000211E90BD1C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.02-02.19.53:860][836]LogHttp: Warning: 00000211E90BD1C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.02-02.19.53:860][836]LogHttp: Warning: 00000211E90BD1C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.02-02.19.53:860][836]LogHttp: Warning: 00000211E90BD1C0: libcurl info message cache 7 (Closing connection 4)
+[2019.10.02-02.19.53:860][836]LogHttp: Warning: 00000211E90BD1C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.02-02.19.53:860][836]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6FF0D7E-4A9C-4EE2-2ADD-8E9043DFB613%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0f7e07984746f847bd2224b25a8b50dc%7C6dd4fb4f6b174e37abeedded07437fef%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.02-02.20.40:961][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.20.40:961][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.20.40:961][485]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin
+[2019.10.02-02.20.40:961][485]LogWorld: UWorld::CleanupWorld for Gym_Lin, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-02.20.40:973][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-02.20.40:974][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.20.40:998][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.20.41:001][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.10.02-02.20.41:067][489]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.02-02.20.44:459][883]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.20.50:467][594]Cmd: DUPLICATE
+[2019.10.02-02.20.50:467][594]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.21.47:609][405]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.21.50:337][722]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.21.54:646][228]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.21.56:399][429]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.21.57:651][573]Cmd: DUPLICATE
+[2019.10.02-02.21.57:651][573]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.22.04:914][423]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.22.07:638][736]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl_5)
+[2019.10.02-02.22.11:288][148]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.22.18:303][959]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.22.55:303][380]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.23.09:460][ 62]Cmd: DUPLICATE
+[2019.10.02-02.23.09:460][ 62]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.23.16:694][906]Cmd: DUPLICATE
+[2019.10.02-02.23.16:694][906]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.23.33:569][884]LogEditorViewport: Clicking Background
+[2019.10.02-02.23.37:545][338]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.23.40:518][684]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.23.41:563][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_30)
+[2019.10.02-02.23.42:279][882]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.24.00:709][ 70]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM3)
+[2019.10.02-02.24.20:612][416]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM3)
+[2019.10.02-02.24.21:963][575]Cmd: DUPLICATE
+[2019.10.02-02.24.21:963][575]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.25.00:124][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-02.25.00:158][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.10.02-02.25.00:378][ 67]LogSavePackage: Moving '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Gym_Lin_Auto19FF458AB4CB83BDBB5188E98DEFC7DBB.tmp' to '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Autosaves/Game/RollingBP/Maps/Gym_Lin_Auto1.umap'
+[2019.10.02-02.25.00:381][ 67]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RollingBP/Maps/Gym_Lin' took 0.244
+[2019.10.02-02.25.00:381][ 67]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.244
+[2019.10.02-02.25.00:384][ 67]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/CubeMaterial] ([1] browsable assets)...
+[2019.10.02-02.25.00:394][ 67]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Meshes/CubeMaterial.CubeMaterial]
+[2019.10.02-02.25.00:394][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/CubeMaterial]
+[2019.10.02-02.25.00:418][ 67]LogSavePackage: Moving '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/CubeMaterial_Auto145D1AA0D477798B2C06A83A06FE1D4B0.tmp' to '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Autosaves/Game/Geometry/Meshes/CubeMaterial_Auto1.uasset'
+[2019.10.02-02.25.00:419][ 67]LogFileHelpers: Auto-saving content packages took 0.037
+[2019.10.02-02.25.02:416][299]LogEditorViewport: Clicking Background
+[2019.10.02-02.25.08:323][995]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM5)
+[2019.10.02-02.25.11:069][312]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM4)
+[2019.10.02-02.25.29:064][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.25.30:327][455]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM6)
+[2019.10.02-02.25.32:740][708]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM4)
+[2019.10.02-02.25.34:201][876]Cmd: DELETE
+[2019.10.02-02.25.34:201][876]Cmd: ACTOR DELETE
+[2019.10.02-02.25.34:205][876]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.25.34:228][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.10.02-02.25.34:229][876]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.10.02-02.25.34:604][920]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM6)
+[2019.10.02-02.25.34:722][927]Cmd: DELETE
+[2019.10.02-02.25.34:722][927]Cmd: ACTOR DELETE
+[2019.10.02-02.25.34:726][927]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.25.34:747][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.10.02-02.25.34:747][927]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.10.02-02.25.35:057][963]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM5)
+[2019.10.02-02.25.35:198][973]Cmd: DELETE
+[2019.10.02-02.25.35:198][973]Cmd: ACTOR DELETE
+[2019.10.02-02.25.35:202][973]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.25.35:226][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.10.02-02.25.35:226][973]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.10.02-02.25.35:754][ 35]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM3)
+[2019.10.02-02.25.39:471][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.25.40:623][549]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.25.41:752][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.25.42:683][754]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.25.43:589][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.25.44:484][933]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM3)
+[2019.10.02-02.25.50:161][595]Cmd: DUPLICATE
+[2019.10.02-02.25.50:161][595]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.26.01:188][894]Cmd: DUPLICATE
+[2019.10.02-02.26.01:188][894]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.26.07:499][634]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM4)
+[2019.10.02-02.26.09:273][838]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM5)
+[2019.10.02-02.26.14:301][424]LogEditorViewport: Clicking Background
+[2019.10.02-02.26.21:743][279]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM5)
+[2019.10.02-02.26.24:249][568]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM4)
+[2019.10.02-02.26.28:714][ 87]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM4)
+[2019.10.02-02.26.30:164][258]Cmd: DUPLICATE
+[2019.10.02-02.26.30:164][258]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.26.50:860][695]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM3)
+[2019.10.02-02.26.53:471][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2019.10.02-02.26.56:373][324]LogEditorViewport: Clicking Background
+[2019.10.02-02.28.04:688][198]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM6)
+[2019.10.02-02.28.06:240][377]Cmd: DUPLICATE
+[2019.10.02-02.28.06:240][377]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.28.17:774][737]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM7)
+[2019.10.02-02.28.18:745][850]Cmd: DUPLICATE
+[2019.10.02-02.28.18:745][850]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.28.45:431][ 21]Cmd: DUPLICATE
+[2019.10.02-02.28.45:431][ 21]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.28.53:023][911]Cmd: DUPLICATE
+[2019.10.02-02.28.53:023][911]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.28.57:697][459]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM10)
+[2019.10.02-02.29.02:648][ 13]LogEditorViewport: Clicking Background
+[2019.10.02-02.29.04:064][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.29.04:147][184]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-02.29.04:174][184]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.29.04:174][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-02.29.04:175][184]PIE: New page: PIE session: Gym_Lin (Oct 1, 2019, 2:29:04 PM)
+[2019.10.02-02.29.04:175][184]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin
+[2019.10.02-02.29.04:198][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023635s)
+[2019.10.02-02.29.04:200][184]LogAIModule: Creating AISystem for world Gym_Lin
+[2019.10.02-02.29.04:200][184]LogPlayLevel: PIE: World Init took: (0.001589s)
+[2019.10.02-02.29.04:200][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym_Lin.Gym_Lin to /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin.Gym_Lin (0.025437s)
+[2019.10.02-02.29.04:228][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.02-02.29.04:259][184]LogInit: XAudio2 using 'DELL UZ2315H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.02-02.29.04:273][184]LogInit: FAudioDevice initialized.
+[2019.10.02-02.29.04:279][184]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.02-02.29.04:285][184]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin.Gym_Lin up for play (max tick rate 0) at 2019.10.01-20.29.04
+[2019.10.02-02.29.04:286][184]LogWorld: Bringing up level for play took: 0.006654
+[2019.10.02-02.29.04:286][184]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.10.02-02.29.04:289][184]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin -0.44
+[2019.10.02-02.29.04:289][184]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.29.53:860][129]LogHttp: Warning: 000002119D74F100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6FF0D7E-4A9C-4EE2-2ADD-8E9043DFB613%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0f7e07984746f847bd2224b25a8b50dc%7C6dd4fb4f6b174e37abeedded07437fef%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.02-02.29.53:860][129]LogHttp: Warning: 000002119D74F100: request failed, libcurl error: 0 (No error)
+[2019.10.02-02.29.53:860][129]LogHttp: Warning: 000002119D74F100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x211c659ff70 [can pipeline])
+[2019.10.02-02.29.53:860][129]LogHttp: Warning: 000002119D74F100: libcurl info message cache 1 (Re-using existing connection! (#7) with host datarouter.ol.epicgames.com)
+[2019.10.02-02.29.53:860][129]LogHttp: Warning: 000002119D74F100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.195.131.10) port 443 (#7))
+[2019.10.02-02.29.53:860][129]LogHttp: Warning: 000002119D74F100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.02-02.29.53:860][129]LogHttp: Warning: 000002119D74F100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.02-02.29.53:860][129]LogHttp: Warning: 000002119D74F100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.02-02.29.53:860][129]LogHttp: Warning: 000002119D74F100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.02-02.29.53:861][129]LogHttp: Warning: 000002119D74F100: libcurl info message cache 7 (Closing connection 7)
+[2019.10.02-02.29.53:861][129]LogHttp: Warning: 000002119D74F100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.02-02.29.53:868][130]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6FF0D7E-4A9C-4EE2-2ADD-8E9043DFB613%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0f7e07984746f847bd2224b25a8b50dc%7C6dd4fb4f6b174e37abeedded07437fef%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.02-02.32.08:987][335]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.32.08:987][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.32.08:987][335]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin
+[2019.10.02-02.32.08:988][335]LogWorld: UWorld::CleanupWorld for Gym_Lin, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-02.32.08:998][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-02.32.08:998][335]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.32.09:024][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.32.09:028][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.02-02.32.09:090][338]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.02-02.32.10:923][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.32.11:086][565]LogActorFactory: Actor Factory created Cube
+[2019.10.02-02.32.11:488][606]LogActorFactory: Actor Factory created Cube
+[2019.10.02-02.32.12:919][771]Cmd: DELETE
+[2019.10.02-02.32.12:919][771]Cmd: ACTOR DELETE
+[2019.10.02-02.32.12:922][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.02-02.32.12:944][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.10.02-02.32.12:944][771]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.10.02-02.32.17:613][311]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM10)
+[2019.10.02-02.32.20:418][631]Cmd: DELETE
+[2019.10.02-02.32.20:418][631]Cmd: ACTOR DELETE
+[2019.10.02-02.32.20:422][631]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.32.20:422][631]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.32.20:442][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.10.02-02.32.20:442][631]LogEditorActor: Deleted 2 Actors (0.024 secs)
+[2019.10.02-02.32.20:817][675]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM8)
+[2019.10.02-02.32.21:073][699]Cmd: DELETE
+[2019.10.02-02.32.21:073][699]Cmd: ACTOR DELETE
+[2019.10.02-02.32.21:077][699]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.32.21:101][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.02-02.32.21:101][699]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.10.02-02.32.21:339][726]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM7)
+[2019.10.02-02.32.21:518][741]Cmd: DELETE
+[2019.10.02-02.32.21:519][741]Cmd: ACTOR DELETE
+[2019.10.02-02.32.21:523][741]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.32.21:545][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.02-02.32.21:545][741]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.10.02-02.32.21:889][781]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM6)
+[2019.10.02-02.32.22:009][789]Cmd: DELETE
+[2019.10.02-02.32.22:009][789]Cmd: ACTOR DELETE
+[2019.10.02-02.32.22:012][789]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.32.22:036][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.02-02.32.22:036][789]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.10.02-02.32.22:332][823]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM4)
+[2019.10.02-02.32.22:519][839]Cmd: DELETE
+[2019.10.02-02.32.22:519][839]Cmd: ACTOR DELETE
+[2019.10.02-02.32.22:523][839]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.32.22:546][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.02-02.32.22:546][839]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.10.02-02.32.22:902][881]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM5)
+[2019.10.02-02.32.23:028][889]Cmd: DELETE
+[2019.10.02-02.32.23:028][889]Cmd: ACTOR DELETE
+[2019.10.02-02.32.23:031][889]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.32.23:051][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.10.02-02.32.23:052][889]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.02-02.32.23:364][925]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.32.23:533][938]Cmd: DELETE
+[2019.10.02-02.32.23:533][938]Cmd: ACTOR DELETE
+[2019.10.02-02.32.23:537][938]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.32.23:557][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.02-02.32.23:557][938]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.02-02.32.24:893][ 97]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.32.25:944][216]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM3)
+[2019.10.02-02.32.26:767][308]Cmd: DELETE
+[2019.10.02-02.32.26:767][308]Cmd: ACTOR DELETE
+[2019.10.02-02.32.26:771][308]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.32.26:794][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.02-02.32.26:794][308]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.10.02-02.32.27:213][357]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.32.27:575][393]Cmd: DELETE
+[2019.10.02-02.32.27:575][393]Cmd: ACTOR DELETE
+[2019.10.02-02.32.27:578][393]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.32.27:599][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.02-02.32.27:600][393]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.10.02-02.32.28:334][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.32.28:709][492]LogActorFactory: Actor Factory created 1M_Cube_Chamfer
+[2019.10.02-02.32.29:734][609]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-02.32.35:025][208]Cmd: TRANSACTION UNDO
+[2019.10.02-02.32.35:025][208]LogEditorTransaction: Undo Scale Actors
+[2019.10.02-02.32.37:685][510]Cmd: TRANSACTION UNDO
+[2019.10.02-02.32.37:685][510]LogEditorTransaction: Undo Scale Actors
+[2019.10.02-02.32.43:969][257]Cmd: TRANSACTION UNDO
+[2019.10.02-02.32.43:969][257]LogEditorTransaction: Undo Scale Actors
+[2019.10.02-02.33.05:936][829]Cmd: TRANSACTION UNDO
+[2019.10.02-02.33.05:936][829]LogEditorTransaction: Undo Scale Actors
+[2019.10.02-02.33.17:580][196]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.33.43:277][208]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.33.59:024][959]LogEditorViewport: Clicking Background
+[2019.10.02-02.34.04:934][663]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.34.11:432][420]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl_6)
+[2019.10.02-02.34.12:552][547]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl_6)
+[2019.10.02-02.34.13:424][648]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl_6)
+[2019.10.02-02.34.23:471][719]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl_6)
+[2019.10.02-02.34.30:189][400]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.34.31:697][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.34.41:765][381]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl_6)
+[2019.10.02-02.34.43:367][560]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.34.45:163][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.34.45:229][773]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-02.34.45:252][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.34.45:252][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-02.34.45:252][773]PIE: New page: PIE session: Gym_Lin (Oct 1, 2019, 2:34:45 PM)
+[2019.10.02-02.34.45:252][773]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin
+[2019.10.02-02.34.45:278][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026105s)
+[2019.10.02-02.34.45:280][773]LogAIModule: Creating AISystem for world Gym_Lin
+[2019.10.02-02.34.45:280][773]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2019.10.02-02.34.45:280][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym_Lin.Gym_Lin to /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin.Gym_Lin (0.027668s)
+[2019.10.02-02.34.45:322][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.10.02-02.34.45:347][773]LogInit: XAudio2 using 'DELL UZ2315H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.02-02.34.45:357][773]LogInit: FAudioDevice initialized.
+[2019.10.02-02.34.45:369][773]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.02-02.34.45:374][773]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin.Gym_Lin up for play (max tick rate 0) at 2019.10.01-20.34.45
+[2019.10.02-02.34.45:375][773]LogWorld: Bringing up level for play took: 0.005354
+[2019.10.02-02.34.45:375][773]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.10.02-02.34.45:377][773]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin 0.653
+[2019.10.02-02.34.45:378][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.35.12:756][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.35.12:756][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.35.12:756][ 54]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin
+[2019.10.02-02.35.12:756][ 54]LogWorld: UWorld::CleanupWorld for Gym_Lin, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-02.35.12:763][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-02.35.12:763][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.35.12:789][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.35.12:792][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.10.02-02.35.12:857][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.02-02.35.18:278][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lvl1_Wall_FR7)
+[2019.10.02-02.35.33:429][453]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.35.34:999][634]Cmd: DUPLICATE
+[2019.10.02-02.35.34:999][634]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.35.59:389][533]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2019.10.02-02.36.02:428][876]LogEditorViewport: Clicking Background
+[2019.10.02-02.36.04:721][135]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume9)
+[2019.10.02-02.36.34:242][556]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.36.53:859][895]LogHttp: Warning: 00000211DE134E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6FF0D7E-4A9C-4EE2-2ADD-8E9043DFB613%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0f7e07984746f847bd2224b25a8b50dc%7C6dd4fb4f6b174e37abeedded07437fef%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.02-02.36.53:859][895]LogHttp: Warning: 00000211DE134E00: request failed, libcurl error: 0 (No error)
+[2019.10.02-02.36.53:859][895]LogHttp: Warning: 00000211DE134E00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x211c659ff70 [can pipeline])
+[2019.10.02-02.36.53:859][895]LogHttp: Warning: 00000211DE134E00: libcurl info message cache 1 (Re-using existing connection! (#9) with host datarouter.ol.epicgames.com)
+[2019.10.02-02.36.53:859][895]LogHttp: Warning: 00000211DE134E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.209.204.64) port 443 (#9))
+[2019.10.02-02.36.53:859][895]LogHttp: Warning: 00000211DE134E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.02-02.36.53:859][895]LogHttp: Warning: 00000211DE134E00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.02-02.36.53:859][895]LogHttp: Warning: 00000211DE134E00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.02-02.36.53:859][895]LogHttp: Warning: 00000211DE134E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.02-02.36.53:859][895]LogHttp: Warning: 00000211DE134E00: libcurl info message cache 7 (Closing connection 9)
+[2019.10.02-02.36.53:859][895]LogHttp: Warning: 00000211DE134E00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.02-02.36.53:867][896]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6FF0D7E-4A9C-4EE2-2ADD-8E9043DFB613%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0f7e07984746f847bd2224b25a8b50dc%7C6dd4fb4f6b174e37abeedded07437fef%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.02-02.37.36:352][973]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2019.10.02-02.37.43:817][851]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.37.44:868][969]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.38.00:235][772]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.38.39:634][454]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-02.38.39:669][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.10.02-02.38.39:891][454]LogSavePackage: Moving '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Gym_Lin_Auto2C3F6F81443B73267EA3E59B557A28184.tmp' to '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Autosaves/Game/RollingBP/Maps/Gym_Lin_Auto2.umap'
+[2019.10.02-02.38.39:895][454]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RollingBP/Maps/Gym_Lin' took 0.249
+[2019.10.02-02.38.39:895][454]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.249
+[2019.10.02-02.39.22:356][508]LogEditorViewport: Clicking Background
+[2019.10.02-02.39.27:338][ 98]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.39.29:900][398]Cmd: DUPLICATE
+[2019.10.02-02.39.29:900][398]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.39.52:324][ 32]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.39.55:012][345]Cmd: DUPLICATE
+[2019.10.02-02.39.55:012][345]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.40.00:328][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.40.09:695][769]Cmd: DELETE
+[2019.10.02-02.40.09:695][769]Cmd: ACTOR DELETE
+[2019.10.02-02.40.09:700][769]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.10.02-02.40.09:725][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.10.02-02.40.09:725][769]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.10.02-02.40.13:376][205]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.40.17:730][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.40.23:909][280]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.40.32:324][265]Cmd: TRANSACTION UNDO
+[2019.10.02-02.40.32:324][265]LogEditorTransaction: Undo Scale Actors
+[2019.10.02-02.40.32:733][304]Cmd: TRANSACTION UNDO
+[2019.10.02-02.40.32:733][304]LogEditorTransaction: Undo Set Rotation
+[2019.10.02-02.40.34:013][452]LogEditorViewport: Clicking Background
+[2019.10.02-02.40.34:612][521]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM2)
+[2019.10.02-02.40.35:477][618]Cmd: DUPLICATE
+[2019.10.02-02.40.35:477][618]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.40.43:235][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.40.50:381][250]Cmd: TRANSACTION UNDO
+[2019.10.02-02.40.50:381][250]LogEditorTransaction: Undo Move Actors
+[2019.10.02-02.40.55:182][797]Cmd: TRANSACTION UNDO
+[2019.10.02-02.40.55:182][797]LogEditorTransaction: Undo Set Rotation
+[2019.10.02-02.40.57:655][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.41.18:519][399]LogEditorViewport: Clicking Background
+[2019.10.02-02.41.59:769][336]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM4)
+[2019.10.02-02.42.03:014][704]LogEditorViewport: Clicking Background
+[2019.10.02-02.42.07:366][222]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM4)
+[2019.10.02-02.42.08:544][357]Cmd: DUPLICATE
+[2019.10.02-02.42.08:544][357]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.42.17:296][378]LogEditorViewport: Clicking Background
+[2019.10.02-02.42.20:098][710]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM5)
+[2019.10.02-02.42.26:158][419]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM4)
+[2019.10.02-02.42.32:554][173]LogEditorViewport: Clicking Background
+[2019.10.02-02.42.41:385][208]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM5)
+[2019.10.02-02.42.42:720][361]Cmd: DUPLICATE
+[2019.10.02-02.42.42:720][361]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.43.26:588][536]LogEditorViewport: Clicking Background
+[2019.10.02-02.43.28:689][779]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM6)
+[2019.10.02-02.43.33:379][321]Cmd: DUPLICATE
+[2019.10.02-02.43.33:379][321]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.43.37:384][781]Cmd: TRANSACTION UNDO
+[2019.10.02-02.43.37:384][781]LogEditorTransaction: Undo Move Actors
+[2019.10.02-02.43.44:120][555]LogEditorViewport: Clicking Background
+[2019.10.02-02.45.19:970][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.45.20:037][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-02.45.20:057][ 45]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.45.20:058][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-02.45.20:058][ 45]PIE: New page: PIE session: Gym_Lin (Oct 1, 2019, 2:45:20 PM)
+[2019.10.02-02.45.20:058][ 45]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin
+[2019.10.02-02.45.20:079][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021068s)
+[2019.10.02-02.45.20:080][ 45]LogAIModule: Creating AISystem for world Gym_Lin
+[2019.10.02-02.45.20:081][ 45]LogPlayLevel: PIE: World Init took: (0.001486s)
+[2019.10.02-02.45.20:081][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym_Lin.Gym_Lin to /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin.Gym_Lin (0.022756s)
+[2019.10.02-02.45.20:133][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.10.02-02.45.20:156][ 45]LogInit: XAudio2 using 'DELL UZ2315H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.02-02.45.20:167][ 45]LogInit: FAudioDevice initialized.
+[2019.10.02-02.45.20:172][ 45]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.02-02.45.20:178][ 45]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin.Gym_Lin up for play (max tick rate 0) at 2019.10.01-20.45.20
+[2019.10.02-02.45.20:179][ 45]LogWorld: Bringing up level for play took: 0.006310
+[2019.10.02-02.45.20:179][ 45]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.10.02-02.45.20:181][ 45]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin -0.537
+[2019.10.02-02.45.20:182][ 45]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.45.45:302][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.45.45:303][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.45.45:303][ 53]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin
+[2019.10.02-02.45.45:303][ 53]LogWorld: UWorld::CleanupWorld for Gym_Lin, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-02.45.45:313][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-02.45.45:314][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.45.45:342][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.45.45:345][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.02-02.45.45:404][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.02-02.45.53:855][ 57]LogHttp: Warning: 00000211DE134180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6FF0D7E-4A9C-4EE2-2ADD-8E9043DFB613%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0f7e07984746f847bd2224b25a8b50dc%7C6dd4fb4f6b174e37abeedded07437fef%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.02-02.45.53:856][ 57]LogHttp: Warning: 00000211DE134180: request failed, libcurl error: 0 (No error)
+[2019.10.02-02.45.53:856][ 57]LogHttp: Warning: 00000211DE134180: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x211c659ff70 [can pipeline])
+[2019.10.02-02.45.53:856][ 57]LogHttp: Warning: 00000211DE134180: libcurl info message cache 1 (Re-using existing connection! (#12) with host datarouter.ol.epicgames.com)
+[2019.10.02-02.45.53:856][ 57]LogHttp: Warning: 00000211DE134180: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.48.131) port 443 (#12))
+[2019.10.02-02.45.53:856][ 57]LogHttp: Warning: 00000211DE134180: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.02-02.45.53:856][ 57]LogHttp: Warning: 00000211DE134180: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.02-02.45.53:856][ 57]LogHttp: Warning: 00000211DE134180: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.02-02.45.53:856][ 57]LogHttp: Warning: 00000211DE134180: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.02-02.45.53:856][ 57]LogHttp: Warning: 00000211DE134180: libcurl info message cache 7 (Closing connection 12)
+[2019.10.02-02.45.53:856][ 57]LogHttp: Warning: 00000211DE134180: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.02-02.45.53:864][ 58]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6FF0D7E-4A9C-4EE2-2ADD-8E9043DFB613%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0f7e07984746f847bd2224b25a8b50dc%7C6dd4fb4f6b174e37abeedded07437fef%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.02-02.45.57:700][511]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Lvl1_Txt4)
+[2019.10.02-02.46.12:083][222]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM3)
+[2019.10.02-02.46.30:173][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.47.20:635][145]LogSkeletalMesh: Building Skeletal Mesh 1M_Cube_DM...
+[2019.10.02-02.47.20:637][145]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Meshes/1M_Cube_DM.1M_Cube_DM
+[2019.10.02-02.47.28:697][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.47.28:798][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube_DM" FILE="../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset" SILENT=true
+[2019.10.02-02.47.28:836][ 33]LogSavePackage: Moving '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/1M_Cube_DM43808037476CC31A86151EAC68453DF0.tmp' to '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset'
+[2019.10.02-02.47.30:783][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.48.39:140][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.48.42:014][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube_DM" FILE="../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset" SILENT=true
+[2019.10.02-02.48.42:038][715]LogSavePackage: Moving '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/1M_Cube_DM772C81B047CF51B406F1CC989923308C.tmp' to '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset'
+[2019.10.02-02.48.43:123][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.48.48:248][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.48.48:314][422]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-02.48.48:336][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.48.48:336][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-02.48.48:336][422]PIE: New page: PIE session: Gym_Lin (Oct 1, 2019, 2:48:48 PM)
+[2019.10.02-02.48.48:336][422]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin
+[2019.10.02-02.48.48:355][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018958s)
+[2019.10.02-02.48.48:356][422]LogAIModule: Creating AISystem for world Gym_Lin
+[2019.10.02-02.48.48:356][422]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2019.10.02-02.48.48:356][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym_Lin.Gym_Lin to /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin.Gym_Lin (0.020173s)
+[2019.10.02-02.48.48:381][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.10.02-02.48.48:409][422]LogInit: XAudio2 using 'DELL UZ2315H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.02-02.48.48:422][422]LogInit: FAudioDevice initialized.
+[2019.10.02-02.48.48:432][422]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.02-02.48.48:438][422]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin.Gym_Lin up for play (max tick rate 0) at 2019.10.01-20.48.48
+[2019.10.02-02.48.48:439][422]LogWorld: Bringing up level for play took: 0.005875
+[2019.10.02-02.48.48:439][422]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.10.02-02.48.48:441][422]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin -0.276
+[2019.10.02-02.48.48:441][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.48.57:096][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.48.57:096][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.48.57:096][457]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym_Lin
+[2019.10.02-02.48.57:096][457]LogWorld: UWorld::CleanupWorld for Gym_Lin, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-02.48.57:109][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-02.48.57:110][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin' with GeneratedClass '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym_Lin.Gym_Lin:PersistentLevel.Gym_Lin'
+[2019.10.02-02.48.57:137][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-02.48.57:140][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.02-02.48.57:202][459]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.02-02.48.57:933][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.50.05:901][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.02-02.50.06:122][591]LogSavePackage: Moving '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Gym_Lin_Auto37DAD075A43114BFD93B0F39270013CD2.tmp' to '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Autosaves/Game/RollingBP/Maps/Gym_Lin_Auto3.umap'
+[2019.10.02-02.50.06:127][591]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RollingBP/Maps/Gym_Lin' took 0.247
+[2019.10.02-02.50.06:127][591]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.247
+[2019.10.02-02.51.25:135][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.51.25:213][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube_DM" FILE="../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset" SILENT=true
+[2019.10.02-02.51.25:238][ 70]LogSavePackage: Moving '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/1M_Cube_DM7647AB734864301D34582FB5DEDC9992.tmp' to '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/1M_Cube_DM.uasset'
+[2019.10.02-02.51.28:793][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.53.01:013][514]LogEditorViewport: Clicking Background
+[2019.10.02-02.53.53:859][846]LogHttp: Warning: 00000211E4BE9A80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6FF0D7E-4A9C-4EE2-2ADD-8E9043DFB613%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0f7e07984746f847bd2224b25a8b50dc%7C6dd4fb4f6b174e37abeedded07437fef%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.02-02.53.53:859][846]LogHttp: Warning: 00000211E4BE9A80: request failed, libcurl error: 0 (No error)
+[2019.10.02-02.53.53:859][846]LogHttp: Warning: 00000211E4BE9A80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x211c659ff70 [can pipeline])
+[2019.10.02-02.53.53:859][846]LogHttp: Warning: 00000211E4BE9A80: libcurl info message cache 1 (Re-using existing connection! (#15) with host datarouter.ol.epicgames.com)
+[2019.10.02-02.53.53:859][846]LogHttp: Warning: 00000211E4BE9A80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.237.44.165) port 443 (#15))
+[2019.10.02-02.53.53:859][846]LogHttp: Warning: 00000211E4BE9A80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.02-02.53.53:859][846]LogHttp: Warning: 00000211E4BE9A80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.02-02.53.53:859][846]LogHttp: Warning: 00000211E4BE9A80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.02-02.53.53:859][846]LogHttp: Warning: 00000211E4BE9A80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.02-02.53.53:859][846]LogHttp: Warning: 00000211E4BE9A80: libcurl info message cache 7 (Closing connection 15)
+[2019.10.02-02.53.53:859][846]LogHttp: Warning: 00000211E4BE9A80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.02-02.53.53:859][846]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6FF0D7E-4A9C-4EE2-2ADD-8E9043DFB613%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0f7e07984746f847bd2224b25a8b50dc%7C6dd4fb4f6b174e37abeedded07437fef%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.02-02.55.04:950][374]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM3)
+[2019.10.02-02.55.57:563][943]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM4)
+[2019.10.02-02.56.23:584][ 29]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl_6)
+[2019.10.02-02.56.35:941][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-02.56.39:774][830]Cmd: TRANSACTION UNDO
+[2019.10.02-02.56.39:774][830]LogEditorTransaction: Undo Scale Actors
+[2019.10.02-02.56.48:467][857]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl_5)
+[2019.10.02-02.56.49:147][932]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM8)
+[2019.10.02-02.56.56:710][805]LogEditorViewport: Clicking Background
+[2019.10.02-02.56.58:097][964]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM8)
+[2019.10.02-02.57.24:429][ 68]Cmd: DUPLICATE
+[2019.10.02-02.57.24:429][ 68]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.57.27:766][459]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM9)
+[2019.10.02-02.57.52:530][373]Cmd: DUPLICATE
+[2019.10.02-02.57.52:530][373]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.58.01:988][478]LogEditorViewport: Clicking Background
+[2019.10.02-02.58.35:250][458]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM9)
+[2019.10.02-02.58.42:560][327]Cmd: DUPLICATE
+[2019.10.02-02.58.42:561][327]Cmd: ACTOR DUPLICATE
+[2019.10.02-02.58.56:577][929]LogEditorViewport: Clicking Background
+[2019.10.02-02.59.00:870][430]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-02.59.02:888][667]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-02.59.02:927][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.10.02-02.59.03:156][667]LogSavePackage: Moving '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/Gym_Lin7E74451E49B73FFC50EC05B3BD842A93.tmp' to '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/RollingBP/Maps/Gym_Lin.umap'
+[2019.10.02-03.00.28:080][761]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-03.00.31:707][155]LogSlate: Window '1M_Cube_DM' being destroyed
+[2019.10.02-03.00.31:737][155]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-03.00.32:615][258]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-03.00.36:914][771]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-03.00.38:690][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.10.02-03.00.38:696][980]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-03.00.38:702][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/CubeMaterial" FILE="../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/CubeMaterial.uasset" SILENT=true
+[2019.10.02-03.00.38:719][980]LogSavePackage: Moving '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Saved/CubeMaterial0EE4B4F74115A4C03C388FA749D567DF.tmp' to '../../../../../../Users/u1273592/Documents/Screeching-Tiger/RollingTest/Content/Geometry/Meshes/CubeMaterial.uasset'
+[2019.10.02-03.00.39:926][122]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-03.00.41:691][332]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-03.00.49:798][332]LogSlate: Window 'Save Level As' being destroyed
+[2019.10.02-03.00.51:744][540]LogSlate: FSceneViewport::OnFocusLost() reason 5
