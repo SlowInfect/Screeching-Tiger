@@ -1,0 +1,1259 @@
+﻿Log file open, 10/01/19 14:01:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RollingTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.065640
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=DanceMacob -epicuserid=67340f9aca054cfd99abc844b5ad9550 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.01-20.01.02:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.01-20.01.02:991][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.01-20.01.02:992][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.01-20.01.02:992][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.01-20.01.02:992][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.01-20.01.02:995][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.01-20.01.02:995][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:995][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.01-20.01.02:996][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.01-20.01.02:996][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.01-20.01.02:996][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.01-20.01.02:998][  0]LogHAL: Display: Platform has ~ 32 GB [34198396928 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.01-20.01.02:998][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.01-20.01.02:998][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:998][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.01-20.01.02:998][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.01-20.01.02:998][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:998][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.01-20.01.02:998][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:998][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.01-20.01.02:998][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.01-20.01.02:998][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.01-20.01.02:999][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.01-20.01.03:000][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.01-20.01.03:000][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.01-20.01.03:000][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.01-20.01.03:000][  0]LogInit: Computer: USER-PC
+[2019.10.01-20.01.03:000][  0]LogInit: User: User
+[2019.10.01-20.01.03:000][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.01-20.01.03:000][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.01-20.01.03:000][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.10.01-20.01.03:000][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.01-20.01.03:000][  0]LogMemory: Process Physical Memory: 102.71 MB used, 102.71 MB peak
+[2019.10.01-20.01.03:000][  0]LogMemory: Process Virtual Memory: 103.01 MB used, 103.01 MB peak
+[2019.10.01-20.01.03:000][  0]LogMemory: Physical Memory: 14540.95 MB used,  18073.18 MB free, 32614.13 MB total
+[2019.10.01-20.01.03:000][  0]LogMemory: Virtual Memory: 4688.05 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.10.01-20.01.03:002][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.01-20.01.03:018][  0]LogInit: Using OS detected language (en-US).
+[2019.10.01-20.01.03:018][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.01-20.01.03:019][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.01-20.01.03:175][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.01-20.01.03:207][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.01-20.01.03:208][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.01-20.01.03:359][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.01-20.01.03:359][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.01-20.01.03:408][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (Feature Level 11_0)
+[2019.10.01-20.01.03:408][  0]LogD3D11RHI:       8081/0/16307 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.01-20.01.03:420][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.01-20.01.03:420][  0]LogD3D11RHI:       128/0/16307 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.01-20.01.03:422][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.01-20.01.03:422][  0]LogD3D11RHI:       0/0/16307 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.01-20.01.03:422][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.01-20.01.03:452][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.01-20.01.03:452][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.01-20.01.03:452][  0]LogWindows: EnumDisplayDevices:
+[2019.10.01-20.01.03:452][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.10.01-20.01.03:453][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.01-20.01.03:453][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.01-20.01.03:453][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.10.01-20.01.03:453][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.10.01-20.01.03:453][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.10.01-20.01.03:454][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.10.01-20.01.03:454][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.10.01-20.01.03:454][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 with Max-Q Design
+[2019.10.01-20.01.03:454][  0]LogD3D11RHI:   Driver Version: 419.17 (internal:25.21.14.1917, unified:419.17)
+[2019.10.01-20.01.03:454][  0]LogD3D11RHI:      Driver Date: 2-20-2019
+[2019.10.01-20.01.03:454][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.10.01-20.01.03:485][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.01-20.01.03:496][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.01-20.01.03:773][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.01-20.01.03:780][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.01-20.01.03:787][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.01-20.01.03:796][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.01-20.01.03:804][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.01-20.01.03:812][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.01-20.01.03:820][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.01-20.01.03:828][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.01-20.01.03:832][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.01-20.01.03:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.01-20.01.03:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.01-20.01.03:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.01-20.01.03:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.01-20.01.03:865][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.01-20.01.03:867][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.01-20.01.03:883][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.01-20.01.03:883][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.01-20.01.03:895][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.01-20.01.03:895][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.01-20.01.03:902][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.01-20.01.03:908][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.01-20.01.03:914][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.01-20.01.03:921][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.01-20.01.03:942][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.01-20.01.03:942][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.01-20.01.03:942][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.01-20.01.03:950][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.01-20.01.04:000][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Intermediate/Shaders/WorkingDirectory/1640/).
+[2019.10.01-20.01.04:000][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/7A3C72014ADE40EB2518919D5E1398DF/'.
+[2019.10.01-20.01.04:002][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.01-20.01.04:002][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.01-20.01.04:002][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.01-20.01.04:558][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.01-20.01.04:603][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/User/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.01-20.01.04:603][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.01-20.01.04:603][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.01-20.01.04:603][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.01-20.01.04:603][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.01-20.01.04:603][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.01-20.01.04:613][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.01-20.01.04:613][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.01-20.01.04:614][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.01-20.01.04:615][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.01-20.01.04:615][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.01-20.01.04:615][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.01-20.01.04:635][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.01-20.01.04:637][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.01-20.01.04:638][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.01-20.01.04:693][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2019.10.01-20.01.04:920][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.01-20.01.05:052][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.01-20.01.05:052][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.01-20.01.05:052][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.01-20.01.05:052][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.01-20.01.05:052][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.01-20.01.05:061][  0]LogNetVersion: RollingTest 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2953011573)
+[2019.10.01-20.01.05:423][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.046575 seconds
+[2019.10.01-20.01.05:429][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.01-20.01.05:429][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.01-20.01.05:429][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.01-20.01.06:155][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.01-20.01.06:157][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.01-20.01.06:202][  0]SourceControl: Source control is disabled
+[2019.10.01-20.01.06:202][  0]SourceControl: Source control is disabled
+[2019.10.01-20.01.06:203][  0]SourceControl: Source control is disabled
+[2019.10.01-20.01.06:204][  0]SourceControl: Source control is disabled
+[2019.10.01-20.01.06:301][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.01-20.01.06:464][  0]LogOcInput: OculusInput pre-init called
+[2019.10.01-20.01.06:469][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.01-20.01.06:469][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.01-20.01.06:531][  0]LogEngine: Initializing Engine...
+[2019.10.01-20.01.06:531][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.01-20.01.06:532][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.01-20.01.06:732][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.01-20.01.06:747][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.01-20.01.06:768][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.01.06:812][  0]LogInit: FAudioDevice initialized.
+[2019.10.01-20.01.06:812][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.01-20.01.06:857][  0]LogDerivedDataCache: Saved boot cache 0.04s 73MB C:/Users/User/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.01-20.01.06:864][  0]LogInit: Texture streaming: Enabled
+[2019.10.01-20.01.06:881][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.01-20.01.06:935][  0]LogInit: Transaction tracking system initialized
+[2019.10.01-20.01.06:963][  0]BlueprintLog: New page: Editor Load
+[2019.10.01-20.01.07:036][  0]LocalizationService: Localization service is disabled
+[2019.10.01-20.01.07:230][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/ as it will conflict with another watching ../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/.
+[2019.10.01-20.01.07:246][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/' took 0.01s
+[2019.10.01-20.01.07:246][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.01-20.01.07:246][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.01-20.01.07:402][  0]SourceControl: Source control is disabled
+[2019.10.01-20.01.07:402][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Maps/RollingBPExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.01-20.01.07:406][  0]LightingResults: New page: Lighting Build
+[2019.10.01-20.01.07:408][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.01.07:409][  0]MapCheck: New page: Map Check
+[2019.10.01-20.01.07:409][  0]LightingResults: New page: Lighting Build
+[2019.10.01-20.01.07:438][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.10.01-20.01.07:879][  0]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.01-20.01.07:890][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.01-20.01.07:920][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.10.01-20.01.07:920][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.01-20.01.07:921][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2019.10.01-20.01.07:921][  0]LogFileHelpers: Loading map 'RollingBPExampleMap' took 0.518
+[2019.10.01-20.01.08:046][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.01.08:066][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.01.08:078][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.01.08:084][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.01.08:095][  0]LogCollectionManager: Loaded 0 collections in 0.002063 seconds
+[2019.10.01-20.01.08:101][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Collections/' took 0.00s
+[2019.10.01-20.01.08:101][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/Developers/User/Collections/' took 0.00s
+[2019.10.01-20.01.08:101][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/Collections/' took 0.00s
+[2019.10.01-20.01.08:101][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.10.01-20.01.08:108][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2863 classes and 680 folders.
+[2019.10.01-20.01.08:114][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.01-20.01.08:335][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.01-20.01.08:340][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.01-20.01.08:351][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.01-20.01.08:353][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.01-20.01.08:363][  0]LogSlate: Took 0.005098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.01-20.01.08:471][  0]LogRenderer: Reallocating scene render targets to support 740x392 Format 10 NumSamples 1 (Frame:1).
+[2019.10.01-20.01.08:582][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.01-20.01.08:582][  0]LogLoad: (Engine Initialization) Total time: 6.59 seconds
+[2019.10.01-20.01.08:582][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.01-20.01.08:644][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.01-20.01.08:732][  2]LogAssetRegistry: Asset discovery search completed in 4.0394 seconds
+[2019.10.01-20.01.08:735][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.10.01-20.01.08:735][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2019.10.01-20.01.09:650][ 55]LogSlate: Took 0.008600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.01-20.01.12:762][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.01.13:120][349]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.01.13:127][349]LogAssetEditorManager: Opening Asset editor for World /Game/RollingBP/Maps/Gym.Gym
+[2019.10.01-20.01.13:155][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.10.01-20.01.13:155][349]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Maps/Gym.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.01-20.01.13:155][349]LightingResults: New page: Lighting Build
+[2019.10.01-20.01.13:156][349]LoadErrors: New page: Loading map: Gym.umap
+[2019.10.01-20.01.13:158][349]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.01.13:159][349]MapCheck: New page: Map Check
+[2019.10.01-20.01.13:159][349]LightingResults: New page: Lighting Build
+[2019.10.01-20.01.13:185][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.01-20.01.13:189][349]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.01-20.01.13:217][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.10.01-20.01.13:243][349]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.01-20.01.13:243][349]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2019.10.01-20.01.13:243][349]LogFileHelpers: Loading map 'Gym' took 0.088
+[2019.10.01-20.01.18:764][750]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/PhysicsBallMike.PhysicsBallMike
+[2019.10.01-20.01.19:049][750]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.10.01-20.01.19:798][750]LogSlate: Took 0.003783 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.01-20.01.20:096][751]LogSlate: Took 0.006323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.01-20.01.55:451][532]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/FloorTrigger_Lvl.FloorTrigger_Lvl
+[2019.10.01-20.02.01:069][809]LogSlate: Took 0.003717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.01-20.02.19:048][793]BlueprintLog: New page: Compile FloorTrigger_Lvl
+[2019.10.01-20.02.19:096][793]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (IntProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.10.01-20.02.19:259][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.10.01-20.02.19:348][793]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/FloorTrigger_LvlCE7D23C340AAA549E15AD3B36BDD4358.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/FloorTrigger_Lvl.uasset'
+[2019.10.01-20.04.06:366][844]BlueprintLog: New page: Compile FloorTrigger_Lvl
+[2019.10.01-20.04.06:377][844]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FObjectReader
+[2019.10.01-20.04.06:545][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.10.01-20.04.06:620][844]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/FloorTrigger_Lvl0CEC1D0846FDD55D1FA9D99F7BF9099D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/FloorTrigger_Lvl.uasset'
+[2019.10.01-20.07.38:264][250]Cmd: TRANSACTION UNDO
+[2019.10.01-20.07.38:264][250]LogEditorTransaction: Undo Add Variable
+[2019.10.01-20.07.38:479][260]Cmd: TRANSACTION UNDO
+[2019.10.01-20.07.38:479][260]LogEditorTransaction: Undo Change Parameter Type
+[2019.10.01-20.07.38:670][268]Cmd: TRANSACTION UNDO
+[2019.10.01-20.07.38:670][268]LogEditorTransaction: Undo Change Parameter Type
+[2019.10.01-20.07.38:837][276]Cmd: TRANSACTION UNDO
+[2019.10.01-20.07.38:837][276]LogEditorTransaction: Undo Clear Children
+[2019.10.01-20.07.38:845][276]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.38:846][276]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.38:846][276]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.38:846][276]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.38:847][276]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.FloorTrigger_Lvl_C_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.01-20.07.39:013][285]Cmd: TRANSACTION UNDO
+[2019.10.01-20.07.39:013][285]LogEditorTransaction: Undo Add Child
+[2019.10.01-20.07.39:018][285]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:019][285]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:019][285]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:019][285]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:021][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.FloorTrigger_Lvl_C_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.01-20.07.39:249][297]Cmd: TRANSACTION UNDO
+[2019.10.01-20.07.39:249][297]LogEditorTransaction: Undo Add Child
+[2019.10.01-20.07.39:251][297]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:251][297]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:251][297]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:252][297]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:252][297]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.FloorTrigger_Lvl_C_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.01-20.07.39:529][312]Cmd: TRANSACTION UNDO
+[2019.10.01-20.07.39:529][312]LogEditorTransaction: Undo Add Child
+[2019.10.01-20.07.39:532][312]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:532][312]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:532][312]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:532][312]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:534][312]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.FloorTrigger_Lvl_C_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.01-20.07.39:731][323]Cmd: TRANSACTION UNDO
+[2019.10.01-20.07.39:731][323]LogEditorTransaction: Undo Add Child
+[2019.10.01-20.07.39:735][323]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:735][323]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:735][323]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:735][323]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:736][323]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.FloorTrigger_Lvl_C_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.01-20.07.39:896][332]Cmd: TRANSACTION UNDO
+[2019.10.01-20.07.39:896][332]LogEditorTransaction: Undo Add Child
+[2019.10.01-20.07.39:899][332]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:899][332]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:899][332]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:899][332]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (ArrayProperty) Current(TextProperty) for package:  FArchive
+[2019.10.01-20.07.39:900][332]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.FloorTrigger_Lvl_C_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.01-20.07.40:082][342]Cmd: TRANSACTION UNDO
+[2019.10.01-20.07.40:082][342]LogEditorTransaction: Undo Change Parameter Type
+[2019.10.01-20.07.40:092][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.FloorTrigger_Lvl_C_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.01-20.07.40:269][352]Cmd: TRANSACTION UNDO
+[2019.10.01-20.07.40:269][352]LogEditorTransaction: Undo Change Parameter Type
+[2019.10.01-20.07.40:278][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.FloorTrigger_Lvl_C_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.01-20.07.40:613][371]Cmd: TRANSACTION UNDO
+[2019.10.01-20.07.40:613][371]LogEditorTransaction: Undo Move Node
+[2019.10.01-20.08.21:182][648]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/FloorTrigger_Lvl77FAC9DF4ABC54FE9C744A91A137BC18.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/FloorTrigger_Lvl.uasset'
+[2019.10.01-20.09.08:671][825]LogHttp: Warning: 000001D113F265C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE8F4A1EA-46BE-7CE3-9777-DE9EA58F5454%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=88249ca3424af88b9452779c6ee6e8cf%7C67340f9aca054cfd99abc844b5ad9550%7C2a1384c0-1a4a-4307-8a2a-20506f405f33&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-20.09.08:671][825]LogHttp: Warning: 000001D113F265C0: request failed, libcurl error: 0 (No error)
+[2019.10.01-20.09.08:671][825]LogHttp: Warning: 000001D113F265C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1d11c917f70 [can pipeline])
+[2019.10.01-20.09.08:671][825]LogHttp: Warning: 000001D113F265C0: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2019.10.01-20.09.08:671][825]LogHttp: Warning: 000001D113F265C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.23.186.239) port 443 (#3))
+[2019.10.01-20.09.08:671][825]LogHttp: Warning: 000001D113F265C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-20.09.08:671][825]LogHttp: Warning: 000001D113F265C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-20.09.08:671][825]LogHttp: Warning: 000001D113F265C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-20.09.08:671][825]LogHttp: Warning: 000001D113F265C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-20.09.08:671][825]LogHttp: Warning: 000001D113F265C0: libcurl info message cache 7 (Closing connection 3)
+[2019.10.01-20.09.08:671][825]LogHttp: Warning: 000001D113F265C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-20.09.08:698][826]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE8F4A1EA-46BE-7CE3-9777-DE9EA58F5454%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=88249ca3424af88b9452779c6ee6e8cf%7C67340f9aca054cfd99abc844b5ad9550%7C2a1384c0-1a4a-4307-8a2a-20506f405f33&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-20.09.40:730][174]Cmd: TRANSACTION UNDO
+[2019.10.01-20.09.40:730][174]LogEditorTransaction: Undo Move Node
+[2019.10.01-20.10.01:237][ 63]LogEditorTransaction: Undo Create Pin Link
+[2019.10.01-20.13.35:811][788]BlueprintLog: New page: Compile PhysicsBallMike
+[2019.10.01-20.13.36:030][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.10.01-20.13.36:271][788]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/PhysicsBallMike94DD8EDE4AC5B992B79B689E15604309.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/PhysicsBallMike.uasset'
+[2019.10.01-20.13.39:073][966]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.13.39:095][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.13.39:096][966]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.01-20.13.39:124][966]LogPlayLevel: [PlayLevel] Compiling FloorTrigger_Lvl before play...
+[2019.10.01-20.13.39:128][966]LogClass: Warning: Type mismatch in Ability of FloorTrigger_Lvl_C - Previous (TextProperty) Current(IntProperty) for package:  FObjectReader
+[2019.10.01-20.13.39:335][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.10.01-20.13.39:335][966]LogPlayLevel: PlayLevel: Blueprint regeneration took 238 ms (1 blueprints)
+[2019.10.01-20.13.39:335][966]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:13:39 AM)
+[2019.10.01-20.13.39:336][966]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.01-20.13.39:337][966]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.13.39:353][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016155s)
+[2019.10.01-20.13.39:354][966]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.13.39:354][966]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2019.10.01-20.13.39:354][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.017432s)
+[2019.10.01-20.13.39:383][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.10.01-20.13.39:398][966]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.13.39:439][966]LogInit: FAudioDevice initialized.
+[2019.10.01-20.13.39:452][966]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.13.39:454][966]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 0) at 2019.10.01-14.13.39
+[2019.10.01-20.13.39:455][966]LogWorld: Bringing up level for play took: 0.001582
+[2019.10.01-20.13.39:455][966]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.10.01-20.13.39:465][966]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.01-20.13.39:465][966]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym 0.228
+[2019.10.01-20.13.39:465][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.13.51:485][ 77]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.13.51:485][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.13.51:485][ 77]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.13.51:485][ 77]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.13.51:506][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.13.51:506][ 77]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.13.51:558][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.13.51:578][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.10.01-20.13.51:597][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.01-20.13.53:606][187]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-20.14.12:401][  1]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/PhysicsBallMike7F59C85042467B5138CF84855A8FD3AB.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/PhysicsBallMike.uasset'
+[2019.10.01-20.14.13:422][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.14.14:326][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.14.14:473][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.10.01-20.14.14:718][116]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Gym4CE094F241F43DD749528ABFE9B9A5AC.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Maps/Gym.umap'
+[2019.10.01-20.14.17:485][364]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.14.17:505][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.14.17:505][364]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.01-20.14.17:507][364]LogPlayLevel: [PlayLevel] Compiling PhysicsBallMike before play...
+[2019.10.01-20.14.17:816][364]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2019.10.01-20.14.17:816][364]LogPlayLevel: PlayLevel: Blueprint regeneration took 311 ms (1 blueprints)
+[2019.10.01-20.14.17:816][364]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:14:17 AM)
+[2019.10.01-20.14.17:817][364]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.14.17:837][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020442s)
+[2019.10.01-20.14.17:838][364]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.14.17:838][364]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2019.10.01-20.14.17:839][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.021883s)
+[2019.10.01-20.14.17:874][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.10.01-20.14.17:889][364]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.14.17:934][364]LogInit: FAudioDevice initialized.
+[2019.10.01-20.14.17:938][364]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.14.17:940][364]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 0) at 2019.10.01-14.14.17
+[2019.10.01-20.14.17:941][364]LogWorld: Bringing up level for play took: 0.001580
+[2019.10.01-20.14.17:941][364]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.10.01-20.14.17:942][364]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym 0.705
+[2019.10.01-20.14.17:943][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.14.33:460][877]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.14.33:461][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.14.33:461][877]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.14.33:462][877]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.14.33:482][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.14.33:482][877]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.14.33:524][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.14.33:528][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.10.01-20.14.33:569][879]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.01-20.14.33:704][893]Cmd: SELECT NONE
+[2019.10.01-20.14.33:910][910]Cmd: SELECT NONE
+[2019.10.01-20.14.34:083][926]Cmd: SELECT NONE
+[2019.10.01-20.14.34:256][941]Cmd: SELECT NONE
+[2019.10.01-20.14.34:410][955]Cmd: SELECT NONE
+[2019.10.01-20.14.35:686][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.15.17:816][890]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl)
+[2019.10.01-20.15.21:089][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.15.27:598][472]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.15.27:616][472]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.15.27:616][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.15.27:616][472]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:15:27 AM)
+[2019.10.01-20.15.27:617][472]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.15.27:631][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014270s)
+[2019.10.01-20.15.27:632][472]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.15.27:632][472]LogPlayLevel: PIE: World Init took: (0.001520s)
+[2019.10.01-20.15.27:633][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.015968s)
+[2019.10.01-20.15.27:670][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.10.01-20.15.27:685][472]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.15.27:731][472]LogInit: FAudioDevice initialized.
+[2019.10.01-20.15.27:736][472]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.15.27:739][472]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 60) at 2019.10.01-14.15.27
+[2019.10.01-20.15.27:739][472]LogWorld: Bringing up level for play took: 0.001644
+[2019.10.01-20.15.27:739][472]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.10.01-20.15.27:741][472]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym 0.504
+[2019.10.01-20.15.27:741][472]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.15.45:557][540]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.15.45:557][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.15.45:557][540]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.15.45:558][540]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.15.45:605][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.15.45:605][540]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.15.45:644][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.15.45:649][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.10.01-20.15.45:671][541]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.01-20.15.57:862][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.16.02:268][449]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl)
+[2019.10.01-20.16.12:346][994]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-20.16.44:890][493]LogEditorTransaction: Undo Add Pin
+[2019.10.01-20.17.08:682][612]LogHttp: Warning: 000001D184331440: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE8F4A1EA-46BE-7CE3-9777-DE9EA58F5454%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=88249ca3424af88b9452779c6ee6e8cf%7C67340f9aca054cfd99abc844b5ad9550%7C2a1384c0-1a4a-4307-8a2a-20506f405f33&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-20.17.08:682][612]LogHttp: Warning: 000001D184331440: request failed, libcurl error: 0 (No error)
+[2019.10.01-20.17.08:682][612]LogHttp: Warning: 000001D184331440: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1d11c917f70 [can pipeline])
+[2019.10.01-20.17.08:682][612]LogHttp: Warning: 000001D184331440: libcurl info message cache 1 (Re-using existing connection! (#7) with host datarouter.ol.epicgames.com)
+[2019.10.01-20.17.08:682][612]LogHttp: Warning: 000001D184331440: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.86.156.38) port 443 (#7))
+[2019.10.01-20.17.08:682][612]LogHttp: Warning: 000001D184331440: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-20.17.08:682][612]LogHttp: Warning: 000001D184331440: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-20.17.08:682][612]LogHttp: Warning: 000001D184331440: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-20.17.08:682][612]LogHttp: Warning: 000001D184331440: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-20.17.08:682][612]LogHttp: Warning: 000001D184331440: libcurl info message cache 7 (Closing connection 7)
+[2019.10.01-20.17.08:682][612]LogHttp: Warning: 000001D184331440: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-20.17.08:682][612]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE8F4A1EA-46BE-7CE3-9777-DE9EA58F5454%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=88249ca3424af88b9452779c6ee6e8cf%7C67340f9aca054cfd99abc844b5ad9550%7C2a1384c0-1a4a-4307-8a2a-20506f405f33&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-20.19.08:350][145]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/PhysicsBallMike507C0B704D09680640E482AF2223C765.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/PhysicsBallMike.uasset'
+[2019.10.01-20.19.08:839][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.19.08:911][168]BlueprintLog: New page: Compile PhysicsBallMike
+[2019.10.01-20.19.09:234][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.10.01-20.19.12:788][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.19.12:870][344]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.19.12:889][344]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.19.12:889][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.19.12:889][344]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:19:12 AM)
+[2019.10.01-20.19.12:890][344]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.19.12:907][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017344s)
+[2019.10.01-20.19.12:908][344]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.19.12:909][344]LogPlayLevel: PIE: World Init took: (0.001468s)
+[2019.10.01-20.19.12:909][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.018981s)
+[2019.10.01-20.19.12:948][344]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.10.01-20.19.12:964][344]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.19.13:012][344]LogInit: FAudioDevice initialized.
+[2019.10.01-20.19.13:020][344]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.19.13:022][344]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 60) at 2019.10.01-14.19.13
+[2019.10.01-20.19.13:022][344]LogWorld: Bringing up level for play took: 0.001629
+[2019.10.01-20.19.13:022][344]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.10.01-20.19.13:024][344]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym -0.213
+[2019.10.01-20.19.13:024][344]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.19.26:873][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.19.26:873][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.19.26:873][174]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.19.26:873][174]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.19.26:915][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.19.26:915][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.19.26:956][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.19.26:960][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.10.01-20.19.26:979][175]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.01-20.19.28:904][248]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-20.19.46:650][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.19.46:670][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.19.46:670][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.19.46:671][ 12]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:19:46 AM)
+[2019.10.01-20.19.46:671][ 12]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.19.46:688][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017276s)
+[2019.10.01-20.19.46:689][ 12]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.19.46:689][ 12]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2019.10.01-20.19.46:689][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.018402s)
+[2019.10.01-20.19.46:733][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.10.01-20.19.46:748][ 12]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.19.46:794][ 12]LogInit: FAudioDevice initialized.
+[2019.10.01-20.19.46:803][ 12]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.19.46:806][ 12]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 60) at 2019.10.01-14.19.46
+[2019.10.01-20.19.46:806][ 12]LogWorld: Bringing up level for play took: 0.002368
+[2019.10.01-20.19.46:806][ 12]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.10.01-20.19.46:808][ 12]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym -0.429
+[2019.10.01-20.19.46:808][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.19.48:615][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.19.48:653][ 86]LogRenderer: Reallocating scene render targets to support 900x540 Format 10 NumSamples 1 (Frame:1).
+[2019.10.01-20.20.06:669][876]LogSlate: Window 'FloorTrigger_Lvl' being destroyed
+[2019.10.01-20.20.06:678][876]LogSlate: Window 'FloorTrigger_Lvl' being destroyed
+[2019.10.01-20.20.06:699][876]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.20.06:797][876]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.01-20.20.06:797][876]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.20.08:691][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.20.16:116][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.20.16:117][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.20.16:117][432]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.20.16:117][432]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.20.16:127][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.20.16:127][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.20.16:168][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.20.16:189][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.10.01-20.20.16:229][434]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.01-20.20.18:663][501]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-20.20.23:386][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.20.23:620][788]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/PhysicsBallMike.PhysicsBallMike
+[2019.10.01-20.21.20:997][557]BlueprintLog: New page: Compile PhysicsBallMike
+[2019.10.01-20.21.21:019][557]LogBlueprint: Warning: [Compiler PhysicsBallMike] 'Floor Trigger Lvl' does not inherit from 'Primitive Component' ( Cast To FloorTrigger_Lvl  would always fail).
+[2019.10.01-20.21.21:285][557]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.10.01-20.21.21:553][557]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/PhysicsBallMike5512A2A54688B21593C585A99C3BBF2B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/PhysicsBallMike.uasset'
+[2019.10.01-20.21.46:667][794]BlueprintLog: New page: Compile PhysicsBallMike
+[2019.10.01-20.21.46:880][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.10.01-20.21.47:154][794]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/PhysicsBallMike72AD3FC441CC6A7C11D0FBA4FE08FA1A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/PhysicsBallMike.uasset'
+[2019.10.01-20.24.46:369][521]BlueprintLog: New page: Compile PhysicsBallMike
+[2019.10.01-20.24.46:573][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.10.01-20.24.46:798][521]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/PhysicsBallMike30600CBB4ACD2BF8AAB0B4B5E333482D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/PhysicsBallMike.uasset'
+[2019.10.01-20.25.18:537][992]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/PhysicsBallMike9B7301674C14F2AC4C08ABA03F083912.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/PhysicsBallMike.uasset'
+[2019.10.01-20.25.20:133][ 68]BlueprintLog: New page: Compile PhysicsBallMike
+[2019.10.01-20.25.20:338][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.10.01-20.25.28:876][501]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.25.28:897][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.25.28:897][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.25.28:897][501]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:25:28 AM)
+[2019.10.01-20.25.28:897][501]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.25.28:911][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013124s)
+[2019.10.01-20.25.28:912][501]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.25.28:912][501]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2019.10.01-20.25.28:912][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.014260s)
+[2019.10.01-20.25.28:939][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.10.01-20.25.28:954][501]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.25.28:992][501]LogInit: FAudioDevice initialized.
+[2019.10.01-20.25.29:000][501]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.25.29:002][501]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 60) at 2019.10.01-14.25.29
+[2019.10.01-20.25.29:003][501]LogWorld: Bringing up level for play took: 0.001431
+[2019.10.01-20.25.29:003][501]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.10.01-20.25.29:004][501]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym -0.232
+[2019.10.01-20.25.29:005][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.25.44:587][435]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.25.44:587][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.25.44:587][435]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.25.44:587][435]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.25.44:628][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.25.44:628][435]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.25.44:659][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.25.44:663][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.10.01-20.25.44:706][437]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.01-20.25.46:553][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.25.47:338][592]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/FloorTrigger_Lvl.FloorTrigger_Lvl
+[2019.10.01-20.26.01:268][247]LogEditorTransaction: Undo Add Component
+[2019.10.01-20.26.02:947][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-20.26.06:215][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-20.26.09:653][633]LogEditorTransaction: Undo Add Component
+[2019.10.01-20.26.12:725][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-20.26.24:394][347]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-20.26.36:249][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.27.27:500][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.27.27:581][414]BlueprintLog: New page: Compile FloorTrigger_Lvl
+[2019.10.01-20.27.27:795][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.10.01-20.27.27:892][414]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/FloorTrigger_Lvl3BF3A24446B4BD235D6CF793480A6423.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/FloorTrigger_Lvl.uasset'
+[2019.10.01-20.28.19:587][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.10.01-20.28.19:780][834]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Gym_Auto1E6A25FF940E7C11A7CD1C6B85D212BFF.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Autosaves/Game/RollingBP/Maps/Gym_Auto1.umap'
+[2019.10.01-20.28.19:784][834]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RollingBP/Maps/Gym' took 0.231
+[2019.10.01-20.28.19:784][834]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.231
+[2019.10.01-20.28.19:787][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollingBP/Blueprints/PhysicsBallMike] ([1] browsable assets)...
+[2019.10.01-20.28.19:807][834]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RollingBP/Blueprints/PhysicsBallMike.PhysicsBallMike]
+[2019.10.01-20.28.19:807][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollingBP/Blueprints/PhysicsBallMike]
+[2019.10.01-20.28.19:972][834]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/PhysicsBallMike_Auto1445AC1F64DA86BBE5A6687B06B127830.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Autosaves/Game/RollingBP/Blueprints/PhysicsBallMike_Auto1.uasset'
+[2019.10.01-20.28.19:973][834]LogFileHelpers: Auto-saving content packages took 0.187
+[2019.10.01-20.29.05:408][954]LogEditorTransaction: Undo Delete current selection
+[2019.10.01-20.30.51:948][462]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/FloorTrigger_LvlC3EDAF004B78A3FB96CD1BA536A8CB9D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/FloorTrigger_Lvl.uasset'
+[2019.10.01-20.31.06:101][176]BlueprintLog: New page: Compile FloorTrigger_Lvl
+[2019.10.01-20.31.06:105][176]LogBlueprint: Warning: [Compiler FloorTrigger_Lvl] Could not find a variable named "CanAbility" in 'FloorTrigger_Lvl_C'.
+Make sure 'FloorTrigger_Lvl_C' has been compiled for  Set CanAbility
+[2019.10.01-20.31.06:105][176]LogBlueprint: Error: [Compiler FloorTrigger_Lvl] Variable node  Get Ability  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.10.01-20.31.06:105][176]LogBlueprint: Error: [Compiler FloorTrigger_Lvl] The property associated with  Can Ability  could not be found in '/Game/RollingBP/Blueprints/FloorTrigger_Lvl.FloorTrigger_Lvl_C'
+[2019.10.01-20.31.06:291][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.10.01-20.31.06:356][176]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/FloorTrigger_Lvl1B3AD7924E7CA2DE0876E091D3474EB7.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/FloorTrigger_Lvl.uasset'
+[2019.10.01-20.31.08:472][274]BlueprintLog: New page: Compile PhysicsBallMike
+[2019.10.01-20.31.08:721][274]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.10.01-20.31.08:983][274]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/PhysicsBallMike58EEFD4D4A555C339E763080230A444B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/PhysicsBallMike.uasset'
+[2019.10.01-20.31.15:465][556]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.31.15:485][556]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.31.15:485][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.31.15:485][556]BlueprintLog: Warning: Blueprint failed to compile:  FloorTrigger_Lvl
+[2019.10.01-20.31.15:499][556]LogCustomDialog: Dialog displayed:
+[2019.10.01-20.31.33:060][556]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.10.01-20.31.33:066][556]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:31:33 AM)
+[2019.10.01-20.31.33:066][556]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.31.33:081][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014910s)
+[2019.10.01-20.31.33:082][556]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.31.33:082][556]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2019.10.01-20.31.33:082][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.016316s)
+[2019.10.01-20.31.33:120][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.10.01-20.31.33:134][556]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.31.33:174][556]LogInit: FAudioDevice initialized.
+[2019.10.01-20.31.33:181][556]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.31.33:184][556]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 60) at 2019.10.01-14.31.33
+[2019.10.01-20.31.33:184][556]LogWorld: Bringing up level for play took: 0.001494
+[2019.10.01-20.31.33:184][556]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.10.01-20.31.33:186][556]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym 17.948
+[2019.10.01-20.31.33:186][556]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.31.54:392][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.31.54:392][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.31.54:393][693]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.31.54:393][693]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.31.54:447][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.31.54:447][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.31.54:483][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.31.54:486][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.10.01-20.31.54:510][694]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.10.01-20.32.15:920][845]LogEditorTransaction: Undo Create Pin Link
+[2019.10.01-20.32.59:285][185]BlueprintLog: New page: Compile FloorTrigger_Lvl
+[2019.10.01-20.32.59:289][185]LogBlueprint: Warning: [Compiler FloorTrigger_Lvl] Could not find a variable named "CanAbility" in 'FloorTrigger_Lvl_C'.
+Make sure 'FloorTrigger_Lvl_C' has been compiled for  Set CanAbility
+[2019.10.01-20.32.59:289][185]LogBlueprint: Error: [Compiler FloorTrigger_Lvl] Default value '' for  Can Ability  is invalid: 'Array inputs (like 'Can Ability') must have an input wired into them (try connecting a MakeArray node).'
+[2019.10.01-20.32.59:463][185]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.10.01-20.32.59:530][185]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/FloorTrigger_Lvl49FFCA7E484CB824983CFAA2CE16F06E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/FloorTrigger_Lvl.uasset'
+[2019.10.01-20.38.05:566][601]BlueprintLog: New page: Compile FloorTrigger_Lvl
+[2019.10.01-20.38.05:746][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.10.01-20.38.05:817][601]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/FloorTrigger_Lvl140E877A40AD9C12E89D29BD20227096.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/FloorTrigger_Lvl.uasset'
+[2019.10.01-20.38.27:305][676]BlueprintLog: New page: Compile FloorTrigger_Lvl
+[2019.10.01-20.38.27:491][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.10.01-20.38.27:562][676]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/FloorTrigger_Lvl68714E484C1D46347C63F3BEE19512EE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/FloorTrigger_Lvl.uasset'
+[2019.10.01-20.38.33:986][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.38.34:004][ 16]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.38.34:004][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.38.34:004][ 16]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:38:34 AM)
+[2019.10.01-20.38.34:004][ 16]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.38.34:021][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016911s)
+[2019.10.01-20.38.34:022][ 16]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.38.34:022][ 16]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2019.10.01-20.38.34:022][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.018327s)
+[2019.10.01-20.38.34:061][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.10.01-20.38.34:078][ 16]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.38.34:123][ 16]LogInit: FAudioDevice initialized.
+[2019.10.01-20.38.34:129][ 16]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.38.34:132][ 16]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 60) at 2019.10.01-14.38.34
+[2019.10.01-20.38.34:133][ 16]LogWorld: Bringing up level for play took: 0.002366
+[2019.10.01-20.38.34:133][ 16]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.10.01-20.38.34:135][ 16]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym 0.898
+[2019.10.01-20.38.34:135][ 16]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.38.45:684][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.38.45:685][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.38.45:685][708]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.38.45:685][708]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.38.45:732][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.38.45:732][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.38.45:771][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.38.45:775][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.10.01-20.38.45:793][709]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.10.01-20.38.50:492][909]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-20.38.56:173][170]BlueprintLog: New page: Compile FloorTrigger_Lvl
+[2019.10.01-20.38.56:363][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.10.01-20.38.56:431][170]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/FloorTrigger_Lvl22C9151A4A095ADE1CF8AC86C1EC3456.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/FloorTrigger_Lvl.uasset'
+[2019.10.01-20.38.57:451][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.38.59:657][351]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl)
+[2019.10.01-20.39.10:952][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.39.14:366][230]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.39.14:385][230]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.39.14:385][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.39.14:385][230]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:39:14 AM)
+[2019.10.01-20.39.14:385][230]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.39.14:400][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014547s)
+[2019.10.01-20.39.14:401][230]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.39.14:401][230]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2019.10.01-20.39.14:401][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.015693s)
+[2019.10.01-20.39.14:433][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.10.01-20.39.14:449][230]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.39.14:496][230]LogInit: FAudioDevice initialized.
+[2019.10.01-20.39.14:506][230]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.39.14:508][230]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 60) at 2019.10.01-14.39.14
+[2019.10.01-20.39.14:509][230]LogWorld: Bringing up level for play took: 0.001717
+[2019.10.01-20.39.14:509][230]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.10.01-20.39.14:510][230]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym -0.726
+[2019.10.01-20.39.14:511][230]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.39.29:757][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.39.29:758][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.39.29:758][144]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.39.29:758][144]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.39.29:775][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.39.29:776][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.39.29:811][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.39.29:815][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.10.01-20.39.29:866][147]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.01-20.39.31:186][226]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl)
+[2019.10.01-20.39.33:787][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.39.36:472][541]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl)
+[2019.10.01-20.39.37:523][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.39.37:606][608]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.39.37:624][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.39.37:624][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.39.37:624][608]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:39:37 AM)
+[2019.10.01-20.39.37:625][608]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.39.37:642][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017109s)
+[2019.10.01-20.39.37:643][608]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.39.37:643][608]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2019.10.01-20.39.37:643][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.018389s)
+[2019.10.01-20.39.37:684][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.10.01-20.39.37:702][608]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.39.37:747][608]LogInit: FAudioDevice initialized.
+[2019.10.01-20.39.37:750][608]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.39.37:752][608]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 60) at 2019.10.01-14.39.37
+[2019.10.01-20.39.37:752][608]LogWorld: Bringing up level for play took: 0.001702
+[2019.10.01-20.39.37:753][608]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.10.01-20.39.37:754][608]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym 0.518
+[2019.10.01-20.39.37:755][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.39.45:653][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.39.45:653][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.39.45:653][ 81]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.39.45:653][ 81]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.39.45:666][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.39.45:666][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.39.45:703][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.39.45:705][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.10.01-20.39.45:767][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.01-20.39.45:868][ 90]Cmd: SELECT NONE
+[2019.10.01-20.39.46:052][101]Cmd: SELECT NONE
+[2019.10.01-20.39.46:218][111]Cmd: SELECT NONE
+[2019.10.01-20.40.13:719][113]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-20.41.25:418][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.01-20.41.25:635][775]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Gym_Auto2CE74D07B4CA5D32C22434B9CD9B1E70F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Autosaves/Game/RollingBP/Maps/Gym_Auto2.umap'
+[2019.10.01-20.41.25:640][775]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RollingBP/Maps/Gym' took 0.249
+[2019.10.01-20.41.25:640][775]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.249
+[2019.10.01-20.41.25:642][775]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollingBP/Blueprints/FloorTrigger_Lvl] ([1] browsable assets)...
+[2019.10.01-20.41.25:651][775]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RollingBP/Blueprints/FloorTrigger_Lvl.FloorTrigger_Lvl]
+[2019.10.01-20.41.25:651][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollingBP/Blueprints/FloorTrigger_Lvl]
+[2019.10.01-20.41.25:677][775]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/FloorTrigger_Lvl_Auto205D9FB844E16BE77D793D4BD6AE2A1C2.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Autosaves/Game/RollingBP/Blueprints/FloorTrigger_Lvl_Auto2.uasset'
+[2019.10.01-20.41.25:678][775]LogFileHelpers: Auto-saving content packages took 0.036
+[2019.10.01-20.41.28:394][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.43.15:936][327]LogEditorTransaction: Undo Move Node
+[2019.10.01-20.43.27:021][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.45.08:672][360]LogHttp: Warning: 000001D1BED3A5C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE8F4A1EA-46BE-7CE3-9777-DE9EA58F5454%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=88249ca3424af88b9452779c6ee6e8cf%7C67340f9aca054cfd99abc844b5ad9550%7C2a1384c0-1a4a-4307-8a2a-20506f405f33&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-20.45.08:672][360]LogHttp: Warning: 000001D1BED3A5C0: request failed, libcurl error: 0 (No error)
+[2019.10.01-20.45.08:672][360]LogHttp: Warning: 000001D1BED3A5C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1d11c917f70 [can pipeline])
+[2019.10.01-20.45.08:672][360]LogHttp: Warning: 000001D1BED3A5C0: libcurl info message cache 1 (Re-using existing connection! (#25) with host datarouter.ol.epicgames.com)
+[2019.10.01-20.45.08:672][360]LogHttp: Warning: 000001D1BED3A5C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.200.58.248) port 443 (#25))
+[2019.10.01-20.45.08:672][360]LogHttp: Warning: 000001D1BED3A5C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-20.45.08:672][360]LogHttp: Warning: 000001D1BED3A5C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-20.45.08:672][360]LogHttp: Warning: 000001D1BED3A5C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-20.45.08:672][360]LogHttp: Warning: 000001D1BED3A5C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-20.45.08:672][360]LogHttp: Warning: 000001D1BED3A5C0: libcurl info message cache 7 (Closing connection 25)
+[2019.10.01-20.45.08:672][360]LogHttp: Warning: 000001D1BED3A5C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-20.45.08:690][361]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE8F4A1EA-46BE-7CE3-9777-DE9EA58F5454%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=88249ca3424af88b9452779c6ee6e8cf%7C67340f9aca054cfd99abc844b5ad9550%7C2a1384c0-1a4a-4307-8a2a-20506f405f33&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-20.45.53:075][797]BlueprintLog: New page: Compile FloorTrigger_Lvl
+[2019.10.01-20.45.53:274][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.10.01-20.45.53:357][797]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/FloorTrigger_Lvl7315A31E41FBE2D9EC88B083349FA78C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/FloorTrigger_Lvl.uasset'
+[2019.10.01-20.45.54:494][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.46.44:100][ 33]LogEditorTransaction: Undo Move Node
+[2019.10.01-20.46.48:472][182]LogEditorTransaction: Undo Paste clipboard contents
+[2019.10.01-20.46.58:822][534]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/RollingBP/Blueprints/PhysicsBallMike.PhysicsBallMike:EventGraph.K2Node_CallFunction_19 or K2Node_CallFunction /Game/RollingBP/Blueprints/PhysicsBallMike.PhysicsBallMike:EventGraph.K2Node_CallFunction_19
+[2019.10.01-20.47.00:144][575]LogEditorTransaction: Undo Paste clipboard contents
+[2019.10.01-20.47.03:363][667]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/RollingBP/Blueprints/PhysicsBallMike.PhysicsBallMike:EventGraph.K2Node_CallFunction_19 or K2Node_CallFunction /Game/RollingBP/Blueprints/PhysicsBallMike.PhysicsBallMike:EventGraph.K2Node_CallFunction_19
+[2019.10.01-20.47.03:363][667]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/RollingBP/Blueprints/PhysicsBallMike.PhysicsBallMike:EventGraph.K2Node_CallFunction_19 or K2Node_CallFunction /Game/RollingBP/Blueprints/PhysicsBallMike.PhysicsBallMike:EventGraph.K2Node_CallFunction_19
+[2019.10.01-20.47.03:364][667]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/RollingBP/Blueprints/PhysicsBallMike.PhysicsBallMike:EventGraph.K2Node_CallFunction_19 or K2Node_CallFunction /Game/RollingBP/Blueprints/PhysicsBallMike.PhysicsBallMike:EventGraph.K2Node_CallFunction_19
+[2019.10.01-20.47.59:065][298]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/PhysicsBallMikeCF284D7A4DE43E6D0ED9C09A4120D6D8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Blueprints/PhysicsBallMike.uasset'
+[2019.10.01-20.48.02:019][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.48.09:589][745]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl)
+[2019.10.01-20.48.12:834][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.48.12:884][940]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.48.12:905][940]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.48.12:905][940]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.01-20.48.12:911][940]LogPlayLevel: [PlayLevel] Compiling PhysicsBallMike before play...
+[2019.10.01-20.48.13:233][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.10.01-20.48.13:233][940]LogPlayLevel: PlayLevel: Blueprint regeneration took 327 ms (1 blueprints)
+[2019.10.01-20.48.13:233][940]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:48:13 AM)
+[2019.10.01-20.48.13:233][940]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.48.13:253][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019956s)
+[2019.10.01-20.48.13:255][940]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.48.13:255][940]LogPlayLevel: PIE: World Init took: (0.001526s)
+[2019.10.01-20.48.13:255][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.021667s)
+[2019.10.01-20.48.13:294][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.10.01-20.48.13:310][940]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.48.13:357][940]LogInit: FAudioDevice initialized.
+[2019.10.01-20.48.13:368][940]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.48.13:371][940]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 60) at 2019.10.01-14.48.13
+[2019.10.01-20.48.13:371][940]LogWorld: Bringing up level for play took: 0.001852
+[2019.10.01-20.48.13:371][940]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.10.01-20.48.13:373][940]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym 0.137
+[2019.10.01-20.48.13:374][940]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.48.28:823][865]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.48.28:823][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.48.28:823][865]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.48.28:823][865]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.48.28:836][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.48.28:836][865]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.48.28:875][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.48.28:878][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.10.01-20.48.28:925][867]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.01-20.48.29:976][930]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl)
+[2019.10.01-20.48.31:118][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.48.34:040][171]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.48.34:058][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.48.34:058][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.48.34:058][171]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:48:34 AM)
+[2019.10.01-20.48.34:058][171]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.48.34:076][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017030s)
+[2019.10.01-20.48.34:077][171]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.48.34:077][171]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2019.10.01-20.48.34:077][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.018206s)
+[2019.10.01-20.48.34:116][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.10.01-20.48.34:132][171]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.48.34:176][171]LogInit: FAudioDevice initialized.
+[2019.10.01-20.48.34:181][171]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.48.34:184][171]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 60) at 2019.10.01-14.48.34
+[2019.10.01-20.48.34:184][171]LogWorld: Bringing up level for play took: 0.002064
+[2019.10.01-20.48.34:185][171]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.10.01-20.48.34:186][171]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym 0.949
+[2019.10.01-20.48.34:186][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.49.36:109][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.49.36:109][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.49.36:109][884]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.49.36:109][884]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.49.36:128][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.49.36:128][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.49.36:172][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.49.36:175][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.10.01-20.49.36:220][886]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.01-20.49.36:787][920]Cmd: SELECT NONE
+[2019.10.01-20.49.37:072][937]Cmd: SELECT NONE
+[2019.10.01-20.49.39:314][991]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-20.51.26:506][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lvl1_Wall_B)
+[2019.10.01-20.51.30:685][696]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_C (FloorTrigger_Lvl)
+[2019.10.01-20.51.31:867][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.51.35:669][993]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.51.35:686][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.51.35:687][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.51.35:687][993]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:51:35 AM)
+[2019.10.01-20.51.35:687][993]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.51.35:702][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015533s)
+[2019.10.01-20.51.35:703][993]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.51.35:704][993]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2019.10.01-20.51.35:704][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.016801s)
+[2019.10.01-20.51.35:740][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.10.01-20.51.35:757][993]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.51.35:803][993]LogInit: FAudioDevice initialized.
+[2019.10.01-20.51.35:815][993]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.51.35:817][993]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 60) at 2019.10.01-14.51.35
+[2019.10.01-20.51.35:817][993]LogWorld: Bringing up level for play took: 0.001670
+[2019.10.01-20.51.35:818][993]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.10.01-20.51.35:819][993]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym 0.583
+[2019.10.01-20.51.35:819][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.51.51:369][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.51.51:370][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.51.51:370][925]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.51.51:370][925]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.51.51:419][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.51.51:419][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.51.51:459][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.51.51:462][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.10.01-20.51.51:486][926]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.01-20.51.52:907][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-20.51.52:961][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.10.01-20.51.53:173][ 10]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Saved/Gym0C4EEAE64659DD100295B8A35397407A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Screeching Tiger/RollingTest/Content/RollingBP/Maps/Gym.umap'
+[2019.10.01-20.51.54:670][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.51.54:737][101]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-20.51.54:754][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.51.54:755][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-20.51.54:755][101]PIE: New page: PIE session: Gym (Oct 1, 2019, 8:51:54 AM)
+[2019.10.01-20.51.54:755][101]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.51.54:770][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015102s)
+[2019.10.01-20.51.54:771][101]LogAIModule: Creating AISystem for world Gym
+[2019.10.01-20.51.54:771][101]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2019.10.01-20.51.54:771][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/Gym.Gym to /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym (0.016351s)
+[2019.10.01-20.51.54:810][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.10.01-20.51.54:827][101]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-20.51.54:879][101]LogInit: FAudioDevice initialized.
+[2019.10.01-20.51.54:890][101]LogLoad: Game class is 'RollingGameMode_C'
+[2019.10.01-20.51.54:892][101]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_Gym.Gym up for play (max tick rate 60) at 2019.10.01-14.51.54
+[2019.10.01-20.51.54:892][101]LogWorld: Bringing up level for play took: 0.001609
+[2019.10.01-20.51.54:892][101]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.10.01-20.51.54:894][101]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_Gym -0.343
+[2019.10.01-20.51.54:894][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.52.00:525][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.52.00:525][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.52.00:525][438]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_Gym
+[2019.10.01-20.52.00:525][438]LogWorld: UWorld::CleanupWorld for Gym, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-20.52.00:541][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-20.52.00:541][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym' with GeneratedClass '/Game/RollingBP/Maps/Gym.Gym_C' with ClassGeneratedBy '/Game/RollingBP/Maps/Gym.Gym:PersistentLevel.Gym'
+[2019.10.01-20.52.00:581][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-20.52.00:584][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.10.01-20.52.00:624][440]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.10.01-20.52.00:758][448]Cmd: SELECT NONE
+[2019.10.01-20.52.00:959][460]Cmd: SELECT NONE
+[2019.10.01-20.52.01:117][469]Cmd: SELECT NONE
+[2019.10.01-20.52.05:736][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-20.52.28:607][813]LogUObjectArray: Warning: Other object in slot
+[2019.10.01-20.52.28:622][813]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.01-20.52.29:256][813]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.634 s
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: 
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: Stack: 
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffdef9741e9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffdef197d9a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffdef1a5fff UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe047d6c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe03d34dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe03cee057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe07c4d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe07e3c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe07c9922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe07c75738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe07c69a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe332f4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe332e26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe332f7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe332dedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe8494681d USER32.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe84946212 USER32.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe332f88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ff652ee6980 UE4Editor.exe!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ff652efa91c UE4Editor.exe!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ff652efa9fa UE4Editor.exe!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ff652f0b92c UE4Editor.exe!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ff652f0e60e UE4Editor.exe!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe84c17bd4 KERNEL32.DLL!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: [Callstack] 0x00007ffe868eced1 ntdll.dll!UnknownFunction []
+[2019.10.01-20.52.29:256][813]LogOutputDevice: Error: 
+[2019.10.01-20.52.29:268][813]LogStats:                SubmitErrorReport -  0.000 s
