@@ -1,0 +1,755 @@
+﻿Log file open, 10/03/19 01:29:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RollingTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.067324
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.03-07.29.57:804][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.03-07.29.57:804][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.03-07.29.57:804][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.03-07.29.57:810][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.03-07.29.57:810][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.03-07.29.57:811][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.03-07.29.57:811][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.03-07.29.57:811][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.03-07.29.57:814][  0]LogHAL: Display: Platform has ~ 32 GB [34297430016 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.03-07.29.57:814][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.03-07.29.57:814][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.03-07.29.57:814][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-07.29.57:815][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.03-07.29.57:815][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.03-07.29.57:815][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Config/Windows/Engine.ini]
+[2019.10.03-07.29.57:815][  0]LogInit: Computer: eae-z97-013
+[2019.10.03-07.29.57:815][  0]LogInit: User: u0974428
+[2019.10.03-07.29.57:815][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.03-07.29.57:815][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.03-07.29.57:815][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.10.03-07.29.57:815][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.03-07.29.57:815][  0]LogMemory: Process Physical Memory: 104.98 MB used, 104.98 MB peak
+[2019.10.03-07.29.57:815][  0]LogMemory: Process Virtual Memory: 90.24 MB used, 90.24 MB peak
+[2019.10.03-07.29.57:815][  0]LogMemory: Physical Memory: 7350.13 MB used,  25358.45 MB free, 32708.58 MB total
+[2019.10.03-07.29.57:815][  0]LogMemory: Virtual Memory: 4658.36 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.10.03-07.29.57:817][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.03-07.29.57:845][  0]LogInit: Using OS detected language (en-US).
+[2019.10.03-07.29.57:845][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.03-07.29.57:845][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.03-07.29.58:018][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.03-07.29.58:062][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.03-07.29.58:062][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.03-07.29.58:219][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.03-07.29.58:219][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.03-07.29.58:295][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.10.03-07.29.58:295][  0]LogD3D11RHI:       8088/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.03-07.29.58:296][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.03-07.29.58:296][  0]LogD3D11RHI:       0/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.03-07.29.58:296][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.03-07.29.58:303][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.03-07.29.58:303][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.03-07.29.58:303][  0]LogWindows: EnumDisplayDevices:
+[2019.10.03-07.29.58:303][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.10.03-07.29.58:303][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.10.03-07.29.58:303][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.03-07.29.58:304][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.03-07.29.58:304][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.03-07.29.58:304][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.10.03-07.29.58:304][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.10.03-07.29.58:304][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.10.03-07.29.58:304][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.10.03-07.29.58:341][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.03-07.29.58:353][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.03-07.29.58:698][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.03-07.29.58:707][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.03-07.29.58:715][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.03-07.29.58:724][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.03-07.29.58:733][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.03-07.29.58:742][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.03-07.29.58:750][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.03-07.29.58:759][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.03-07.29.58:763][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.03-07.29.58:794][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.03-07.29.58:795][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.03-07.29.58:795][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.03-07.29.58:796][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.03-07.29.58:814][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.03-07.29.58:814][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.03-07.29.58:828][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.03-07.29.58:828][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.03-07.29.58:835][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.03-07.29.58:843][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.03-07.29.58:850][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.03-07.29.58:857][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.03-07.29.58:882][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.03-07.29.58:882][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.03-07.29.58:882][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.03-07.29.58:891][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.03-07.29.58:942][  0]LogShaderCompilers: Guid format shader working directory is -61 characters bigger than the processId version (../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Intermediate/Shaders/WorkingDirectory/15196/).
+[2019.10.03-07.29.58:942][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u0974428/AppData/Local/Temp/UnrealShaderWorkingDir/7AD7EEA646DE61FE9D72DEB3E88F4EA5/'.
+[2019.10.03-07.29.58:945][  0]LogXGEController: Cleaning working directory: C:/Users/u0974428/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.03-07.29.58:945][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.03-07.29.58:945][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.03-07.29.58:945][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.03-07.29.59:508][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.03-07.29.59:561][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/u0974428/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.03-07.29.59:561][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u0974428/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.03-07.29.59:561][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.03-07.29.59:561][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.03-07.29.59:561][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.03-07.29.59:561][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.03-07.29.59:571][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.03-07.29.59:571][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.03-07.29.59:571][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.03-07.29.59:572][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u0974428/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.03-07.29.59:572][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.03-07.29.59:572][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.03-07.29.59:591][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.03-07.29.59:593][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.03-07.29.59:593][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.03-07.29.59:644][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2019.10.03-07.29.59:916][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.03-07.30.00:057][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.03-07.30.00:057][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.03-07.30.00:057][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.03-07.30.00:057][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.03-07.30.00:057][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.03-07.30.00:066][  0]LogNetVersion: RollingTest 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2953011573)
+[2019.10.03-07.30.00:453][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.053736 seconds
+[2019.10.03-07.30.00:459][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.03-07.30.00:459][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.03-07.30.00:459][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.03-07.30.01:264][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.03-07.30.01:266][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.03-07.30.01:330][  0]SourceControl: Source control is disabled
+[2019.10.03-07.30.01:330][  0]SourceControl: Source control is disabled
+[2019.10.03-07.30.01:331][  0]SourceControl: Source control is disabled
+[2019.10.03-07.30.01:332][  0]SourceControl: Source control is disabled
+[2019.10.03-07.30.01:420][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.03-07.30.01:597][  0]LogOcInput: OculusInput pre-init called
+[2019.10.03-07.30.01:605][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.03-07.30.01:605][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.03-07.30.01:669][  0]LogEngine: Initializing Engine...
+[2019.10.03-07.30.01:670][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.03-07.30.01:671][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.03-07.30.01:871][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.03-07.30.01:888][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.03-07.30.01:923][  0]LogInit: XAudio2 using 'Headset Earphone (2- PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.03-07.30.01:939][  0]LogInit: FAudioDevice initialized.
+[2019.10.03-07.30.01:939][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.03-07.30.02:041][  0]LogDerivedDataCache: Saved boot cache 0.10s 73MB C:/Users/u0974428/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.03-07.30.02:049][  0]LogInit: Texture streaming: Enabled
+[2019.10.03-07.30.02:068][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.03-07.30.02:146][  0]LogInit: Transaction tracking system initialized
+[2019.10.03-07.30.02:179][  0]BlueprintLog: New page: Editor Load
+[2019.10.03-07.30.02:270][  0]LocalizationService: Localization service is disabled
+[2019.10.03-07.30.02:326][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2019.10.03-07.30.02:326][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2019.10.03-07.30.02:327][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2019.10.03-07.30.02:532][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/ as it will conflict with another watching ../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/.
+[2019.10.03-07.30.02:532][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/ as it will conflict with another watching ../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/.
+[2019.10.03-07.30.02:532][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/ as it will conflict with another watching ../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/.
+[2019.10.03-07.30.02:551][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/' took 0.01s
+[2019.10.03-07.30.02:551][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.03-07.30.02:552][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.03-07.30.02:761][  0]SourceControl: Source control is disabled
+[2019.10.03-07.30.02:847][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.03-07.35.46:574][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.10.03-07.35.46:574][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.03-07.35.46:577][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.03-07.35.46:586][  0]LightingResults: New page: Lighting Build
+[2019.10.03-07.35.46:589][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-07.35.46:590][  0]MapCheck: New page: Map Check
+[2019.10.03-07.35.46:590][  0]LightingResults: New page: Lighting Build
+[2019.10.03-07.35.46:617][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.10.03-07.35.46:912][  0]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.10.03-07.35.46:943][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.03-07.35.46:972][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.10.03-07.35.46:973][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.03-07.35.46:973][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.238ms to complete.
+[2019.10.03-07.35.46:973][  0]LogFileHelpers: Loading map 'RollingBPExampleMap' took 0.388
+[2019.10.03-07.35.47:050][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-07.35.47:065][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-07.35.47:081][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-07.35.47:089][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-07.35.47:099][  0]LogCollectionManager: Loaded 0 collections in 0.003071 seconds
+[2019.10.03-07.35.47:107][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Collections/' took 0.00s
+[2019.10.03-07.35.47:108][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/Developers/u0974428/Collections/' took 0.00s
+[2019.10.03-07.35.47:108][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/Collections/' took 0.00s
+[2019.10.03-07.35.47:108][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.10.03-07.35.47:119][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2872 classes and 685 folders.
+[2019.10.03-07.35.47:129][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.03-07.35.47:191][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.03-07.35.47:198][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.03-07.35.47:214][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.03-07.35.47:219][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.03-07.35.47:258][  0]LogRenderer: Reallocating scene render targets to support 1208x544 Format 10 NumSamples 1 (Frame:1).
+[2019.10.03-07.35.47:359][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.03-07.35.47:359][  0]LogLoad: (Engine Initialization) Total time: 350.93 seconds
+[2019.10.03-07.35.47:359][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.03-07.35.47:412][  0]LogAssetRegistry: Asset discovery search completed in 347.7676 seconds
+[2019.10.03-07.35.47:415][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.10.03-07.35.47:415][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2019.10.03-07.35.47:416][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.03-07.35.48:396][101]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.03-07.35.50:307][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-07.35.59:916][444]LogAIModule: Creating AISystem for world Gym_Jackson
+[2019.10.03-07.35.59:960][444]LogAssetEditorManager: Opening Asset editor for World /Game/RollingBP/Maps/Gym_Jackson.Gym_Jackson
+[2019.10.03-07.35.59:984][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.10.03-07.35.59:985][444]LightingResults: New page: Lighting Build
+[2019.10.03-07.35.59:986][444]LoadErrors: New page: Loading map: Gym_Jackson.umap
+[2019.10.03-07.35.59:986][444]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-07.35.59:987][444]MapCheck: New page: Map Check
+[2019.10.03-07.35.59:987][444]LightingResults: New page: Lighting Build
+[2019.10.03-07.36.00:012][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.10.03-07.36.00:047][444]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.03-07.36.00:097][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.10.03-07.36.00:139][444]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.03-07.36.00:139][444]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.224ms to complete.
+[2019.10.03-07.36.00:139][444]LogFileHelpers: Loading map 'Gym_Jackson' took 0.155
+[2019.10.03-07.37.22:020][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_906)
+[2019.10.03-07.37.24:421][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2019.10.03-07.37.26:997][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2019.10.03-07.37.28:986][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2019.10.03-07.37.29:693][627]LogEditorViewport: Clicking Background
+[2019.10.03-07.37.30:309][674]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume9)
+[2019.10.03-07.37.35:154][131]LogEditorViewport: Clicking Background
+[2019.10.03-07.37.35:736][187]LogEditorViewport: Clicking Background
+[2019.10.03-07.37.36:214][243]LogEditorViewport: Clicking Background
+[2019.10.03-07.37.40:780][721]LogEditorViewport: Clicking Background
+[2019.10.03-07.37.41:817][836]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume7)
+[2019.10.03-07.37.48:239][548]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume9)
+[2019.10.03-07.37.49:826][728]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume5)
+[2019.10.03-07.37.58:937][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2019.10.03-07.38.01:103][776]LogEditorViewport: Clicking Background
+[2019.10.03-07.38.01:750][836]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume7)
+[2019.10.03-07.38.11:254][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_328)
+[2019.10.03-07.38.14:949][970]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume6)
+[2019.10.03-07.38.28:877][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_35)
+[2019.10.03-07.38.49:528][694]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-07.38.49:804][725]LogEditorViewport: Clicking Background
+[2019.10.03-07.39.00:691][764]Cmd: TRANSACTION UNDO
+[2019.10.03-07.39.00:691][764]LogEditorTransaction: Undo Scale Actors
+[2019.10.03-07.39.06:121][391]Cmd: TRANSACTION UNDO
+[2019.10.03-07.39.06:121][391]LogEditorTransaction: Undo Scale Actors
+[2019.10.03-07.39.08:766][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2019.10.03-07.39.10:650][715]Cmd: DELETE
+[2019.10.03-07.39.10:650][715]Cmd: ACTOR DELETE
+[2019.10.03-07.39.10:663][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.10:664][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.10:664][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.10:664][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.10:664][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.10:665][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.10:665][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.10:665][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.10:684][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.03-07.39.10:685][715]LogEditorActor: Deleted 8 Actors (0.034 secs)
+[2019.10.03-07.39.17:215][181]Cmd: DELETE
+[2019.10.03-07.39.17:216][181]Cmd: ACTOR DELETE
+[2019.10.03-07.39.17:230][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:231][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:231][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:231][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:231][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:232][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:232][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:232][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:232][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:232][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:232][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:233][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:233][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:233][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:233][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:233][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:233][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:234][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:234][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:234][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:235][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:235][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:235][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:235][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:236][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:236][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.17:257][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.10.03-07.39.17:257][181]LogEditorActor: Deleted 26 Actors (0.041 secs)
+[2019.10.03-07.39.23:490][804]Cmd: DELETE
+[2019.10.03-07.39.23:490][804]Cmd: ACTOR DELETE
+[2019.10.03-07.39.23:506][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.23:506][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.23:506][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.23:506][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.23:506][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.23:507][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.23:507][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.23:508][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.23:508][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.23:508][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.23:529][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.03-07.39.23:529][804]LogEditorActor: Deleted 10 Actors (0.038 secs)
+[2019.10.03-07.39.40:719][440]Cmd: TRANSACTION UNDO
+[2019.10.03-07.39.40:719][440]LogEditorTransaction: Undo Marquee Select
+[2019.10.03-07.39.43:774][712]Cmd: DELETE
+[2019.10.03-07.39.43:774][712]Cmd: ACTOR DELETE
+[2019.10.03-07.39.43:786][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:787][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:787][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:787][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:787][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:787][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:788][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:788][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:788][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:788][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:788][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:788][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:789][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:789][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:789][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:789][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:789][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:789][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:790][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:790][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.39.43:810][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.10.03-07.39.43:810][712]LogEditorActor: Deleted 20 Actors (0.036 secs)
+[2019.10.03-07.39.48:890][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_881)
+[2019.10.03-07.39.55:212][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-07.39.55:580][783]EditorErrors: New page: Actor attachment
+[2019.10.03-07.40.10:752][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-07.40.19:498][815]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_BP_C (FloorTrigger_Lvl_5)
+[2019.10.03-07.40.47:444][411]LogHttp: Warning: 0000019404B24180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE198DA77-40C0-6CBF-C8A7-61AA7EEAF2F8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=911518c9409457159d1e02beaded6b5d%7C1ee80e60c333438ea384d1d94ad05150%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.03-07.40.47:444][411]LogHttp: Warning: 0000019404B24180: request failed, libcurl error: 0 (No error)
+[2019.10.03-07.40.47:444][411]LogHttp: Warning: 0000019404B24180: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x193da74bf70 [can pipeline])
+[2019.10.03-07.40.47:444][411]LogHttp: Warning: 0000019404B24180: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2019.10.03-07.40.47:444][411]LogHttp: Warning: 0000019404B24180: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.165.238.255) port 443 (#1))
+[2019.10.03-07.40.47:444][411]LogHttp: Warning: 0000019404B24180: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.03-07.40.47:444][411]LogHttp: Warning: 0000019404B24180: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.03-07.40.47:444][411]LogHttp: Warning: 0000019404B24180: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.03-07.40.47:444][411]LogHttp: Warning: 0000019404B24180: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.03-07.40.47:444][411]LogHttp: Warning: 0000019404B24180: libcurl info message cache 7 (Closing connection 1)
+[2019.10.03-07.40.47:444][411]LogHttp: Warning: 0000019404B24180: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.03-07.40.47:455][412]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE198DA77-40C0-6CBF-C8A7-61AA7EEAF2F8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=911518c9409457159d1e02beaded6b5d%7C1ee80e60c333438ea384d1d94ad05150%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.03-07.41.26:524][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_30)
+[2019.10.03-07.41.27:363][417]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TemplateCube_Rounded_21)
+[2019.10.03-07.41.29:539][670]Cmd: TRANSACTION UNDO
+[2019.10.03-07.41.29:539][670]LogEditorTransaction: Undo Move Actors
+[2019.10.03-07.41.30:855][819]Cmd: DELETE
+[2019.10.03-07.41.30:855][819]Cmd: ACTOR DELETE
+[2019.10.03-07.41.30:866][819]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.30:866][819]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.30:888][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.10.03-07.41.30:888][819]LogEditorActor: Deleted 2 Actors (0.033 secs)
+[2019.10.03-07.41.42:639][  3]Cmd: DELETE
+[2019.10.03-07.41.42:639][  3]Cmd: ACTOR DELETE
+[2019.10.03-07.41.42:652][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:652][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:652][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:652][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:653][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:653][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:653][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:653][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:653][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:653][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:654][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:654][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:654][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:654][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:654][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.42:675][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.03-07.41.42:675][  3]LogEditorActor: Deleted 15 Actors (0.036 secs)
+[2019.10.03-07.41.43:837][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_36)
+[2019.10.03-07.41.44:742][199]Cmd: DELETE
+[2019.10.03-07.41.44:742][199]Cmd: ACTOR DELETE
+[2019.10.03-07.41.44:755][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-07.41.44:773][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.10.03-07.41.44:774][199]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.10.03-07.41.45:489][270]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_BP_C (FloorTrigger_Lvl_6)
+[2019.10.03-07.41.54:113][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-07.42.35:348][585]LogActorFactory: Actor Factory created Shape_Wedge_B
+[2019.10.03-07.42.35:982][648]LogActorFactory: Actor Factory created Shape_Wedge_B
+[2019.10.03-07.43.03:486][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-07.43.03:736][773]LogActorFactory: Actor Factory created Shape_Wedge_B
+[2019.10.03-07.43.04:408][845]LogActorFactory: Actor Factory created Shape_Wedge_B
+[2019.10.03-07.43.05:952][ 26]Cmd: TRANSACTION UNDO
+[2019.10.03-07.43.05:952][ 26]LogEditorTransaction: Undo Create Actors
+[2019.10.03-07.43.17:950][430]LogEditorViewport: Clicking on Actor (LMB): FloorTrigger_Lvl_BP_C (FloorTrigger_Lvl_6)
+[2019.10.03-07.43.20:214][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Wedge_B2)
+[2019.10.03-07.43.26:619][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-07.43.51:112][623]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.03-07.43.52:233][753]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-07.44.00:988][794]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.03-07.44.46:265][793]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-07.44.46:296][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.10.03-07.44.46:827][793]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Gym_Jackson39976AF6466584AA6AF561AEFC59EB38.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Maps/Gym_Jackson.umap'
+[2019.10.03-07.44.57:338][648]LogEditorViewport: Clicking on Actor (LMB): MasterPhysicsBallBP_C (MasterPhysicsBallBP)
+[2019.10.03-07.45.12:887][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-07.45.12:920][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.10.03-07.45.13:407][ 42]LogSavePackage: Moving '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Saved/Gym_Jackson8EF126C448747D5B2D02D9853D51C8F3.tmp' to '../../../../../../Users/u0974428/Desktop/IDrive-Sync/Rapid Prototyping/Pair Up/Pair Up Repository/RollingTest/Content/RollingBP/Maps/Gym_Jackson.umap'
+[2019.10.03-07.45.17:974][535]LogBlueprint: Warning: [Compiler PersistentLevel.Gym] OnActorEndOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.10.03-07.45.17:975][535]LogBlueprint: Error: [Compiler PersistentLevel.Gym] Couldn't find object for bound event node  OnActorEndOverlap (None)
+[2019.10.03-07.45.18:030][535]LogAIModule: Creating AISystem for world Gym
+[2019.10.03-07.45.27:414][654]LogBlueprint: Warning: [Compiler PersistentLevel.test] OnActorEndOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.10.03-07.45.27:415][654]LogBlueprint: Error: [Compiler PersistentLevel.test] Couldn't find object for bound event node  OnActorEndOverlap (None)
+[2019.10.03-07.45.27:441][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.03-07.45.27:458][654]LogAIModule: Creating AISystem for world test
+[2019.10.03-07.45.27:461][654]LogWindows: Windows GetLastError: The operation completed successfully. (0)
